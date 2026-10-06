@@ -3,7 +3,7 @@ title: Fishing
 summary: Buy a rod and bait, find water, cast, fight the fish in, then sell it by weight. Nobody sends you; it's yours to find.
 section: jobs
 order: 5
-opens: From the start; the Large Cooler at Fishing level 7
+opens: From the start; the Spinning Rod at Fishing level 4, the Large Cooler at 7 and the Heavy Rod at 10
 tables: [fish]
 ---
 
@@ -14,17 +14,18 @@ charge you for it. Weights and lengths in game follow your **Measurement System*
 
 Two Bait & Tackle shops sell everything: **Crusty Seaman Fishing Tackle** on Del Perro Pier, and **Millar's Fishery
 Co.** on the Alamo Sea shore near Grapeseed. Both show on the map. Press <kbd>Y</kbd> on the marker. Everything is
-always in stock, and 6% tax goes on top. You can carry one of each rod, up to 50 of each bait, 5 of each pot, 10 repair
+always in stock, and 6% tax goes on top. Gear your Fishing level hasn't reached shows **LEVEL** and the level it needs in
+red, and anything you can carry only one of (a rod, a cooler, the licence, a boat upgrade) is bought in one press. You can carry one of each rod, up to 50 of each bait, 5 of each pot, 10 repair
 kits, and one of each cooler and the licence.
 
 | Item | Price | Notes |
 | --- | --- | --- |
-| Light / Spinning / Heavy Rod | $180 / $650 / $1,800 | 120 / 180 / 240 casts; rated for 4 / 15 / 80 lb (1.8 / 6.8 / 36 kg) |
+| Light / Spinning / Heavy Rod | $180 / $650 / $1,800 | 120 / 180 / 240 casts; rated for 4 / 15 / 80 lb (1.8 / 6.8 / 36 kg). The Spinning Rod needs Fishing 4 and the Heavy Rod Fishing 10 |
 | Sandworm, Ghost Shrimp | $8 | One bait a cast, up to 50 carried |
 | Frozen Mackerel / Cut Squid / Frozen Anchovy or Sardine / Pellets | $7 / $6 / $5 / $4 | All shop baits work the same |
 | Crab Pot / Lobster Hoop / Finfish Trap | $550 / $700 / $450 | |
 | Rod Repair Kit | $120 | +45 condition on your most worn rod. If no rod is worn, you're told there's nothing to fix and the kit is kept |
-| Small / Large Cooler | $400 / $1,100 | Carry more fish; the Large needs Fishing 7, and is refused below it |
+| Small / Large Cooler | $4,000 / $10,000 | Carry more fish; the Large needs Fishing 7 |
 | Fishing Licence | $350 | No tax at City Hall |
 
 **Rods wear** with every cast: Good, Worn, Poor, Failing, Scrap. A worn rod fails to hook some bites (1 in 10 when
@@ -34,6 +35,11 @@ Worn, 1 in 4 when Poor, nearly half when Failing) and snaps lines sooner, and a 
 queenfish, bluegill) go on the hook first and bring more bites and rarer fish. The **smallest** one you carry is used,
 and it takes the place of the shop bait for that cast, so the shop bait isn't used up. **A fish of your own is enough
 to cast with**: you don't need any shop bait as well.
+
+**Cut bait:** any fish you caught can be cut into bait, from `/fish` (**Cut a fish into bait**, or **Cut all undersize
+into bait**) or from your pockets (<kbd>I</kbd>, the fish, **Cut into bait**). Each pound of fish gives 1 to 3 pieces, and a
+piece works like shop bait. Cut bait goes on the hook before shop bait. **Bait cut from an undersize or protected fish is
+illegal to carry**: an officer who searches you and finds it charges you.
 
 **Fish are real items.** They survive a relog, show in your inventory with their size and weight, and can be handed to
 another player in a [trade](../trading/). The pawn counter refuses them.
@@ -150,7 +156,8 @@ your pockets and coolers.
 
 ## Selling
 
-At either Bait & Tackle, <kbd>Y</kbd> and **Sell Catch** sells everything you carry. **`/fish` at the counter** lists
+At either Bait & Tackle, <kbd>Y</kbd> and **Sell Catch** sells everything you carry. It only shows when you carry a fish
+the counter will buy. **`/fish` at the counter** lists
 every fish with its price: pick one to sell it on its own, or **Sell the lot**. Pawn shops refuse fish. You're told
 what you sold, for how much and how the market stands; undersize fish are left with you ("the buyer will not take
 them"), and with nothing to sell you're told so.
@@ -167,7 +174,8 @@ counter isn't affected. Each fish sold is also worth 4 civilian XP.
 ## The licence and the police
 
 The licence is **$350 at City Hall** with no tax, or on the tackle shelf with tax. An officer beside you can check it
-if you've cast in the last 5 minutes and carry a working rod: without one it's **Unlicensed Fishing**, one star.
+if you've cast in the last 5 minutes and carry a working rod: without one it's **Unlicensed Fishing**, one star. A
+search that finds bait cut from an undersize or protected fish is **Undersize Bait**, one star too.
 Officers can also inspect any pot (<kbd>G</kbd> at the buoy), which shows who owns it, how many minutes it's been
 down, how many fish are inside and its condition, and calls it ghost gear past 90 minutes. Or they can seize it
 (<kbd>X</kbd>): the pot and its catch are destroyed, and the city pays the officer $150.
@@ -184,7 +192,8 @@ The **Fishing** skill has 25 levels; `/fish` shows your rank and how many of the
 | A legal trophy | +120 |
 | Haul a pot with anything kept | 38 |
 
-Level 7, for the Large Cooler, is 868 XP: about 35 legal fish.
+Level 4, for the Spinning Rod, is 253 XP: about 11 legal fish. Level 7, for the Large Cooler, is 868 XP: about 35. Level
+10, for the Heavy Rod, is 1,902 XP: about 77.
 
 **The work board** has fish jobs too: "Sell five fish" and the weekly "thirty fish" count legal fish sold at a counter,
 one per fish, whichever team you're on. Undersize fish and the garibaldi can never be sold, so they don't count. Your
@@ -197,7 +206,8 @@ fish caught, trophies, money earned and pots hauled also feed the <kbd>F10</kbd>
   worn.
 - Buy the cheapest bait: Pellets at $4 do what Sandworm at $8 does.
 - Ease off at orange, and never sit in the red.
-- Put your shorts back. They fill your limit and nobody buys them.
+- Put your shorts back, or cut them into bait and use them before an officer finds them. They fill your limit and nobody
+  buys them.
 - Spread your selling between the two counters.
 - Moor your own boat near the counter before selling: you keep 95% instead of 85%.
 - Pull pots between 5 and 40 minutes.

@@ -46,7 +46,8 @@ the drop.
 ## The loading bay
 
 A drop with a bay shows an outline on the ground, and a property with a bay is **more likely** to be picked,
-so you'll end up there often. Drive into the bay's yard, stop and press <kbd>E</kbd> from the cab. The
+so you'll end up there often. Back the load into the bay's yard, stop and press <kbd>E</kbd> from the cab: the trailer
+in the yard is enough, even where there is no room for the cab as well. The
 prompt tells you how far off the bay you are and how many degrees round the load is, and the outline changes colour
 with the grade. The load is the trailer if you have it hitched, otherwise the truck itself.
 

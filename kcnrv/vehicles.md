@@ -145,7 +145,7 @@ every 1%, $800 a full tank**, plus tax, from your cash; the pump stops when your
 
 From the driver's seat the engine is off while it pumps.
 
-**Station tanks:** each of the 24 gas stations has its own tank, refilled only by the [trucking](../trucking/) petrol
+**Station tanks:** each of the 27 gas stations has its own tank, refilled only by the [trucking](../trucking/) petrol
 run. A station counts as dry when less than a fill-up is left. Its
 blip turns yellow when it's running low and grey when it's dry, and then its pumps shut. When one runs low or dry,
 **everybody online is told** in chat with a notice from Billy at the Trucking Guild. A pump away from any station is
