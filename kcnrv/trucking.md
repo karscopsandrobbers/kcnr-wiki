@@ -77,11 +77,12 @@ the weekly trucking job, as well as "One petrol run".
 
 ## The clock
 
-- **Cargo:** 3 to 8 minutes to reach the pickup, then a second for every 9 m to the drop, never more than 20 minutes.
-- **Petrol:** 30 seconds to hitch, then a second for every 9 m to the station.
+- **Cargo:** 3 to 8 minutes to reach the pickup, then a second for every 9 m to the drop added to what you have left,
+  never more than 20 minutes.
+- **Petrol:** 30 seconds to hitch, then a second for every 9 m to the station added to what you have left.
 
 A run fails with no pay, and a 45-second wait, if the clock runs out, you die, your truck is destroyed, a fragile load
-is badly damaged, or the tanker is destroyed. A trailer destroyed before you hitch it costs 50% of the distance pay; a
+is badly damaged, or the tanker is destroyed. A cargo trailer destroyed before you hitch it costs 50% of the distance pay; a
 hitched cargo trailer destroyed on the way costs 30%, and the trailer bonus.
 
 ## Pay

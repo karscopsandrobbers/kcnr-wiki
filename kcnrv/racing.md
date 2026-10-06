@@ -21,7 +21,7 @@ Race distances are always shown in kilometres and metres, whatever your Measurem
 | Who's asked | Civilian drivers within 100 m | The two of you | Drivers within 150 m | Nobody |
 | Time to join | 30 s | 12 s | 60 s | none |
 | Stake | $0 to $50,000; $1,000 if you type none | Set for you | Set by staff, up to $50,000 | None |
-| Course | One finish 400 m to 9 km away | The next traffic lights | The track's checkpoints, 1 to 20 laps | One lap |
+| Course | One finish 400 m to 9 km away | The next traffic lights | The track's checkpoints: a sprint once, a circuit 2 to 20 laps | One lap |
 
 **Every race card is answered with the horn.** You also have to be near the start to join, and again when the race
 goes. Too far away and you're told, or dropped at the start with your stake back.
@@ -29,6 +29,10 @@ goes. Too far away and you're told, or dropped at the start with your stake back
 `/race start` starts a street race early, but only for **whoever opened it** ("Nobody else is in yet" if you're alone).
 If the host leaves the lobby, the race is called off for everyone and the stakes are refunded. A full grid says the race
 is full, and a track with a laid grid takes only as many cars as it has starting places (16 at most).
+
+**Collisions off.** Staff hosting a track race can turn collisions off between the racers. Your car then drives through
+the other racers' cars, which are drawn see-through, so lag can't put two cars that are apart into each other. Traffic
+and everybody else are still solid.
 
 **Heads-up:** the stake is $1,000 plus $200 a civilian level, up to $6,000, and never more than the poorer driver's
 cash. You must be side by side, facing the same way, both stopped. The first horn hosts

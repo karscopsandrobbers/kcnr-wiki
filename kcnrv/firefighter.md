@@ -7,8 +7,9 @@ opens: From the start, if you're not wanted
 ---
 
 Join at the desk of any of the seven fire stations (see [Joining a team](../joining-a-team/)). Each has a **garage**
-with the **Fire Truck**, free, one every 5 seconds, and an **Equipment** marker with free tools that open with your
-rank: an extinguisher, flashlight and flares from the start, a stone hatchet at rank 1, a flare gun at 2, a hatchet and a
+with the **Fire Truck**, free, one at a time (taking another takes your last one away once nobody is in it), and an
+**Equipment** marker with free tools that open with your rank; only firefighters see those two markers. A tool is
+filled to the full, and one you don't load, like a hatchet, is taken once: an extinguisher, flashlight and flares from the start, a stone hatchet at rank 1, a flare gun at 2, a hatchet and a
 wrench at 3, a jerry can at 5.
 
 ## Fighting a fire
