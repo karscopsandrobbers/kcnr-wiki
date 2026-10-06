@@ -1,0 +1,49 @@
+---
+title: The jeweller
+summary: Vangelico Fine Jewelry. Smash the display cases for jewellery and empty the till.
+section: crime
+order: 6
+opens: From the start, with a duffel bag
+---
+
+## When you can start
+
+A civilian, not on a mission, past the walkthrough; no level needed. You need a **duffel bag on your back** (without
+one the cases won't open) and something to smash glass with: any gun, or a bat, crowbar, hammer, hatchet, machete,
+wrench, golf club, knuckle duster or battle axe. Up to six robbers. Vangelico is open **09:00 to 21:00** game time;
+shut, its doors are locked.
+
+## How it works
+
+1. **Prepare (optional).**
+   - **Disable the alarm**: <kbd>G</kbd> at the computer on the counter. Win the hack and the alarm and cameras are off
+     for 10 minutes; lose and the alarm goes off.
+   - **Cut the power** at the jeweller's own fuse box, with a blade, in 30 seconds: no alarm, cameras or lights for 90
+     seconds, and the door locks open, which is the way in after hours. The police are told.
+   - **Gas it**: a BZ gas grenade at the roof fan puts the guards, the assistant and anyone without a gas mask on the
+     floor for 90 seconds (tear gas, 30). A balaclava doesn't protect you; a gas mask does.
+2. **Start.** Point a weapon at the shop assistant to empty the till, or start on a case. Either way, everyone who
+   joins is in the same job.
+3. **The cases.** There are 20, each holding one piece that goes into your bag. **The first case you smash sets off the
+   alarm**, unless you disabled it or cut the power; gas doesn't stop the glass sensors.
+4. **The guards.** Two guards draw on robbers, shooters and whoever set off the alarm, unless they're gassed.
+5. **Get out.** The job ends when every robber is 100 m from the building, or after 3 minutes. If anything noticed
+   you: a wanted level and an APB.
+
+## Pay
+
+- **The till:** $2,500 to $6,000, paid as the assistant hands it over.
+- **The pieces.** Your screen shows **In your bag** (what yours are worth) and **Crew carrying** (the whole crew's),
+  both at full market value. A pawn shop pays less: see [Selling stolen goods](../selling-stolen-goods/).
+- **300 civilian XP and 60 Robbing XP** to every robber.
+- The shop shuts for 30 minutes after a robbery, and you can't rob it again for 30 minutes.
+
+## Tips
+
+- No bag, no case. Arms full, no case. A full bag loses the piece, and the case is still smashed.
+- Killing the assistant loses you the till, not the job.
+- **Your bag drops where you fall** if you die while wanted or inside your own crime scene with police online.
+- Pieces stay **hot** for half an hour after the job. Sell them later for the full price, with no risk of a tip-off.
+
+Related: [Selling stolen goods](../selling-stolen-goods/) · [Banks and hacking](../banks-and-hacking/) ·
+[Shop robberies](../shop-robberies/) · [Repo jobs](../repo-jobs/) (where a bag comes from)

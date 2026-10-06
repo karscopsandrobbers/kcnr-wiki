@@ -1,0 +1,25 @@
+name: Publish
+
+# Every change to the pages on main (an approved Discord suggestion, a merged pull request) asks kcnr-web to rebuild
+# and deploy the site with it.
+on:
+  push:
+    branches: [main]
+    paths: ['kcnrv/**']
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      # KCNR_WEB_DISPATCH_TOKEN: a fine-grained token with Contents read and write on kcnr-web only.
+      - name: Ask kcnr-web to deploy
+        run: |
+          curl -fsS -X POST \
+            -H "Authorization: Bearer ${{ secrets.KCNR_WEB_DISPATCH_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/karscopsandrobbers/kcnr-web/dispatches \
+            -d '{"event_type":"wiki-updated","client_payload":{"sha":"${{ github.sha }}"}}'
