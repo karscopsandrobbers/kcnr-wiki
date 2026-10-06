@@ -19,7 +19,7 @@ cutting the power (below) is the only way to unlock them.
 
 1. **Prepare (optional).**
    - **Disable the alarm**: <kbd>G</kbd> at the computer on the counter. Win the [hack](../hacking/) and the alarm and cameras are off
-     for **3 minutes**, as long as the job runs; lose and the alarm goes off. Nobody is told.
+     for **3 minutes**; lose and the alarm goes off. Nobody is told.
    - **Cut the power** at Vangelico's own fuse box, with a blade, in 30 seconds: no alarm, cameras or lights for **5
      minutes**, and the doors unlock, which is the way in after hours. It lasts longer than the hack, but the police are
      told.

@@ -30,10 +30,9 @@ The clock is **6 minutes**, or **12 at Pacific Standard**, from the moment the j
 
 1. **Prepare (optional).**
    - **Disable the alarm**: <kbd>G</kbd> at the bank's terminal. It's a [hack](../hacking/): win and the alarm and cameras are off for
-     6 minutes (12 at Pacific Standard), as long as the job runs; lose and the alarm goes off. Not once the job has
-     started.
+     1 minute (10 at Pacific Standard); lose and the alarm goes off. Not once the job has started.
    - **Cut the power (Fleeca only)**: an electrical box on the street near the branch, with a knife, switchblade,
-     dagger, machete, hatchet or battle axe, 30 seconds at the box. No alarm, cameras or lights for 8 minutes, longer
+     dagger, machete, hatchet or battle axe, 30 seconds at the box. No alarm, cameras or lights for 3 minutes, longer
      than the hack, but the police are told about the power cut.
    - **Mask up**: a camera that sees your face gives the police your name.
 2. **Start the job.** At a Fleeca or Blaine County, <kbd>E</kbd> on the **Drill** marker at the vault door, or
@@ -89,8 +88,8 @@ on [Hacking](../hacking/).
 ## Tips
 
 - Only the drill opens a vault door silently.
-- With the alarm disabled, nothing inside sets it off for 6 minutes (12 at Pacific Standard): not the door, the bombs
-  or gunshots.
+- With the alarm disabled, nothing inside sets it off for 1 minute (10 at Pacific Standard): not the door, the bombs
+  or gunshots. Be ready to go before you hack.
 - A suppressed shot doesn't set the alarm off, but anyone within about 9 m still hears it.
 - Don't all step outside while someone still wants the boxes: an empty building ends the job. The boxes stay open to the
   drill until the building empties, even after the last trolley.
