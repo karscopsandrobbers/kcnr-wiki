@@ -32,8 +32,8 @@ Worn, 1 in 4 when Poor, nearly half when Failing) and snaps lines sooner, and a 
 
 **Bait:** every cast uses one, bite or not. Small fish you caught yourself (anchovy, sardine, jacksmelt, mackerel,
 queenfish, bluegill) go on the hook first and bring more bites and rarer fish. The **smallest** one you carry is used,
-and it takes the place of the shop bait for that cast, so the shop bait isn't used up. **You still need at least one
-shop bait in your pockets to cast**, even when a fish of your own goes on the hook.
+and it takes the place of the shop bait for that cast, so the shop bait isn't used up. **A fish of your own is enough
+to cast with**: you don't need any shop bait as well.
 
 **Fish are real items.** They survive a relog, show in your inventory with their size and weight, and can be handed to
 another player in a [trade](../trading/). The pawn counter refuses them.
@@ -103,7 +103,7 @@ a fish finder you've fitted, and <kbd>X</kbd> to set a pot if you carry one.
 | --- | --- | --- |
 | Fish Finder | $12,000 | A sounder under the hull (<kbd>=</kbd> at the helm) |
 | Fish Finder Mk II | $28,000 | Needs the first. A sharper picture, and it reads a fished-out spot |
-| Hold Extension / Extension II | $9,000 / $18,000 | +150 lb (68 kg) each; the second needs the first |
+| Hold Extension / Extension II | $9,000 / $18,000 | +150 lb (68 kg) each, and one more pot in the water; the second needs the first |
 
 Upgrades are taxed 6% like the rest, and fitted to a hull, so you bring the boat to the dock: they aren't sold in a
 box. A boat that already has one can't have it twice, and the second of a pair is refused without the first.
@@ -117,7 +117,8 @@ hull; depth and range follow your Measurement System setting. The Mk I is a SONA
 
 Set one from a boat: carry a pot and a shop bait, then press <kbd>X</kbd> in the boat to **Set a pot**. It works any
 time you're in a boat, though the on-screen boat bar only lists it briefly after you board. Setting one uses up the
-pot and the bait. Three in the water at once, each 25 m (82 ft) from anyone else's; you can't set one where another is.
+pot and the bait. Three in the water at once, plus one for each Hold Extension on the boat you set it from (so up to
+five), each 25 m (82 ft) from anyone else's; you can't set one where another is.
 To haul, <kbd>E</kbd> at the buoy, then hold <kbd>E</kbd> on the rope like a fight. Anyone can pull any
 pot, but pulling somebody else's is stealing it.
 

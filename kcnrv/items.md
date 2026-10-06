@@ -89,6 +89,27 @@ while one is going.
 | Whisky, Vodka, Tequila, Wine | 8 | |
 | Champagne | 10 | |
 
+### Drinking
+
+Pisswasser, wine, champagne and the spirits (whisky, vodka, tequila) are alcohol, and they add up. A bottle of spirits
+counts as three beers, and wine or champagne as two.
+
+| You've had | You're | What it looks like |
+| --- | --- | --- |
+| One beer | Fine | Nothing yet |
+| Two beers, or one wine, champagne or spirits | **Tipsy** | A slightly unsteady walk; your view sways and blurs a little |
+| Five beers, three wines or two spirits | **Drunk** | A drunk's walk and face; the sway and the blur get stronger |
+| Eight beers, four wines or three spirits | **Very drunk** | Staggering, and a heavy sway and blur |
+
+You're told when you reach each stage and when you've sobered up. Everybody around you sees the walk and the face; the
+sway and the blur are only on your screen. Your own walking style comes back as you sober up.
+
+- **It wears off** a beer's worth about every two minutes, so even the most you can drink is gone in about 20 minutes.
+- **Dying sobers you up** at once.
+- **Logging out doesn't.** Come back and you're as drunk as you left, less what wore off while you were away. A server
+  restart clears it.
+- **Being drunk isn't a crime**, and it doesn't change how a car handles.
+
 ## What each item is for
 
 Everything you can use, and what it does. A **contraband** item is taken in a police search: see
@@ -104,9 +125,9 @@ Everything you can use, and what it does. A **contraband** item is taken in a po
 | Blades: knife, switchblade, dagger, machete, hatchets, battle axe | Cut a building's fuse box to kill its power: alarm, cameras and lights go off and the doors fail open. Also cut a G6 cash duffel open where it lies and force sealed G6 briefcases and bags. The machete, hatchets and battle axe smash display cases too, and a broken bottle opens G6 bags |
 | Hammer, bat, golf club, pipe wrench, knuckle duster | Smash the jeweller's display cases (so does a gun) |
 | Slim Jim | Opens the locked car on one of [Simeon's Repo Jobs](../repo-jobs/). It can snap. Contraband |
-| Sticky bombs, mines, grenades, pipe bombs, launchers | Blow a bank vault door or a Gruppe Sechs truck's rear doors. Loud: the alarm goes off |
+| Sticky bombs, mines, grenades, pipe bombs, launchers | Blow a bank vault door or a Gruppe Sechs truck's rear doors. Loud: the alarm goes off. Contraband |
 | Tear gas and BZ gas grenades | Thrown into a building's roof vent, they put the staff and guards on the floor, so the clerk can't press the panic button. Anyone inside without a gas mask goes down too |
-| Molotov, flare | Light the petrol in a rival business's [arson job](../businesses/) |
+| Molotov, flare | Light the petrol in a rival business's [arson job](../businesses/). The molotov is contraband, the flare isn't |
 | Jerry can | Fill it at a pump, then pour it into a car from the car's <kbd>X</kbd> menu. Also pours the petrol for an arson job |
 | Fire extinguisher | Puts fires out. A fire truck refills it |
 | Binoculars | Look through them. Use them again, or `/binoculars`, to put them away |
@@ -126,6 +147,7 @@ Everything you can use, and what it does. A **contraband** item is taken in a po
 | --- | --- |
 | Balaclava and every other mask | Hides your face: cameras and witnesses can't name you, and a crime scene around you is smaller. But while you're wanted, a mask worn out in the open stops your stars fading, and a masked figure gets phoned in. Off out of sight in a chase, it helps you lose the police |
 | Gas masks and respirators | Keep you on your feet in a gassed building. They hide your face like a balaclava too. Ammu-Nation always has the plain Gas Mask |
+| Night Vision Mask | Night vision while you wear it, so a building with its power cut isn't dark to you. Hides your face like a balaclava. Only [Lester](../lester/) sells it |
 | Armour, from Super Light to Super Heavy | Use it to fill your armour bar to its level. Kept if you already have as much. $500 to $2,500 at Ammu-Nation |
 | Rounds | Use them to load the gun that takes them |
 
@@ -134,7 +156,7 @@ Everything you can use, and what it does. A **contraband** item is taken in a po
 | Item | What it's for |
 | --- | --- |
 | Rods | Cast with <kbd>J</kbd> and fight the fish in. They wear with every cast |
-| Bait | One goes with every cast, bite or not, and you need some to cast at all |
+| Bait | One goes with every cast, bite or not, and you need some to cast at all: a shop bait, or a small fish of your own |
 | Rod Repair Kit | Puts condition back on your most worn rod. Kept if nothing needs fixing |
 | Crab Pot, Lobster Hoop, Finfish Trap | Set from a boat, left to soak, hauled in later |
 | Fishing Licence | Lets you fish without an officer charging you for it |
@@ -304,7 +326,7 @@ An item is either legal or **contraband**, and a police search separates the two
 
 | Contraband | Legal |
 | --- | --- |
-| Guns and rifles, drugs, seeds, sealed G6 cargo, crates, a blow torch, a big rotary drill, a slim jim, coca leaves, opium paste, thermite, a hacking laptop and a USB hacking drive | Melee weapons, throwables, a stun gun and a fire extinguisher, rounds, armour, valuables, bags, food and drink, phones, masks |
+| Guns and rifles, explosives (grenades, sticky bombs, pipe bombs, proximity mines) and molotovs, drugs, seeds, sealed G6 cargo, crates, a blow torch, a big rotary drill, a slim jim, coca leaves, opium paste, a hacking laptop and a USB hacking drive | Melee weapons, tear gas, BZ gas, flares, baseballs and snowballs, a stun gun and a fire extinguisher, rounds, armour, valuables, bags, food and drink, phones, masks |
 
 A frisk goes through **your pockets**, which is why a spare gun in them shows up and the guns on your weapon wheel
 don't. For six seconds you can bury up to three piles (contraband first, six taps of <kbd>E</kbd> each), and a worn

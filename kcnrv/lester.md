@@ -1,6 +1,6 @@
 ---
 title: Lester
-summary: Lester Crest sells hacking gear and thermite from his wheelchair, and he'll talk your ear off.
+summary: Lester Crest sells hacking gear and night vision from his wheelchair, and he'll talk your ear off.
 section: crime
 order: 8
 opens: From the start; he sells to civilians only
@@ -30,9 +30,10 @@ in words. The menu shows how many you own against how many you can carry.
   as well.
 - **USB drives** only work in the laptop: buy them once you own one. Each covers one failed attempt and is then spent;
   you can carry 5.
-- **Thermite** does nothing yet: no job uses it. You can carry 5.
+- **The Night Vision Mask** lets you see in the dark while you wear it, and hides your face like a balaclava. It's what
+  makes a building you've cut the power to worth walking into. It never wears out. You can carry one.
 
-All four are contraband, so a police search takes them. See [Hacking](../hacking/) for what each
+The hacking gear is contraband, so a police search takes it; the mask isn't. See [Hacking](../hacking/) for what each
 step does. Gear and skill don't help the drill or a safe's dial.
 
 Related: [Hacking](../hacking/) · [Bank robberies](../bank-robberies/) · [The jeweller](../the-jeweller/) ·

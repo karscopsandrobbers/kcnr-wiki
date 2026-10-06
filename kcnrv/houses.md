@@ -34,12 +34,18 @@ You can own **5 houses**. A new one is named "*your name*'s new house".
 <kbd>H</kbd> inside your own house opens its menu:
 
 - **Statistics:** its number, name and purchase date.
-- **Evaluation:** what it's worth on the market.
+- **Evaluation:** what it's worth on the market, and selling it back to the city (below).
 - **Pets.**
 - **Settings:** lock or unlock it, **Spawn in house**, change the name, set or remove an access password.
 
 **Spawn in house** puts you inside it when you log in; after a death you still wake at a hospital. The exit marker
 inside takes you out. Houses don't store items yet: a personal vehicle's boot is the place to keep things.
+
+## Selling it back
+
+**Evaluation**, then **Sell house to government**, sells it to the city for **80% of its market price**, paid in cash at
+once. It asks you to confirm first, and it can't be undone. You're put outside, the house is unlocked, its name and
+password are cleared, and nobody spawns in it any more. Its pets go with it.
 
 ## Pets
 
