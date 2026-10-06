@@ -69,8 +69,8 @@ or stays with the run as another escort. No guard alive to call, no backup.
   truck that is moving,** it keeps rushing, and the crew come out only after 8 seconds stood still under fire.
 - **Or drill the lock**: you need a **Big Rotary Drill in your pockets** (the banks' drill, sold at 24/7 and gas
   stations: see [Bank robberies](../bank-robberies/)). Stand at the rear doors with the truck standing and nobody
-  of the crew in the cab, and press <kbd>E</kbd> at **Drill the lock**. It's the same hold-<kbd>W</kbd> heat game as a
-  deposit box. If the truck moves, the bit comes off the lock. If the bit overheats, it ends and
+  of the crew in the cab, and press <kbd>E</kbd> at **Drill the lock**. It's the same drill as a bank vault door
+  (see [Bank robberies](../bank-robberies/)). If the truck moves, the bit comes off the lock. If the bit overheats, it ends and
   you can try again. A drilled lock swings the doors open. It's quiet, so dispatch hears nothing, but the crew turn on you.
 
 Then press <kbd>E</kbd> at the back of the truck to take the cargo out. It has to be standing still with the doors open.

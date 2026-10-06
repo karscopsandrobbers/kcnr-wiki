@@ -31,8 +31,8 @@ How a bank job runs around the hack is on [Bank robberies](../bank-robberies/), 
 | Puzzle | What you do |
 | --- | --- |
 | Circuit breaker | Steer a line from port to port without touching anything (<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> or the arrow keys). It always starts from the left |
-| Data crack | Stop seven sliding bars in the green |
-| Brute force | Click the right letters as they roll past |
+| Data crack | Stop eight sliding blocks in the green, left to right. A miss undoes the one before |
+| Brute force | Click the right letters as they roll past, against a one-minute clock. The columns slow a little the longer it goes |
 | Password terminal (Pacific Standard) | Find the password among the noise; each miss tells you how close you were |
 
 While a puzzle is up, chat is hidden, your gun is holstered and nothing fires or swings. One pair of hands: you can't

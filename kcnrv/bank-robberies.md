@@ -38,13 +38,16 @@ The clock is **6 minutes**, or **12 at Pacific Standard**, from the moment the j
 2. **Start the job.** At a Fleeca or Blaine County, <kbd>E</kbd> on the **Drill** marker at the vault door, or
    <kbd>Y</kbd> ("Open the vault") at the terminal. Pacific Standard: `/heists` inside a house you own.
 3. **Get through the door, one of three ways:**
-   - **Drill it** (<kbd>E</kbd>): feed the bit with <kbd>W</kbd> and <kbd>S</kbd> and watch
-     the heat; <kbd>Q</kbd> and <kbd>E</kbd> change its speed. Overheat on the vault door and
-     **the drill is destroyed**. This is the only way through without a sound.
+   - **Drill it** (<kbd>E</kbd>): GTA Online's own drill. One control runs it and moving the mouse (or the left
+     stick) pushes it in; the help on screen shows which. Only a gentle push just past the hole cuts: push harder and
+     the bit heats instead, and the faster it spins the less room you have. Four pins give on the way through, each a
+     jolt. Overheat on the vault door and **the drill is destroyed**. This is the only way through without a sound.
    - **Hack the terminal** (<kbd>Y</kbd>, "Hack the vault"; see [Hacking](../hacking/)). The crew gets **two attempts** a job; every failure sets off
      the alarm, and walking away from the puzzle doesn't count as one. **A hacked-open vault sets off the alarm** unless
      you disabled it or cut the power first.
    - **Blow it**: sticky bombs on the door take 3 to 7 off its strength each. Every blast sets off the alarm.
+   Pacific Standard's round vault door takes about 15 seconds to swing open. Once the job is over, every vault shuts
+   again as soon as nobody is inside it, or after three minutes whoever is.
 4. **Empty the vault.**
    - **Trolleys** (Fleeca): press **Grab**. It takes about 37 seconds and brings its own bag. A ring closes on a mark at
      the bottom of the screen: press <kbd>E</kbd> as it meets the mark and you grab 1.5 times faster until the next one.
