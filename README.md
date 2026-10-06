@@ -6,7 +6,7 @@ suggest a change; staff review every one before it goes live.
 ## Suggesting a change
 
 **The easy way:** open the page on wiki.kcnr.net, press **Suggest an edit** at the bottom, sign in with Discord, make
-your change and say why. Staff review it on Discord, and the KCNR Wiki bot DMs you when it's decided. You need to be
+your change and say why. Staff review it on Discord, and Jessica, the KCNR bot, DMs you when it's decided. You need to be
 in the [KCNR Discord](https://discord.gg/015PUGNMp4fqHR1Wz).
 
 **With a GitHub account:** edit the file here and open a pull request. A check runs on it, staff review it, and once
