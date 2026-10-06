@@ -33,9 +33,11 @@ Unicorn. [Vangelico](../the-jeweller/) and [the banks](../bank-robberies/) have 
    with an empty till stands with his hands up and says so; the first time you hear it, you get a hint on what to do next.
 5. **The safe**, if the shop has one:
    - <kbd>E</kbd> works the combination, which the clerk gives whoever held him up, good for 90 seconds. It takes 5
-     seconds at the dial and makes no noise. Without it you crack it by ear: two goes a job. Tap the key to hear the
-     click; hold it to sweep the dial fast and silently. When you find the click, the dial and number flash green and
-     your pad rumbles. Three wrong settings lose that go.
+     seconds at the dial and makes no noise. Without it you crack it at the dial, quietly: two goes a job. Turn it with
+     <kbd>A</kbd> and <kbd>D</kbd> (or the arrow keys, or the left stick). As it nears a number the dial trembles, the
+     tumbler grows louder and your pad shakes harder; hold it still there and that lock opens. Three locks, each turned
+     the other way round from the last; turning the wrong way closes them all again. You can't fail at the dial, but
+     stepping away (<kbd>E</kbd>) once you've started uses up a go.
    - <kbd>G</kbd> drills it: you need a drill, and it can overheat. The noise is reported as a "Safe cracking" scene.
    - <kbd>H</kbd> cuts it with a blow torch in 45 seconds, and it's reported too.
    - Opening a safe is robbing the shop: if no robbery is running, it starts one. If the job ends while you're still

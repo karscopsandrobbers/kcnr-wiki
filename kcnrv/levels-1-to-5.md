@@ -43,7 +43,7 @@ of you work a job, the pot grows and you each take 75%.
 - A Fleeca branch needs no planning: carry a drill to the vault door, or hack its terminal.
 - It holds three cash trolleys of $15,000 to $30,000 each.
 - 150 XP and 100 Robbing to every robber.
-- One bank an hour per robber, whichever branch. Bring a crew.
+- One bank every 30 minutes per robber, whichever branch. Bring a crew.
 
 See [Bank robberies](../bank-robberies/).
 

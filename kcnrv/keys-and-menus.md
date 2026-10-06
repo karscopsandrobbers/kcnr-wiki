@@ -25,7 +25,7 @@ FiveM keeps your old choice for that action, so a default that changes later won
 | <kbd>L</kbd> | Declines the card on screen |
 | <kbd>H</kbd> | The house menu, inside a house (in a car it's the headlights, and held on a convertible it moves the roof). A bag's contents, when you stand over one |
 | <kbd>G</kbd> | Get in at the nearest door, or swap seats |
-| <kbd>F</kbd> | Pay respects, next to a body |
+| <kbd>F</kbd> (hold) | Pay respects, next to a body |
 | <kbd>Right Alt</kbd> | Tap: mask on or off. Hold: a wheel of your masks and bags |
 | <kbd>Left Alt</kbd> | Put down what you're holding (in a car, a bag-sized thing goes on a seat), or get off somebody's back. See [Carrying things](../carrying-things/) |
 | <kbd>K</kbd> | Your personal vehicles |
@@ -66,8 +66,8 @@ swapping in a plane. You can't swap onto a seat with a bag on it, and you're tol
 - <kbd>X</kbd> on anybody alive right next to you, a player or a passer-by, offers **Lift Up** (over your shoulder) and
   **Piggyback** (you climb on their back). It isn't offered while you are already carrying, in an animation or attached,
   or on somebody cuffed or being frisked. <kbd>Left Alt</kbd> puts them down, or gets you off.
-- Stand next to a body, a player's too, and a prompt offers <kbd>F</kbd> **Pay respects**. You can pay once per
-  body. What happens to a player who dies is on [Death and respawn](../death-and-respawn/).
+- Stand next to a body, a player's too, and a prompt offers **Hold to pay respects**: hold <kbd>F</kbd> for a second.
+  A quick tap of <kbd>F</kbd> still gets you into a car. You can pay once per body. What happens to a player who dies is on [Death and respawn](../death-and-respawn/).
 
 ## On a team
 

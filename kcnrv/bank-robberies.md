@@ -52,7 +52,8 @@ The clock is **6 minutes**, or **12 at Pacific Standard**, from the moment the j
    again as soon as nobody is inside it, or after three minutes whoever is.
 4. **Empty the vault.**
    - **Trolleys** (Fleeca): press **Grab**. It takes about 37 seconds and brings its own bag. Hold <kbd>E</kbd> to grab
-     one and a half times as fast. You can't move or crouch until the bag is zipped.
+     one and a half times as fast. You can't move or crouch until the bag is zipped. Right-click to stop and step away
+     with what you've bagged: whoever grabs that trolley next, you or a crewmate, carries on from where you stopped.
    - **Deposit boxes** (Fleeca): <kbd>G</kbd> at a box with the drill, a worn duffel bag and free arms. Six of the nine
      are worth drilling, different ones every job; about one in ten is empty, the rest hold a piece of jewellery.
    - **Cash piles** (Blaine County, Pacific Standard): press **Take**. One pile each.
@@ -76,7 +77,7 @@ not once less than about a third of the clock is left. Dying, being jailed or ch
 | Every successful hack | 40 civilian XP and 46 Hacking XP |
 
 Vault cash is **split evenly at the end** between everyone still in the job; jewellery belongs to whoever bagged it.
-**You can rob one bank an hour**, whichever branch, and each bank has its own cooldown. `/rcd` lists them.
+**You can rob one bank every 30 minutes**, whichever branch, and each bank has its own cooldown. `/rcd` lists them.
 
 **A clean job** (no alarm rang, nothing put a name to you, nobody in the bank saw it) gives no stars and no APB: you'll
 see a **[CLEAN]** message.

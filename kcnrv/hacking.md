@@ -30,7 +30,7 @@ How a bank job runs around the hack is on [Bank robberies](../bank-robberies/), 
 
 | Puzzle | What you do |
 | --- | --- |
-| Circuit breaker | Steer a line from port to port without touching anything (<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> or the arrow keys). It always starts from the left |
+| Circuit breaker | Press <kbd>Enter</kbd> and a trace starts running out of its port by itself. Steer it into the port at the other end with <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> or the arrow keys; it can't turn straight back on itself. If it touches the copper, the board's edge or its own trail it shorts out, and <kbd>Enter</kbd> starts that board again: a short costs you time, never the hack. Banks deal the harder boards, and the trace slows down if you keep shorting on one |
 | Data crack | Stop eight sliding blocks in the green, left to right. A miss undoes the one before |
 | Brute force | Click the right letters as they roll past, against a one-minute clock. The columns slow a little the longer it goes |
 | Fingerprint clone (Pacific Standard) | Cayo Perico's green screen. Pick a strip with <kbd>↑</kbd> <kbd>↓</kbd> and turn it with <kbd>←</kbd> <kbd>→</kbd> until all eight make the print, then the next print. Every so often the panel scrambles the one you're on, and there's a five-minute clock |
@@ -45,7 +45,7 @@ With nothing, every puzzle asks the most of you. Two things make them
 easier, in steps, and they add up:
 
 - **Your Hacking skill.** It's a skill of its own, levelling up as you hack, separately from your total level: level 2
-  comes at 3 successful hacks, 3 at 6, 10 at 42 and 20 at 188. At **Hacking 10** every hack gets one step easier (a slower circuit or data crack, more wrong letters, one print fewer on the fingerprint clone), and at
+  comes at 3 successful hacks, 3 at 6, 10 at 42 and 20 at 188. At **Hacking 10** every hack gets one step easier (an easier circuit board, then a slower trace on it, a slower data crack, more wrong letters, one print fewer on the fingerprint clone), and at
   **Hacking 20** another. The password terminal works differently: it gets a little easier with every Hacking level.
 - **Gear from [Lester](../lester/)**:
   - **the hacking device**: one step easier, until it burns out (it does, now and then, in a shower of sparks);
