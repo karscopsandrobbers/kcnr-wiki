@@ -31,10 +31,12 @@ quiet night. By civilian level 15 the pay is 15% higher, rising 1% a level to 50
 - **Towing 15**: the scrapyard texts you an offer for the car on your hook, two to four times the fee. Taking it is a
   crime.
 
-## Hacking 10 and 20
+## Your Hacking skill: levels 10 and 20
 
-Each makes every bank hack one step easier, and the password terminal at Pacific Standard gets easier with every
-level. See [Banks and hacking](../banks-and-hacking/).
+Hacking is a skill of its own: it levels up as you hack, separately from your total level. When your **Hacking skill
+reaches level 10**, every bank hack gets one step easier, and at **level 20** one step easier again. The password
+terminal at Pacific Standard works differently: it gets a little easier with every Hacking level you gain. See
+[Banks and hacking](../banks-and-hacking/).
 
 ## The big jobs
 
