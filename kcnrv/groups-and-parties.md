@@ -66,5 +66,5 @@ and Create. It's free, and one account can own one group.
 - Get your friends into the party before the leader takes the job.
 - Only give trusted ranks the right to withdraw.
 
-Related: [Businesses](../businesses/) · [The pimp](../the-pimp/) · [Money](../money/) ·
+Related: [Businesses](../businesses/) · [Pimping (Working Girls)](../the-pimp/) · [Money](../money/) ·
 [Keys and menus](../keys-and-menus/)

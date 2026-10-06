@@ -62,7 +62,7 @@ their stars. The fine depends on their recent crimes. If they don't pay, it beco
 they're arrestable.
 
 **An arrest**: the cuffs go on and the arrest completes about 9.5 seconds later. A cuffed suspect can try
-`/breakcuffs`. They serve 30 seconds in a cell, 60 with an APB, and their own car, if it's nearby, goes to the impound. If a tow driver of rank 3 is on duty nearby, the car
+`/breakcuffs`. They serve 30 seconds in a cell, 60 with an APB, and their personal vehicle, if it's nearby, goes to the impound. If a tow driver of rank 3 is on duty nearby, the car
 waits at the kerb for up to 2 minutes as a live tow call, and you're told a tow has been called. Nobody can drive it
 away meanwhile. If no driver comes, the lot sends its own truck. See [Tow dispatch](../tow-dispatch/).
 

@@ -30,7 +30,7 @@ top right instead of the banner, but the server is told all the same.
 - **Play time and crimes count across every team.** The 5-minute one comes soon after you start, and the longer ones
   land as you pass each mark.
 - **24 hours of play also makes you a regular**, which is announced to everyone and posted to Discord.
-- See [Repo jobs](../repo-jobs/), [The pimp](../the-pimp/) and [Tow dispatch](../tow-dispatch/) for the three job ones.
+- See [Simeon's Repo Jobs](../repo-jobs/), [Pimping (Working Girls)](../the-pimp/) and [Tow dispatch](../tow-dispatch/) for the three job ones.
 
 ## Leaderboards
 

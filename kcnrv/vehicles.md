@@ -53,7 +53,7 @@ display is the colour you get. There's no test drive and no refund. Your new car
 it, with a full tank and its plate showing your name if it fits in 8 characters. There's no limit on how many you
 own.
 
-## Your own car
+## Your personal vehicles
 
 - **It appears when you log in** where you last used `/park`, and goes away when you log out. It keeps its fuel,
   mileage, dirt, lock, paint, parts and boot; only `/park` saves where it stands. `/park` works from the driver's
@@ -66,9 +66,9 @@ own.
 
 ## Keys and locks
 
-Your account is the key. <kbd>X</kbd> on your own car, on foot: Toggle Lock, Toggle Engine, Doors (hood and trunk too)
+Your account is the key. <kbd>X</kbd> on your personal vehicle, on foot: Toggle Lock, Toggle Engine, Doors (hood and trunk too)
 and Windows; on anyone else's, just Doors and Windows while it's unlocked. `/lock` and `/unlock` work on the car you're
-in, your own car within 4 m, or the last car you drove. Locked, nobody else can open its doors or boot, and the lock
+in, your personal vehicle within 4 m, or the last car you drove. Locked, nobody else can open its doors or boot, and the lock
 stays through logouts. You can lock a street car that's nobody's, and then only you can unlock it. `/engine` switches
 the engine on and off.
 
@@ -130,7 +130,7 @@ garage takes bicycles, boats, helicopters or emergency vehicles. You buy only wh
   and a cheap car's are never free. Each level costs more than the one before; prices are rounded to $50.
 - **Everything else** costs the same on any car: see the table.
 - Armour and nitro aren't for sale, putting a part back to stock is free, and 6% tax goes on top.
-- **Only your own car keeps its mods.** Work on any other car is lost when the car goes.
+- **Only personal vehicles keep their mods.** Work on any other car is lost when the car goes.
 
 | Part | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Plus a share of the car's price |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -169,7 +169,7 @@ Krieger and $249,500 on an Emerus.
 ## The boot
 
 <kbd>E</kbd> at the back of a car, on foot. A rear-engined car keeps its boot at the front; a motorbike has
-saddlebags, a bicycle nothing. **Your own car keeps its boot for good**, through wrecks, impounds and restarts; any
+saddlebags, a bicycle nothing. **A personal vehicle keeps its boot for good**, through wrecks, impounds and restarts; any
 other car loses everything in it when the car goes. With your hands full, <kbd>E</kbd> at the boot puts what you hold straight in, and a bag-sized thing can also ride on a seat: see [Carrying things](../carrying-things/). You can't open a boot while the car is moving or on a job's car. A model the game doesn't place in a class gets
 40 kg (88 lb). A boat's hold depends on its hull instead, and your own boat's hold carries fish: see
 [Fishing](../fishing/).
@@ -208,7 +208,7 @@ sends its own truck. See [Tow dispatch](../tow-dispatch/).
 
 ## Selling and pushing
 
-- **Selling:** the [scrapyard](../the-scrapyard/) always buys your own car, for 95% of what you paid, less $1,000
+- **Selling:** the [scrapyard](../the-scrapyard/) always buys your personal vehicles, for 95% of what you paid, less $1,000
   for each km of mileage your vehicle menu shows (mileage is always in kilometres, whatever your Measurement System). It's gone for good, parts and boot too.
 - **Pushing:** hold <kbd>Numpad 8</kbd> at either end of a car and steer with <kbd>A</kbd> and <kbd>D</kbd>. The prompt
   shows when you're close, and pressing the key walks you to the nearer end and turns you to face the car; let go
@@ -222,7 +222,7 @@ sends its own truck. See [Tow dispatch](../tow-dispatch/).
 - **`/park` before you log out.** Logging out doesn't save where the car stands.
 - **Lock it.** Unlocked, anyone can drive it off or open its boot.
 - **Engine off while you wait.** A running engine keeps burning fuel.
-- **Tune only your own car.**
+- **Tune only your personal vehicles.**
 - **Take a full jerrycan into the country.** Stations run dry; public pumps never do.
 
 Related: [Money](../money/) · [Items and your pockets](../items/) · [Carrying things](../carrying-things/) · [The scrapyard](../the-scrapyard/) · [Tow dispatch](../tow-dispatch/) ·

@@ -1,5 +1,5 @@
 ---
-title: The pimp
+title: Pimping (Working Girls)
 summary: Work the corners for the pimps outside the clubs. The first job you can share with a friend, and the pay climbs with your civilian level.
 section: jobs
 order: 4

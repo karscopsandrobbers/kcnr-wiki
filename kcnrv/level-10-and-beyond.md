@@ -23,7 +23,7 @@ them at any level. At the mod shop, the engine, brakes and turbo are what make a
 | *VIP Escort* | 15 | $6,000 | 220 |
 
 A VIP client tips $2,400 to $5,600 when you put down the men who came for him, and sometimes $800 to $2,200 on a
-quiet night. By civilian level 15 the pay is 15% higher, rising 1% a level to 50%. See [The pimp](../the-pimp/).
+quiet night. By civilian level 15 the pay is 15% higher, rising 1% a level to 50%. See [Pimping (Working Girls)](../the-pimp/).
 
 ## The top of tow dispatch
 
@@ -60,4 +60,4 @@ paycheck. See [Businesses](../businesses/).
   [Achievements and leaderboards](../achievements-and-leaderboards/).
 - 24 hours of play makes you a regular, announced to everyone.
 
-Related: [Vehicles](../vehicles/) · [The pimp](../the-pimp/) · [Tow dispatch](../tow-dispatch/) · [Banks and hacking](../banks-and-hacking/) · [Achievements and leaderboards](../achievements-and-leaderboards/)
+Related: [Vehicles](../vehicles/) · [Pimping (Working Girls)](../the-pimp/) · [Tow dispatch](../tow-dispatch/) · [Banks and hacking](../banks-and-hacking/) · [Achievements and leaderboards](../achievements-and-leaderboards/)

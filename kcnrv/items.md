@@ -54,7 +54,7 @@ starts at one. With several things under your feet the last one is offered first
 - **A bag drops whole.** Dropped, it keeps its contents and can be picked up as it was; <kbd>H</kbd> looks inside it
   from the ground. A worn bag drops with everything in it.
 - **No shop sells a duffel bag, briefcase, package or balaclava.** A duffel is a rare find in a dumpster or a hard repo
-  car's boot: see [Repo jobs](../repo-jobs/). A briefcase or package comes from a dumpster.
+  car's boot: see [Simeon's Repo Jobs](../repo-jobs/). A briefcase or package comes from a dumpster.
 - **A pawn shop won't buy a bag**: see [Selling stolen goods](../selling-stolen-goods/).
 
 ## Wearing things

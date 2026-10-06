@@ -55,7 +55,7 @@ You can't be searched again for 45 seconds.
 
 - Your stars, your circles, and any robbery you were in the middle of.
 - **Till cash** from a hold-up, if you're arrested inside that job's circle while an officer is online.
-- **Your own car**, if it's within 60 m when you're arrested: it's impounded, and getting it back costs $1,000 a star,
+- **Your personal vehicle**, if it's within 60 m when you're arrested: it's impounded, and getting it back costs $1,000 a star,
   plus $10,000 with an APB, up to $100,000. If a Contracted tow driver is on duty nearby, the car waits at the kerb for 2 minutes as
   a tow call, and nobody can drive it; if nobody comes, the lot sends its own truck.
 

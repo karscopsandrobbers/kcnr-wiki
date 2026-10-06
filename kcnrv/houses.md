@@ -39,7 +39,7 @@ You can own **5 houses**. A new one is named "*your name*'s new house".
 - **Settings:** lock or unlock it, **Spawn in house**, change the name, set or remove an access password.
 
 **Spawn in house** puts you inside it when you log in; after a death you still wake at a hospital. The exit marker
-inside takes you out. Houses don't store items yet: your own car's boot is the place to keep things.
+inside takes you out. Houses don't store items yet: a personal vehicle's boot is the place to keep things.
 
 ## Pets
 

@@ -101,4 +101,4 @@ gun he was holding can be picked up into your weapon wheel.
 **Drugs can't be played yet**: nothing in the game gives you what any recipe needs.
 
 Related: [Items and your pockets](../items/) · [Shop robberies](../shop-robberies/) · [Wanted level and heat](../wanted-level-and-heat/) ·
-[Jail and the law](../jail-and-the-law/) · [Repo jobs](../repo-jobs/)
+[Jail and the law](../jail-and-the-law/) · [Simeon's Repo Jobs](../repo-jobs/)

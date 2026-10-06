@@ -14,7 +14,7 @@ It starts the moment you register, and it's six short steps. Each one puts a mar
    a dagger, and a candy bar.
 3. **Open your inventory** (<kbd>I</kbd>). The candy bar heals you; the weapons are in your weapon wheel.
 4. **Take a car.** A car with nobody in it nearby is marked, and a waypoint points to it. It is never your
-   own car, a police or emergency car, or a job's car. Any car you find yourself counts just the same.
+   personal vehicle, a police or emergency car, or a job's car. Any car you find yourself counts just the same.
 5. **Buy something at a shop** (<kbd>Y</kbd> at the counter). The nearest 24/7 or gas station selling something you can
    afford is marked. If none has anything at your price, one is stocked for you.
 6. **Hold the shop up.** The nearest open 24/7 or gas-station store with a clerk is marked: not one you own, and not one

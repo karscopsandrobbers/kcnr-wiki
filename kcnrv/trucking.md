@@ -125,5 +125,5 @@ runs, distance, XP, money earned and perfect parks all feed the <kbd>F10</kbd> l
 - Take Billy's next load at the drop instead of driving back to the depot.
 - Long hauls pay more a run; short hauls get you back on the board sooner.
 
-Related: [Tow dispatch](../tow-dispatch/) · [Repo jobs](../repo-jobs/) · [Vehicles](../vehicles/) ·
+Related: [Tow dispatch](../tow-dispatch/) · [Simeon's Repo Jobs](../repo-jobs/) · [Vehicles](../vehicles/) ·
 [What unlocks when](../what-unlocks-when/) · [Achievements and leaderboards](../achievements-and-leaderboards/)

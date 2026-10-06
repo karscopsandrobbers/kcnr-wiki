@@ -63,4 +63,4 @@ Each case holds one piece, picked by chance, in a varying condition.
 - Pieces stay **hot** for half an hour after the job. Sell them later for the full price, with no risk of a tip-off.
 
 Related: [Carrying things](../carrying-things/) · [Selling stolen goods](../selling-stolen-goods/) · [Banks and hacking](../banks-and-hacking/) ·
-[Shop robberies](../shop-robberies/) · [Repo jobs](../repo-jobs/) (where a bag comes from)
+[Shop robberies](../shop-robberies/) · [Simeon's Repo Jobs](../repo-jobs/) (where a bag comes from)

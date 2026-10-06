@@ -17,8 +17,8 @@ None of these needs a gun or a level.
 | [Tow dispatch](../tow-dispatch/): take a truck at any tow yard, then <kbd>Y</kbd> on the radio | $1,400 to $1,700 a call, plus $0.24 a metre driven out and back; a quarter more for calls between 22:00 and 05:00 game time | 55 to 65 civilian and 25 to 35 Towing for a kerb call |
 | [Trucking](../trucking/) cargo: the docks or the Grapeseed depot | $500 plus $0.54 a metre (a 5 km haul is about $3,200); parking in the bay adds 5 to 20% | About 100 for that 5 km haul |
 | A petrol run: you pick the station | $0.40 a metre, plus $0.80 a litre (double at an empty tank) | Trucking XP, +30 |
-| [Simeon's repo jobs](../repo-jobs/): his desk at Premium Deluxe | $1,600 for an easy job plus $0.40 a metre, less up to 75% for damage | 60 |
-| [The pimp](../the-pimp/), outside each club | *Trouble on the corner*: $800 plus $0.30 a metre, 1% more per civilian level | 50 |
+| [Simeon's Repo Jobs](../repo-jobs/): his desk at Premium Deluxe | $1,600 for an easy job plus $0.40 a metre, less up to 75% for damage | 60 |
+| [Pimping (Working Girls)](../the-pimp/), outside each club | *Trouble on the corner*: $800 plus $0.30 a metre, 1% more per civilian level | 50 |
 
 **Today's work pays on top.** `/work` shows three jobs for the game day, and a tow, trucking, petrol, repo or pimp job can be one of them. See
 [Your first hour](../your-first-hour/).

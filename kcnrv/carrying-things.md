@@ -110,7 +110,7 @@ things go in the boot.
   With the glass in, the prompt just says what is on the seat, or that it is locked.
 - **Nobody can sit on a loaded seat.** You're told there's something on it. One thing to a seat, and two people can't
   load the same seat at once.
-- **Your own car keeps what's on its seats** through a relog. In any other vehicle, whatever's on a seat goes when the
+- **A personal vehicle keeps what's on its seats** through a relog. In any other vehicle, whatever's on a seat goes when the
   vehicle does.
 
 ## Selling it

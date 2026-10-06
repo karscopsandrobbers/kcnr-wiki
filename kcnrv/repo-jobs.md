@@ -1,5 +1,5 @@
 ---
-title: Repo jobs (Simeon)
+title: Simeon's Repo Jobs
 summary: Simeon wants his cars back. Find the car, get into it however you can, and bring it to his lot without a scratch.
 section: jobs
 order: 3
@@ -79,6 +79,6 @@ back from every tier earns **Simeon's Favourite**.
 - Drive back gently. Tyres, glass, bumpers and dents all come off your pay.
 - On a medium job, try the door first: half the cars are unlocked.
 
-Related: [Tow dispatch](../tow-dispatch/) · [Trucking](../trucking/) · [The pimp](../the-pimp/) ·
+Related: [Tow dispatch](../tow-dispatch/) · [Trucking](../trucking/) · [Pimping (Working Girls)](../the-pimp/) ·
 [Vehicles](../vehicles/) · [Items and your pockets](../items/) ·
 [Achievements and leaderboards](../achievements-and-leaderboards/)
