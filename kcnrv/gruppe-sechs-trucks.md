@@ -1,6 +1,6 @@
 ---
 title: Gruppe Sechs trucks
-summary: Armoured trucks carry the takings from the banks and the jeweller. Stop one, get into the back, and carry the cargo off.
+summary: Armoured trucks carry the takings from the banks and Vangelico. Stop one, get into the back, and carry the cargo off.
 section: crime
 order: 9
 opens: From the start, as a civilian
@@ -9,7 +9,7 @@ opens: From the start, as a civilian
 ## The runs
 
 A truck goes out every 12 real minutes at most: one at a time, or two at once with 4 or more players online. It leaves
-the Union Depository with one or two cash duffels and calls at banks and the jeweller. At each stop the **courier** (the
+the Union Depository with one or two cash duffels and calls at banks and Vangelico. At each stop the **courier** (the
 guard in the front passenger seat) walks in and comes back with a briefcase or a cash bag. Pacific Standard, Blaine
 County and Vangelico always send a big bag. Every other stop sends a bag or a briefcase, more often a briefcase. Pacific Standard sometimes sends a bag of gold.
 

@@ -81,7 +81,7 @@ reason.
 - **The clerk** phones once every gun is off him and the robbers have left, if nobody else did. Aiming at him doesn't
   stop a call already running; shooting him, killing him, gassing the building or a blast near him does.
 - **Customers** may call after a hold-up: 45% if they saw your face, 30% if you were masked. The ones who ran out call
-  a quarter of the time, and you can't reach them. Regulars of the shop are likelier to call. **After a bank or jeweller
+  a quarter of the time, and you can't reach them. Regulars of the shop are likelier to call. **After a bank or Vangelico
   job every customer calls**, masked or not.
 - **Gas** stops a call already running, refuses new ones, and nobody who is down in it can call; the customers' calls
   die with the clerk's.

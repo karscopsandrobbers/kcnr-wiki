@@ -3,7 +3,7 @@ title: Hacking
 summary: Beat the puzzle on an alarm panel or a vault terminal to switch the alarm off or open the vault. Lester's gear and your Hacking skill make it easier.
 section: crime
 order: 7
-opens: From the start at the jeweller; total level 3 at the banks
+opens: From the start at Vangelico; total level 3 at the banks
 tables: [hacking]
 ---
 
@@ -14,17 +14,17 @@ the vault opens; lose it and the alarm goes off.
 
 | Where | How | Win | Lose |
 | --- | --- | --- | --- |
-| A bank's terminal, before the job | <kbd>G</kbd>, **Disable the alarm** | The alarm and cameras are off for 10 minutes | The alarm goes off |
+| A bank's terminal, before the job | <kbd>G</kbd>, **Disable the alarm** | The alarm and cameras are off for 6 minutes (12 at Pacific Standard) | The alarm goes off |
 | A bank's terminal, during the job | <kbd>Y</kbd>, **Hack the vault** | The vault door opens, and the alarm with it unless you disabled it or cut the power first | The alarm goes off |
-| The jeweller's counter computer | <kbd>G</kbd>, **Disable the alarm** | The alarm and cameras are off for 10 minutes | The alarm goes off |
+| Vangelico's counter computer | <kbd>G</kbd>, **Disable the alarm** | The alarm and cameras are off for 3 minutes | The alarm goes off |
 
 - **The vault hack gets two attempts a job**, shared by the crew. Walking away from the puzzle doesn't count as one.
 - **You can't disable an alarm once the job has started.** Do it first.
 - **Each bank is dealt one puzzle** and keeps it until the next job there, and its alarm panel asks the same one: the
   panel tells you what the vault will ask. Pacific Standard always uses the password terminal.
 
-How a bank job runs around the hack is on [Bank robberies](../bank-robberies/), and the jeweller's on
-[The jeweller](../the-jeweller/).
+How a bank job runs around the hack is on [Bank robberies](../bank-robberies/), and Vangelico's on
+[Vangelico](../the-jeweller/).
 
 ## The puzzles
 
@@ -56,11 +56,11 @@ All of Lester's gear is contraband, so a police search takes it.
 
 ## Tips
 
-- **Disable the alarm before anything else.** With it off, nothing inside sets it off for 10 minutes: not the door,
+- **Disable the alarm before anything else.** With it off, nothing inside sets it off for as long as the job runs: not the door,
   the bombs or gunshots.
 - **Read the alarm panel first.** It asks the same puzzle as the vault, so you know what's coming.
 - **Don't carry the device with the laptop**: the laptop is all that counts, and the device is wasted weight.
 - **Only the drill opens a vault door silently**: a hacked vault rings the alarm unless it's already off.
 
-Related: [Bank robberies](../bank-robberies/) · [The jeweller](../the-jeweller/) · [Lester](../lester/) ·
+Related: [Bank robberies](../bank-robberies/) · [Vangelico](../the-jeweller/) · [Lester](../lester/) ·
 [Level 10 and beyond](../level-10-and-beyond/)

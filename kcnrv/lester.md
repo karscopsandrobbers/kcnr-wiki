@@ -36,5 +36,5 @@ in words. The menu shows how many you own against how many you can carry.
 The hacking gear is contraband, so a police search takes it; the mask isn't. See [Hacking](../hacking/) for what each
 step does. Gear and skill don't help the drill or a safe's dial.
 
-Related: [Hacking](../hacking/) · [Bank robberies](../bank-robberies/) · [The jeweller](../the-jeweller/) ·
+Related: [Hacking](../hacking/) · [Bank robberies](../bank-robberies/) · [Vangelico](../the-jeweller/) ·
 [Levels 5 to 10](../levels-5-to-10/)

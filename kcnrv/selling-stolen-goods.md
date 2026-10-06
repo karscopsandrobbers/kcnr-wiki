@@ -46,5 +46,5 @@ too.
 | A sealed gold bag | The G6 insider | Its full worth; opened, each bar fetches only 60% at a pawn shop |
 | Till or vault cash | Nothing to sell | It's already money |
 
-Related: [Items and your pockets](../items/) · [Carrying things](../carrying-things/) · [The jeweller](../the-jeweller/) · [Gruppe Sechs trucks](../gruppe-sechs-trucks/) ·
+Related: [Items and your pockets](../items/) · [Carrying things](../carrying-things/) · [Vangelico](../the-jeweller/) · [Gruppe Sechs trucks](../gruppe-sechs-trucks/) ·
 [Bank robberies](../bank-robberies/) · [Lester](../lester/)

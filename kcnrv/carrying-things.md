@@ -126,4 +126,4 @@ What you hold still counts as yours: the pawn shop and the G6 insider buy from y
 - **Die with it and it's on the ground** where you died, for anyone to pick up.
 
 Related: [Gruppe Sechs trucks](../gruppe-sechs-trucks/) · [Vehicles](../vehicles/) · [Keys and menus](../keys-and-menus/) ·
-[Death and respawn](../death-and-respawn/) · [The jeweller](../the-jeweller/) · [Selling stolen goods](../selling-stolen-goods/)
+[Death and respawn](../death-and-respawn/) · [Vangelico](../the-jeweller/) · [Selling stolen goods](../selling-stolen-goods/)

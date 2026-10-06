@@ -17,7 +17,7 @@ another robbery. Before the walkthrough reaches its hold-up step, a robbery is r
 
 The 24/7s and the gas stations with a shop, liquor stores, Ammu-Nations, the pawn shop in Strawberry, the clothing
 stores (Ponsonbys, Suburban, Binco, Discount Store), Pibwasser's Country Bar, Bahama Mamas, Tequi-la-la and the Vanilla
-Unicorn. [The jeweller](../the-jeweller/) and [the banks](../bank-robberies/) have pages of their own.
+Unicorn. [Vangelico](../the-jeweller/) and [the banks](../bank-robberies/) have pages of their own.
 
 ## How it works
 
@@ -91,7 +91,7 @@ hand over their wallet ($20 to $400), and will certainly phone it in afterwards.
 A customer on the phone shows as a red dot on the map to robbers and wanted players, with a red marker over their head
 when you're near, and "On the phone to the police" with a countdown once you're close.
 
-What they do depends on the building: at the jeweller most cower, at Ammu-Nation most run, and everywhere else it's a mix.
+What they do depends on the building: at Vangelico most cower, at Ammu-Nation most run, and everywhere else it's a mix.
 
 A gun in your hand makes the ones who would have a go rarer. Point it at one who does and he usually backs down.
 
@@ -119,4 +119,4 @@ A gun in your hand makes the ones who would have a go rarer. Point it at one who
 - A drill or blow torch counts as illegal in a police search.
 
 Related: [Wanted level and heat](../wanted-level-and-heat/) · [Gangs and street crime](../gangs-and-street-crime/) ·
-[Jail and the law](../jail-and-the-law/) · [The jeweller](../the-jeweller/) · [Bank robberies](../bank-robberies/)
+[Jail and the law](../jail-and-the-law/) · [Vangelico](../the-jeweller/) · [Bank robberies](../bank-robberies/)

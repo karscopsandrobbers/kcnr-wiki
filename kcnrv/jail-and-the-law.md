@@ -42,7 +42,7 @@ You can't be searched again for 45 seconds.
 
 ## Jail
 
-- **Sentence: 30 seconds, or 60 with an APB.** You get an APB from walking out of a bank or the jeweller with the take,
+- **Sentence: 30 seconds, or 60 with an APB.** You get an APB from walking out of a bank or Vangelico with the take,
   or when five officers have you in sight at once.
 - After the sentence, a **$1,000 bail** counts down by $50 or $100 a second; at zero you walk free. `/bail` pays what's
   left, and `/bail [name]` pays somebody else's.

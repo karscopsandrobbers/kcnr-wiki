@@ -75,7 +75,7 @@ back from every tier earns **Simeon's Favourite**.
 
 - Slim jims are rare: you sometimes find one on a gang member's body. Keep one for the medium and hard jobs.
 - Hard jobs are where a duffel bag comes from if you've never found one in a dumpster, and you need a bag to rob
-  [the jeweller](../the-jeweller/).
+  [Vangelico](../the-jeweller/).
 - Drive back gently. Tyres, glass, bumpers and dents all come off your pay.
 - On a medium job, try the door first: half the cars are unlocked.
 

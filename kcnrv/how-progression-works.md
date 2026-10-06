@@ -59,8 +59,8 @@ or total level. To check where you stand:
 | A tow call | 55 to 130 by call (a quarter more after dark) | Civilian |
 | | 25 to 70 by call (a quarter more after dark) | Towing |
 | A pimp job | 50, 80, 110, 120, 160, 220 up the ladder | Civilian |
-| A robbery you get away with | shop 60, ATM 25, other 15, bank 150, jeweller 300 | Civilian |
-| | shop 20, ATM 10, bank 100, jeweller 60 | Robbing |
+| A robbery you get away with | shop 60, ATM 25, other 15, bank 150, Vangelico 300 | Civilian |
+| | shop 20, ATM 10, bank 100, Vangelico 60 | Robbing |
 | Hold up a player / a passer-by / pick a pocket / shake down a dealer | 40 / 25 / 12 / 30 | Your team |
 | Crush a car at the scrapyard | 15 | Your team |
 | A successful hack | 40 | Civilian |
