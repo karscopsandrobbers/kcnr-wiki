@@ -1,6 +1,6 @@
 ---
 title: Money
-summary: Cash is what you carry and spend, the bank is where it's safe. How you're paid, what you're taxed, and what a death costs.
+summary: Cash is what you carry and spend, the bank is where it's safe. How you're paid, what you're taxed, and what a death costs you.
 section: life
 order: 1
 opens: From the start
@@ -22,8 +22,8 @@ bank for 8 seconds.
 | ATM | Any cash machine. Walk up and press <kbd>E</kbd> | Deposit and withdraw |
 | Bank counter | <kbd>Y</kbd> at any of the eight banks: Pacific Standard, the six Fleecas, Blaine County Savings in Paleto Bay | Deposit, withdraw, **send money to a player who is online** (by name or ID), and see your last six transactions |
 
-Amounts are whole dollars, you must be on foot, and you have to stay within 6 m of where you opened the menu. You
-can't use an ATM you're robbing.
+Amounts are whole dollars, you must be on foot, and you have to stay within 6 m (20 ft) of where you opened the
+menu. You can't use an ATM you're robbing, and you can't send money to yourself.
 
 ## Getting paid
 
@@ -42,8 +42,15 @@ The paycheck has income tax taken off it:
 | $30,000 to $75,000 | 15% |
 | Over $75,000 | 22% |
 
-A $20,000 paycheck pays $800, a $50,000 one $4,600. City wages also follow the treasury: 60% of what you earned when
-the city is broke, all of it at its $5,000,000 target, up to 110% in surplus. City Hall's **Wages** page says why.
+A $20,000 paycheck pays $800, a $50,000 one $4,600, and a week with nothing earned costs nothing. **Money that came
+out of a business safe was already taxed 6% when it left the safe**, so it isn't taxed again as income.
+
+City wages also follow the treasury: 60% of what you earned when the city is broke, all of it at its $5,000,000
+target, up to 110% in surplus. City Hall's **Wages** page says why.
+
+**At payday** chat shows what you earned, the income tax and what you got, and a Maze Bank notification confirms it.
+When the city paid only part of your wages, a line from City Hall says how much and why. The whole city is told each
+week: "City Hall: week N closed. Collected $X, paid out $Y. Treasury: $Z."
 
 ## Taxes you'll meet
 
@@ -51,21 +58,16 @@ the city is broke, all of it at its $5,000,000 target, up to 110% in surplus. Ci
 | --- | --- | --- |
 | Sales tax | 6% on top | Shops, dealerships, mod shops, pumps, the car wash, pets |
 | Stamp duty | 2% on top | Buying a house |
-| Business tax | 6% | Money leaving a business safe |
+| Business tax | 6% | Money leaving a business safe: see [Businesses](../businesses/) |
 | Property tax | by district | About once a real day on each house: see [Houses](../houses/) |
 | Income tax | the bands above | Paychecks |
 
 ## What dying costs
 
-| You lose | When |
-| --- | --- |
-| A hospital bill: 2% of your cash, at least $50, at most $1,000, never more than you have | Every death, unless you're sent to a cell |
-| A worn bag and everything in it, dropped where you fell | Only if you die wanted, or at your own crime scene, with an officer online |
-| Cash from a hold-up you're still at | Killed at the scene with an officer online |
-| Whatever is in your hands, put down where you fell | Every death |
-
-You keep your bank, your pockets, your weapons, your cars and your house. With $1,000 in cash the bill is $50, with
-$10,000 it's $200, and from $50,000 up it's $1,000.
+A death costs a **hospital bill: 2% of your cash, at least $50, at most $1,000, and never more than you have**. With
+$1,000 in cash the bill is $50, with $10,000 it's $200, and from $50,000 up it's $1,000. Your bank is never touched.
+What else a death can take (whatever is in your [hands](../carrying-things/), a worn bag, a hold-up's cash) and what it never does is on
+[Death and respawn](../death-and-respawn/).
 
 **Other players** can hold you up at gunpoint for 7 to 15% of the cash you carry, never more than $25,000 to $35,000 in
 one demand. Bank it.
@@ -76,17 +78,28 @@ one demand. Bank it.
 2. **Use it** from your pockets and type a number from 0 to 100 in chat. One number each per draw, and each number
    can only be taken once.
 3. **The draw** is at 16:00 game time every game day (every 48 real minutes), and only players online at the draw
-   can win.
+   can win. Everybody is told the jackpot at midnight game time, and the result after each draw: the winning number
+   and the winner, or "No winner".
 
-The jackpot starts at $10,000 and grows $4,000 for every ticket played. It's paid in cash with 150 XP, then starts
-again.
+The jackpot starts at $10,000 and grows $4,000 for every ticket played. It's paid in cash with 150 XP, and your
+ticket is spent when you win. Numbers that didn't win are wiped at every draw, and **a server restart sends the
+jackpot back to $10,000**.
 
 ## City Hall
 
-The **Treasury** and **Wages** pages show how the city is doing. **Your record** lists your last 40 payments to and
-from the city, **Property tax** the districts cheapest first, and **Licences** sells the fishing licence ($350).
-**Business leases** are there too. `/taxzone [price]` shows the district you're standing in and what a property at
-that price would be taxed, and `/assets` lists everything you own.
+The **Treasury** and **Wages** pages show how the city is doing. Under them, a **Collected** row for every kind of
+money the city took this game week and a **Spent** row for every kind it paid out.
+
+- **Your record** lists your latest payments to and from the city. What left you is red with a minus, what the city
+  paid you is green, and each row's note says what it was for.
+- **Property tax** lists the districts, cheapest first.
+- **Licences** sells the fishing licence ($350).
+- **Business leases** shows how each business is doing: see [Businesses](../businesses/).
+- **Event cashbox** is the pot staff run events out of. You can put in $1,000, $5,000, $25,000, $100,000 or $500,000
+  from your cash.
+
+`/taxzone [price]` shows the district you're standing in and what a property at that price would be taxed, and
+`/assets` lists everything you own.
 
 ## Tips
 
@@ -96,4 +109,5 @@ that price would be taxed, and `/assets` lists everything you own.
 - Stay online for the lottery draw: your number doesn't survive logging out.
 
 Related: [Your first hour](../your-first-hour/) · [Houses](../houses/) · [Vehicles](../vehicles/) ·
-[Businesses](../businesses/) · [Trading](../trading/)
+[Businesses](../businesses/) · [Trading](../trading/) · [Death and respawn](../death-and-respawn/) ·
+[Items and your pockets](../items/)

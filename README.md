@@ -1,4 +1,4 @@
-# KCNR Wiki
+# Kar's Cops And Robbers Wiki
 
 The pages of **[wiki.kcnr.net](https://wiki.kcnr.net)**, the player guide for Kar's Cops and Robbers. Anyone can
 suggest a change; staff review every one before it goes live.

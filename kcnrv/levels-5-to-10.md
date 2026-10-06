@@ -29,8 +29,7 @@ The cheapest lease is $17,500: a car wash for 7 days.
 ## Buy a house
 
 The goal pays $2,500 and 400 XP. You can spawn in your [house](../houses/), and <kbd>H</kbd> inside opens the owner
-menu. The city adds 2% stamp duty to the price; property tax skips the first $250,000 of a home's value; selling back
-to the city returns 80%.
+menu. The city adds 2% stamp duty to the price; property tax skips the first $250,000 of a home's value.
 
 ## The pimp's ladder
 

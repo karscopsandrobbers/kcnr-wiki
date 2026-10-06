@@ -5,7 +5,7 @@ section: crime
 order: 10
 ---
 
-It's an event an admin switches on, and everyone online is in it.
+It's an event an admin switches on, and everyone online is in it. Staff can also switch on quieter changes, like hidden nametags: see [When staff change the world](../keys-and-menus/#when-staff-change-the-world).
 
 ## How it works
 
@@ -14,8 +14,8 @@ It's an event an admin switches on, and everyone online is in it.
 - **Night falls at 22:00 and the lights go out.**
 - **Every door in the city is unlocked.**
 - **Every shop clerk is armed.** Shops can still be robbed, but every till has a gun behind it.
-- **The crowd turns.** Pedestrians nearby form three mobs that hate you and each other, about a third of them armed,
-  and any of them close by comes for you. Only the ones actually fighting show as red blips.
+- **The crowd turns.** Pedestrians nearby riot. They fight each other and go for anyone close, and some of them are
+  armed. Only the ones fighting show as red blips.
 - **Respawn takes 3 seconds** instead of 8. The hospital bill still applies.
 - **Medics earn double.**
 
@@ -27,8 +27,9 @@ relock, the time and lights come back, and the law starts recording again.
 
 ## Tips
 
-- Staying alive is what's paid, and every death costs you a hospital bill.
+- Staying alive is what's paid, and every death costs you a hospital bill (see [Death and respawn](../death-and-respawn/)).
 - Hold-ups pay as usual with no stars, but expect every clerk to shoot back.
 
 Related: [Wanted level and heat](../wanted-level-and-heat/) · [Shop robberies](../shop-robberies/) ·
-[Medic](../medic/)
+[Medic](../medic/) · [Death and respawn](../death-and-respawn/) ·
+[When staff change the world](../keys-and-menus/#when-staff-change-the-world)

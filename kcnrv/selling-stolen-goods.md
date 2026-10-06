@@ -8,7 +8,8 @@ order: 9
 ## The pawn shop
 
 Strawberry PAWN & JEWELRY. Press <kbd>Y</kbd> at the counter: opening the menu tips out of your bag everything the shop
-would buy. Guns, grenades and the like stay in the bag.
+would buy, and it buys what you are holding in your hands as well as what is in your pockets (see [Carrying things](../carrying-things/)). Guns, grenades and the like stay in the bag. The pawn shop never buys a bag itself, only what's in it, and it skips the
+phone the walkthrough gives you.
 
 | Item | Price |
 | --- | --- |
@@ -27,12 +28,14 @@ A pawn shop that's been robbed is shut and buys nothing until it reopens.
 ## The G6 insider
 
 A Gruppe Sechs guard on a smoke break out by Grapeseed; his faded marker shows only when you're near. Press
-<kbd>Y</kbd> on him (civilians only).
+<kbd>Y</kbd> on him (civilians only; anyone in a uniform is told to walk on). His menu opens when you're next to him.
 
 - **He buys all your sealed G6 cargo at once**, from your pockets and your bag: its full worth for a clean piece, 85%
-  for one with a dye pack, and 10 Robbing XP a piece, with a free tip on the next truck if he knows one.
+  for one with a dye pack, and 10 Robbing XP a piece, with a free tip on the next truck if he knows one. He buys cargo you're holding in your hands
+too.
 - **A tip costs $1,500**: a 60 m circle near the next truck's stop, with roughly how long until it arrives. It goes
-  once the truck has been and gone, the run is lost, or 10 minutes after it was due.
+  once the truck has been and gone, the run is lost, or 10 minutes after it was due. He only gives a tip for a truck you aren't robbing and don't already have a tip on, and
+  you can hold at most five tips at once.
 
 ## What to sell where
 
@@ -43,5 +46,5 @@ A Gruppe Sechs guard on a smoke break out by Grapeseed; his faded marker shows o
 | A sealed gold bag | The G6 insider | Its full worth; opened, each bar fetches only 60% at the pawn shop |
 | Till or vault cash | Nothing to sell | It's already money |
 
-Related: [The jeweller](../the-jeweller/) · [Gruppe Sechs trucks](../gruppe-sechs-trucks/) ·
+Related: [Items and your pockets](../items/) · [Carrying things](../carrying-things/) · [The jeweller](../the-jeweller/) · [Gruppe Sechs trucks](../gruppe-sechs-trucks/) ·
 [Banks and hacking](../banks-and-hacking/) · [Lester](../lester/)

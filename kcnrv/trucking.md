@@ -27,19 +27,52 @@ opens: From the start, as a civilian
 2. Drive into the pickup marker in your truck. A box truck loads for 5 seconds while you're held still; a tractor unit
    gets a trailer dropped behind it, so back up and hitch it.
 3. Drive to the drop, a shop, bar, club, restaurant or the like: 1.5 to 3.5 km on for a short haul, 6 km or more for a
-   long one.
-4. Stop inside the drop marker and you're paid. Where a drop has a **loading bay**, back the load into the outline,
-   stop and press <kbd>E</kbd> for a parking bonus.
-5. Billy then offers another load near you. <kbd>H</kbd> turns it down.
+   long one. A drop is at the building's **loading bay** if it has one, otherwise at the kerb on its side, not in the
+   middle of the road. If nothing fits the distance, the search widens, so a run is always found.
+4. Stop inside the drop marker and you're paid. Where a drop has a **loading bay**, you're paid when you unload there
+   instead: see below.
+5. Billy then offers another load near you: see **The next load** below.
+
+Billy keeps an eye on you. Drive back past a board in the middle of a run and he tells you to get back to your mission.
+
+## The next load
+
+After every **cargo** run (not petrol), Billy texts that he has another load near you. While the board's wait is still
+running, a bar counts it down ("Skip the next load") and <kbd>H</kbd> turns it down. When the wait is up, the haul menu
+opens right where you are, on the same haul you just drove, with **Done for now** to leave it. The offer stands for 90
+seconds, and taking any run uses it up. The new pickup is picked near **where you are**, so your next run starts from
+the drop.
+
+## The loading bay
+
+A drop with a bay shows an outline on the ground, and a property with a bay is **more likely** to be picked,
+so you'll end up there often. Drive into the bay's yard, stop and press <kbd>E</kbd> from the cab. The
+prompt tells you how far off the bay you are and how many degrees round the load is, and the outline changes colour
+with the grade. The load is the trailer if you have it hitched, otherwise the truck itself.
+
+The closer the load's centre is to the bay's, and the straighter it faces, the better the grade:
+
+| Grade | Bonus |
+| --- | --- |
+| Perfect | +20% |
+| Good | +12% |
+| Fair | +5% |
+
+You must be stopped. <kbd>E</kbd> anywhere else in the yard still unloads and pays you, just
+with no bonus. A drop with no bay ends as soon as you arrive in its circle.
 
 ## A petrol run
 
 1. A tanker appears at the depot: you have about 30 seconds to back onto it.
-2. Drive to the station and stop in its marker. Its tank takes up to 2,000 litres.
+2. Drive to the station and stop in its marker. The tanker unloads up to 2,000 litres.
 3. If the tanker is destroyed, or you arrive without it, nothing is delivered and nothing is paid.
 
-Every gas station has a tank that fill-ups drain, and only petrol runs refill it. A station under 30% shows a yellow
-blip; a dry one is grey and its pumps are closed.
+Every gas station has a tank that fill-ups drain, and only petrol runs refill it. A station running low shows a
+yellow blip; a dry one is grey and its pumps are closed. When a station runs low or dry, **everyone online** gets a
+yellow `[Petrol]` line in chat and a text from Billy.
+
+A petrol run counts as a trucking load for the [work board](../your-first-hour/): it moves "Two trucking loads" and
+the weekly trucking job, as well as "One petrol run".
 
 ## The clock
 
@@ -78,6 +111,12 @@ special load for more pay:
 - **Fragile goods**: if the truck or trailer is badly damaged, the run fails.
 - **Zoo animals**: the trailer lurches on its own every 15 to 40 seconds.
 
+## Your records
+
+Each run's end shows your time, with "New best time" and what it beat, or your best to aim at. Trucking runs, petrol
+runs, distance, XP, money earned and perfect parks all feed the <kbd>F10</kbd> leaderboards (see
+[Achievements and leaderboards](../achievements-and-leaderboards/) and [Keys and menus](../keys-and-menus/)).
+
 ## Tips
 
 - Bring your own truck: a borrowed one costs 10% of the distance pay.
@@ -87,4 +126,4 @@ special load for more pay:
 - Long hauls pay more a run; short hauls get you back on the board sooner.
 
 Related: [Tow dispatch](../tow-dispatch/) · [Repo jobs](../repo-jobs/) · [Vehicles](../vehicles/) ·
-[What unlocks when](../what-unlocks-when/)
+[What unlocks when](../what-unlocks-when/) · [Achievements and leaderboards](../achievements-and-leaderboards/)

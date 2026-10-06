@@ -46,5 +46,6 @@ level.
 
 - **Treat first.** The health bar, not the clock, is what usually ends a call.
 - **A longer call pays more** and gives you more time.
+- **<kbd>J</kbd> silences the siren** of an emergency vehicle you drive, like the Ambulance, while its siren is on.
 
 Related: [Joining a team](../joining-a-team/) · [Firefighter](../firefighter/) · [Money](../money/)

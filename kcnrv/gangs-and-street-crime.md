@@ -8,22 +8,22 @@ opens: From the start, as a civilian on foot
 
 ## Pickpocketing
 
-Unarmed, within 2 m and behind somebody, press <kbd>E</kbd> on **Pick their pocket**. Holding <kbd>E</kbd> reaches
+Unarmed, right behind somebody, press <kbd>E</kbd> on **Pick their pocket**. Holding <kbd>E</kbd> reaches
 further in but makes them more suspicious; letting go calms them. Every so often they glance round, with a short warning
 first, and holding <kbd>E</kbd> during a glance gets you caught almost at once. People on a phone, sitting or queueing
 are easier.
 
 - **Got away with it:** no crime. Cash 62% of the time ($10 to $60), and maybe a phone, a wallet, car keys, a lottery
-  ticket or rubbish.
+  ticket, sunglasses, a fake wallet, empty baggies, a condom or rubbish.
 - **Felt it:** they shout and walk off. Some phone it in, and if the call gets through it's 1 star.
 
-You wait 20 seconds between tries, and the same person can't be picked again for 10 minutes. 12 XP.
+You can't start one while you're in a vehicle or carrying somebody. You wait 20 seconds between tries, and the same person can't be picked again for 10 minutes. 12 XP.
 
 ## Holding up a pedestrian
 
-Aim a gun or a blade at somebody: their hands go up, and <kbd>E</kbd> sticks them up. Most comply; some run and phone
-from up the road, some phone on the spot (put the gun back on them to stop it), and a few fight. A mask makes them more
-likely to comply; people wearing a gang's look mostly fight. While their hands are up (45 seconds):
+Aim a gun or a blade at somebody: their hands go up, and <kbd>E</kbd> sticks them up. A stun gun, a thrown weapon, bare
+hands, a petrol can or a fire extinguisher won't do it here, unlike in a shop. Start up close and make each demand from there; back off a little and you keep them held but can't ask for more, and back off far and their hands come down. Each demand can be made once a hold-up, a couple of seconds apart. Most comply (most to start, then less likely with each further demand); some run and phone
+from up the road, some phone on the spot (put the gun back on them to stop it), and a few fight. A mask makes them more likely to comply; people wearing a gang's look mostly fight. While their hands are up (45 seconds):
 
 | Key | Demands |
 | --- | --- |
@@ -33,7 +33,8 @@ likely to comply; people wearing a gang's look mostly fight. While their hands a
 | <kbd>H</kbd> | Lets them go |
 
 Each extra demand makes them more likely to run or swing at you: knowing when to stop is the skill. The first thing you
-take is 2 stars and 25 XP. You wait 45 seconds between stick-ups, and can't rob the same person again for 15 minutes.
+take is 2 stars and 25 XP. You wait 45 seconds between stick-ups, and can't rob the same person again for 15 minutes. You can't do it from a
+vehicle or while carrying somebody.
 
 ## ATMs
 
@@ -54,11 +55,12 @@ Hold a **gun** (not a blade) on them within 4 m and press <kbd>E</kbd>; they can
 - **Your keys:** <kbd>E</kbd> cash, <kbd>G</kbd> valuables, <kbd>Y</kbd> phone, <kbd>R</kbd> leans on a refusal,
   <kbd>H</kbd> lets them go.
 - **Their keys:** <kbd>E</kbd> hands it over, <kbd>G</kbd> refuses, <kbd>X</kbd> goes for your gun: a 7-second struggle
-  that hurts whoever loses.
+  that costs whoever loses some health. If you're the robber and you lose, you can't draw on anybody for 45 seconds.
 
 Each cash demand takes 7 to 15% of what they carry, never more than about $25,000 to $35,000 at once. It lasts at most
 90 seconds. It's only a crime if an officer is within 60 m: 5 stars, or 4 if you took nothing. 40 XP if you took
-something. Afterwards you wait 4 minutes to rob anyone, and can't rob that person again for 30 minutes.
+something. Afterwards you wait 4 minutes to rob anyone, and can't rob that person again for 30 minutes. Nobody else can rob
+them for 2 minutes either, and they can't rob anyone themselves in that time.
 
 ## Gang corners
 
@@ -90,12 +92,13 @@ refusal is 2 stars and a fight. You wait 90 seconds before the next (20 after a 
 ## What gang members drop
 
 When one dies, his things land on the ground for about two minutes, for whoever gets there first: cash ($20 to $120)
-60% of the time, a balaclava 15%, empty baggies, a stolen phone, a silver chain, a watch, and now and then a slim jim. A
+usually, a balaclava sometimes (other masks drop too), empty baggies, a stolen phone, a silver chain, a watch, and now
+and then a slim jim (rarely). A
 gun he was holding can be picked up into your weapon wheel.
 
 ## Drugs
 
 **Drugs can't be played yet**: nothing in the game gives you what any recipe needs.
 
-Related: [Shop robberies](../shop-robberies/) · [Wanted level and heat](../wanted-level-and-heat/) ·
+Related: [Items and your pockets](../items/) · [Shop robberies](../shop-robberies/) · [Wanted level and heat](../wanted-level-and-heat/) ·
 [Jail and the law](../jail-and-the-law/) · [Repo jobs](../repo-jobs/)

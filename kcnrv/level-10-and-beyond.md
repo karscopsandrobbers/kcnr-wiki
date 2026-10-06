@@ -10,8 +10,8 @@ bigger jobs.
 
 ## At total level 10: Premium Deluxe Motorsport
 
-It sells sports cars, supercars and convertibles. Prices follow how fast a car is: from $3,000 for an Asea to
-$2,500,000 for an Emerus, never more than $5,000,000. A motorbike costs a tenth of a car as fast, and Sanders sells
+It sells sports cars, supercars and convertibles, from $2,500 to $3,625,000. Prices follow how fast a car is: the scale
+runs from $3,000 for an Asea to $2,500,000 for an Emerus and never goes past $5,000,000. A motorbike costs a tenth of a car as fast, and Sanders sells
 them at any level. At the mod shop, the engine, brakes and turbo are what make a getaway. See
 [Vehicles](../vehicles/).
 
@@ -56,5 +56,8 @@ paycheck. See [Businesses](../businesses/).
 ## The long game
 
 - The weekly board pays $8,000 to $10,000.
-- The leaderboards run a **This Week** board that resets every Sunday (UTC), so a new player can top it.
+- The leaderboards run a **This Week** board that resets every Sunday (UTC), so a new player can top it. See
+  [Achievements and leaderboards](../achievements-and-leaderboards/).
 - 24 hours of play makes you a regular, announced to everyone.
+
+Related: [Vehicles](../vehicles/) · [The pimp](../the-pimp/) · [Tow dispatch](../tow-dispatch/) · [Banks and hacking](../banks-and-hacking/) · [Achievements and leaderboards](../achievements-and-leaderboards/)

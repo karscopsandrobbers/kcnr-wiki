@@ -18,7 +18,7 @@ Pay it at any police station desk. You can't join the police while one is unpaid
 
 The officer has to be within 4.5 m of you (more if you're in the same vehicle, less indoors). Cuffing takes 5.5
 seconds, and the arrest completes about 4 seconds later. `/breakcuffs` (`/bc`) gives you a 5 in 16 chance of breaking
-free, every 10 seconds; a failed try is Attempted Escape, 1 star, and the whole server hears about it.
+free, every 10 seconds; a failed try is **Escape**, 1 star, and the whole server hears about it.
 
 **Takedown:** killed by an officer while you have 4 or more stars, you go to a cell just as if you'd been arrested.
 
@@ -49,13 +49,15 @@ You can't be searched again for 45 seconds.
 - You serve it in a prison outfit in a cell at Mission Row, and walk out on its front steps. Your weapons are taken
   and handed back when you leave.
 - Dying while jailed puts you back in a cell, with no hospital bill.
+- Dying while cuffed takes the cuffs off before you respawn.
 
 ## What you lose
 
 - Your stars, your circles, and any robbery you were in the middle of.
 - **Till cash** from a hold-up, if you're arrested inside that job's circle while an officer is online.
 - **Your own car**, if it's within 60 m when you're arrested: it's impounded, and getting it back costs $1,000 a star,
-  plus $10,000 with an APB, up to $100,000.
+  plus $10,000 with an APB, up to $100,000. If a Contracted tow driver is on duty nearby, the car waits at the kerb for 2 minutes as
+  a tow call, and nobody can drive it; if nobody comes, the lot sends its own truck.
 
 ## Tips
 

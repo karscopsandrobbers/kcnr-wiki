@@ -10,7 +10,8 @@ There's no level. Your first house pays the **Buy a house** goal: $2,500 and 400
 
 ## Finding one
 
-There are hundreds of houses. At each door a label shows "Unowned House" and its price (green if your cash and bank
+There are hundreds of houses, and they are the only property you can buy: the apartments, hotels and motels on the
+map aren't for sale. At each door a label shows "Unowned House" and its price (green if your cash and bank
 cover it and the stamp duty, red if not), or the owner's name for it. Yours show on the map as "My House". Walk onto
 the door's marker and its menu opens:
 
@@ -44,16 +45,28 @@ inside takes you out. Houses don't store items yet: your own car's boot is the p
 
 | Pet | Price | What it does |
 | --- | --- | --- |
-| Big dog (Rottweiler, Shepherd, Husky, Retriever) | $12,500 | Barks, then goes for anybody you didn't let in, and it can kill |
+| Big dog (Rottweiler, Shepherd, Husky, Retriever) | $12,500 | Barks a moment, then goes for an intruder, and it can kill |
 | Small dog (Poodle, Pug, Westie) | $5,000 | Barks the house down and warns you |
-| Cat, up to 2 | $4,000 each | Runs from intruders, and you hear about it wherever you are |
+| Cat, up to 2 | $4,000 each | Bolts away from an intruder, and you hear about it wherever you are |
 
 A house keeps one dog. 6% sales tax goes on top, and rehoming a pet gives nothing back.
+
+- **Buy them from the Pets row** of the house menu (<kbd>H</kbd>). You choose whether it's a he or a she, and it gets a
+  name that fits. Rename it from the same menu: type the name in chat, up to 24 letters.
+- **They live in the house.** They only appear while somebody is inside, and they belong to the house: they're sold
+  with it, and cleared when it changes hands.
+- **Anybody inside can pet them.** A floating prompt on the animal lets you pet a dog, or send it to sit or lie down.
+  An intruder gets nothing: "It will not come anywhere near you."
+- **Who counts as an intruder:** somebody who walked in through an **unlocked door**, or who used the **password
+  while no owner was home**. You, a friend you let in, a tenant, a police officer on duty and a staff member on duty
+  never are. A password entry with you standing inside is a guest, not an intruder.
 
 ## Property tax
 
 Each house is billed at most once every 24 real hours, when the game week turns. The bill comes from your cash, then
-your bank. If you're offline or short, what's left is added to your next bill with 5% on top.
+your bank. If you're offline or short, what's left is added to your next bill with 5% on top. If you're online when
+it's taken, you're told what was paid and what is still owed. Once the debt grows large you're also
+told "A lien is on this property", which for now is a warning and nothing more.
 
 How it's worked out: the first $250,000 of the house's value is untaxed; above that, value up to $1,000,000 counts at
 0.8, then 1.0, 1.2 and 1.4; that's taxed at the district's rate, 0.02% in the cheapest district to 0.06% in the
@@ -77,6 +90,8 @@ Hall's **Property tax** page lists every district, cheapest first.
 - **Check the tax before you buy** with `/taxzone`.
 - **Give friends the password** instead of leaving the door unlocked.
 - **Keep money in the bank**: an unpaid bill grows 5% each time.
+- **Dying indoors** wakes you at a hospital in the open world, never inside the house: see
+  [Death and respawn](../death-and-respawn/).
 
-Related: [Money](../money/) · [Vehicles](../vehicles/) · [Your first hour](../your-first-hour/) ·
+Related: [Money](../money/) · [Vehicles](../vehicles/) · [Death and respawn](../death-and-respawn/) · [Wildlife](../wildlife/) · [Your first hour](../your-first-hour/) ·
 [Banks and hacking](../banks-and-hacking/)

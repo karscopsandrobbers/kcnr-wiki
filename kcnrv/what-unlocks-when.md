@@ -31,8 +31,8 @@ Most gates read your **total level**. The pimp's ladder reads your **civilian ra
 | 25 | Civilian | The heads-up race stake stops growing ($6,000) |
 
 **No level needed** for joining a team (not while you're wanted, and the police turn away anyone with unpaid
-tickets), robbing [Vangelico](../the-jeweller/), attacking a [Gruppe Sechs truck](../gruppe-sechs-trucks/), or buying
-from [Lester](../lester/) (civilians only).
+tickets), robbing [Vangelico](../the-jeweller/), attacking a [Gruppe Sechs truck](../gruppe-sechs-trucks/), buying a
+weapon at Ammu-Nation (no licence either), or buying from [Lester](../lester/) (civilians only).
 
 ## What grows a little every level
 

@@ -46,5 +46,6 @@ level.
 
 - **Stay to the end.** Everyone near the last flame gets the $300.
 - **The building fires have 30 flames or more**, so bring other firefighters.
+- **<kbd>J</kbd> silences the siren** of the Fire Truck while you drive it and its siren is on.
 
 Related: [Joining a team](../joining-a-team/) · [Medic](../medic/) · [Money](../money/)

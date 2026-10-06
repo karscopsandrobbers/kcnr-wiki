@@ -21,14 +21,29 @@ shut, its doors are locked.
    - **Cut the power** at the jeweller's own fuse box, with a blade, in 30 seconds: no alarm, cameras or lights for 90
      seconds, and the door locks open, which is the way in after hours. The police are told.
    - **Gas it**: a BZ gas grenade at the roof fan puts the guards, the assistant and anyone without a gas mask on the
-     floor for 90 seconds (tear gas, 30). A balaclava doesn't protect you; a gas mask does.
+     floor for 90 seconds (tear gas, 30). A balaclava doesn't protect you; a gas mask does. Ammu-Nation always stocks the plain Gas Mask and rotates the rest.
+     While you stand in a gassed building, "Gas wears off in" and the seconds left show under your take.
 2. **Start.** Point a weapon at the shop assistant to empty the till, or start on a case. Either way, everyone who
    joins is in the same job.
-3. **The cases.** There are 20, each holding one piece that goes into your bag. **The first case you smash sets off the
+3. **The cases.** There are 20, each holding one piece that goes into your bag. One robber works a case at a time, and a smashed case stays gone until
+   the shutters come back up and the glass returns. If your bag leaves you between claiming a case and opening it, the
+   piece lands on the floor at your feet. **The first case you smash sets off the
    alarm**, unless you disabled it or cut the power; gas doesn't stop the glass sensors.
-4. **The guards.** Two guards draw on robbers, shooters and whoever set off the alarm, unless they're gassed.
+4. **The guards.** Two guards draw on robbers, shooters and whoever set off the alarm, unless they're gassed. A guard you
+   shoot fights back.
 5. **Get out.** The job ends when every robber is 100 m from the building, or after 3 minutes. If anything noticed
    you: a wanted level and an APB.
+
+## What's in a case
+
+Each case holds one piece, picked by chance, in a varying condition.
+
+| How often | Pieces |
+| --- | --- |
+| Common | Gold ring, designer watch, pearl necklace, gold bracelet, diamond earrings, steel watch, gold necklace |
+| Fair | Amethyst, chronograph watch, blue topaz, topaz, emerald brooch, diamond bracelet, diamond ring, gold watch, luxury watch, sapphire necklace |
+| Rare | Sapphire, emerald, ruby, uncut diamond, platinum watch, cut diamond |
+| Rarest | Diamond necklace, very rarely |
 
 ## Pay
 
@@ -36,6 +51,8 @@ shut, its doors are locked.
 - **The pieces.** Your screen shows **In your bag** (what yours are worth) and **Crew carrying** (the whole crew's),
   both at full market value. A pawn shop pays less: see [Selling stolen goods](../selling-stolen-goods/).
 - **300 civilian XP and 60 Robbing XP** to every robber.
+- Quit the game mid-job with any of the loot on you and it still counts as the robbery: you're charged, the cooldowns
+  start on you, and the last robber leaving shuts the shop.
 - The shop shuts for 30 minutes after a robbery, and you can't rob it again for 30 minutes.
 
 ## Tips
@@ -45,5 +62,5 @@ shut, its doors are locked.
 - **Your bag drops where you fall** if you die while wanted or inside your own crime scene with police online.
 - Pieces stay **hot** for half an hour after the job. Sell them later for the full price, with no risk of a tip-off.
 
-Related: [Selling stolen goods](../selling-stolen-goods/) · [Banks and hacking](../banks-and-hacking/) ·
+Related: [Carrying things](../carrying-things/) · [Selling stolen goods](../selling-stolen-goods/) · [Banks and hacking](../banks-and-hacking/) ·
 [Shop robberies](../shop-robberies/) · [Repo jobs](../repo-jobs/) (where a bag comes from)

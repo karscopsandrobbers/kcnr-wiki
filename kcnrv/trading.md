@@ -30,8 +30,8 @@ pockets can't take a pile, it goes back to whoever offered it, and the rest of t
 **A trade ends**, everything going home, if you're more than 4 m apart, get into a vehicle, die, go to jail, get
 cuffed, arrested or searched, teleport, disconnect or close the menu. That holds even across a restart.
 
-**What can't be traded:** anything worn or held in your hands (take it off or put it down first), anything bound to
-you, and houses and vehicles.
+**What can't be traded:** anything worn or held in your hands (take it off or put it down first; see [Carrying things](../carrying-things/)), anything bound to
+you (the walkthrough's phone), and houses and vehicles. See [Items and your pockets](../items/).
 
 There's no fee, tax or cooldown.
 
@@ -39,5 +39,7 @@ There's no fee, tax or cooldown.
 
 - Use the table for anything valuable. **Give to** is a gift.
 - Agree last.
+- Fish are real items, so you can trade them (see [Fishing](../fishing/)). The pawn shop won't buy them.
 
-Related: [Money](../money/) · [Selling stolen goods](../selling-stolen-goods/) · [Keys and menus](../keys-and-menus/)
+Related: [Money](../money/) · [Items and your pockets](../items/) · [Selling stolen goods](../selling-stolen-goods/) ·
+[Keys and menus](../keys-and-menus/)

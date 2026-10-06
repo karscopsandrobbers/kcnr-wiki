@@ -12,7 +12,8 @@ tables: [levels, skills]
 what opens the big things: banks, groups, leasing a business, the premium dealership. It goes to 100. It grows from:
 
 - **all of your team XP**: every point you earn on a team also counts here;
-- **a few awards of its own**: the walkthrough (150), your first goals, a lottery win (150).
+- **a few awards of its own**: the walkthrough (150), your first goals, a lottery win (150). Of all the
+  [achievements](../achievements-and-leaderboards/), only your first goals pay anything.
 
 Skill XP never counts toward your total.
 
@@ -42,7 +43,9 @@ or total level. To check where you stand:
 
 - <kbd>F1</kbd> or <kbd>Z</kbd>: your total level;
 - `/level`: your team rank, and `/total`: your total level;
-- **Skills & ranks** in the <kbd>F10</kbd> dashboard: everything, with your tow rank under Towing.
+- **Skills & ranks** in the <kbd>F10</kbd> dashboard: everything, with your tow rank under Towing;
+- **Profile** in the dashboard: a card for each team with your counts on it, and the
+  [leaderboards](../achievements-and-leaderboards/) to see how you stack up.
 
 ## Where XP comes from
 
@@ -77,5 +80,7 @@ or total level. To check where you stand:
 | A fire | 6 a flame, +60 for everyone there when it's out | Firefighter |
 
 The team curve is gentler than the total's, so your civilian rank usually runs a little ahead of your total level.
+
+Related: [Achievements and leaderboards](../achievements-and-leaderboards/) · [Your first hour](../your-first-hour/)
 
 Next on the path: [What unlocks when](../what-unlocks-when/).

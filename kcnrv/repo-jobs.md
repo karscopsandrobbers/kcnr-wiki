@@ -21,13 +21,20 @@ job**. After a job, done or failed, he has another one 5 seconds later.
 1. Simeon texts you the area and the fee. The blip's colour says how rough it'll be: green is easy, yellow medium, red
    hard.
 2. Within 60 m the situation shows itself:
-   - **Easy:** a cheap car in a car park or at the kerb. It's locked, and the keys are on the ground a few metres away.
+   - **Easy:** a cheap car in a car park or at the kerb. It's locked, and the keys are on the ground a short way
+     off.
    - **Medium:** a better car in a driveway. The owner comes out of the front door armed and comes for you. Half the
      time the car is unlocked; otherwise the keys are in the owner's pocket and drop where the owner goes down.
    - **Hard:** a car on gang turf with three or four armed gang members around it. One of them has the keys.
 3. **Get in** by picking up the keys, or with a **slim jim** from your pockets within 3 m of the car: it takes 4 seconds
    and snaps one time in four, and on a gang car it sets the crew off.
-4. **Drive it into the bay beside the showroom**, sitting in the car.
+   While a locked car is still shut, a **KEYS** bar shows on screen: red "NOT FOUND" until you pick the keys up, then
+   blue "FOUND". It goes when you get in.
+4. **Drive it into the bay beside the showroom**, sitting in the car. Once the car is open (keys, slim jim, or it was
+   never locked) it carries a blue cone until you drive it; before that, the blip on the map is your guide.
+
+A repo car is a job, not a car: you can't smash its windows or use its boot. If you deliver it, it fades on the lot.
+If the job fails, the car is removed once nobody is in it.
 
 **The clock** is about 0.12 seconds a metre of the round trip (5 to 15 minutes), plus 2, 3 or 4 minutes for easy,
 medium or hard. Running out of time, dying, or the car being destroyed fails the job, and it pays nothing.
@@ -48,7 +55,7 @@ medium or hard. Running out of time, dying, or the car being destroyed fails the
 | --- | --- | --- | --- |
 | Easy | $1,600 + $0.40 a metre from the desk to the car | 60 | |
 | Medium | $3,000 + $0.40 a metre | 100 | |
-| Hard | $5,000 + $0.40 a metre | 150 | A 35% chance of a duffel bag in the boot |
+| Hard | $5,000 + $0.40 a metre | 150 | Sometimes a duffel bag, put in your pockets when you deliver (with room for it) |
 
 **Damage comes off the fee**, up to 75% for a wreck. Condition is the engine and body health times the car's looks, and
 the looks lose 10% for the windscreen, 10% for a bumper off, 8% for a burst tyre, 6% for a damaged door, bonnet or boot,
@@ -60,7 +67,8 @@ away pays $6,200.
 ## Getting better at it
 
 There's no repo rank: every job pays civilian XP, and the more cars you've delivered, the more often you get the
-medium and hard jobs that pay most. A delivery with nothing taken off the fee earns **Showroom condition**, and a car
+medium and hard jobs that pay most. Your <kbd>F10</kbd> Profile, on the Civilian card, counts your repo jobs done, how
+many of each tier, how many you failed, and your best time for each tier. A delivery with nothing taken off the fee earns **Showroom condition**, and a car
 back from every tier earns **Simeon's Favourite**.
 
 ## Tips
@@ -72,4 +80,5 @@ back from every tier earns **Simeon's Favourite**.
 - On a medium job, try the door first: half the cars are unlocked.
 
 Related: [Tow dispatch](../tow-dispatch/) · [Trucking](../trucking/) · [The pimp](../the-pimp/) ·
-[Vehicles](../vehicles/)
+[Vehicles](../vehicles/) · [Items and your pockets](../items/) ·
+[Achievements and leaderboards](../achievements-and-leaderboards/)

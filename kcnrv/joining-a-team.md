@@ -28,9 +28,11 @@ of their building, and you leave them at the same desk.
 ## Joining and leaving
 
 1. Walk into the desk marker. The top row says **Switch to Law Enforcement** (or Medic, or Firefighter).
-2. Pick it. The server sees you join, and your uniform goes on: a random one the first time, then the last one you
-   wore on that team.
+2. Pick it. **Everyone on the server sees a line in chat that you joined**, and your uniform goes on: a random one the
+   first time, then the last one you wore on that team.
 3. To leave, go back to a desk of your own team and pick **Switch to Civilian**.
+
+**If staff have barred you from a team,** its desk refuses you and tells you why.
 
 You can't go straight from one team to another: another team's desk says "You may not switch teams here". Go back to
 civilian first.
@@ -67,7 +69,9 @@ The city pays wages out of its treasury, so the share you get depends on how hea
 | At the $5,000,000 target | 100% |
 | Above it | Up to 110% |
 
-The **Wages** line at City Hall shows the current share. Income tax comes off the whole paycheck in bands:
+The **Wages** line at City Hall shows the current share.
+
+Income tax comes off the whole paycheck in bands:
 
 | Part of the paycheck | Tax |
 | --- | --- |
@@ -75,6 +79,10 @@ The **Wages** line at City Hall shows the current share. Income tax comes off th
 | $10,000 to $30,000 | 8% |
 | $30,000 to $75,000 | 15% |
 | Above $75,000 | 22% |
+
+**When the week turns** you get a chat line with your gross pay, the income tax taken and what you keep, and a Maze Bank
+notification. If the city couldn't pay in full, a second line says how much of what you earned it paid, and why. The
+whole server is told too: the week that closed, what the city collected and paid out, and what the treasury now holds.
 
 Related: [Police](../police/) · [Medic](../medic/) · [Firefighter](../firefighter/) ·
 [How progression works](../how-progression-works/) · [Money](../money/)

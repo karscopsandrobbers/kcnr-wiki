@@ -20,6 +20,9 @@ None of these needs a gun or a level.
 | [Simeon's repo jobs](../repo-jobs/): his desk at Premium Deluxe | $1,600 for an easy job plus $0.40 a metre, less up to 75% for damage | 60 |
 | [The pimp](../the-pimp/), outside each club | *Trouble on the corner*: $800 plus $0.30 a metre, 1% more per civilian level | 50 |
 
+**Today's work pays on top.** `/work` shows three jobs for the game day, and a tow, trucking, petrol, repo or pimp job can be one of them. See
+[Your first hour](../your-first-hour/).
+
 **Your tow rank is your Towing skill.** Rank 2 comes at Towing 3, about five kerb calls in, with the Large Tow
 Truck, breakdowns ($2,000 base) and night calls.
 
@@ -53,7 +56,7 @@ Cargo runs can come with a random event: illegal goods, fragile goods or zoo ani
 
 - **A vehicle**, for the goal. Buy cheap first: the scrapyard buys back a car you own for 95% of what you paid, less
   its mileage.
-- **A gun**, if you plan to rob: a pistol is $2,500 plus tax.
+- **A gun**, if you plan to rob: a pistol is $2,500 plus tax, with one magazine. Anybody can buy one.
 - **Nothing big yet.** Most of your money should go toward a [house](../houses/).
 
 Next on the path: [Levels 5 to 10](../levels-5-to-10/).

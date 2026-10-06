@@ -14,6 +14,8 @@ tables: [hacking]
   a **duffel bag on your back**, for the boxes only; **sticky bombs** if you want to blow the door. Hacking gear helps
   but is never needed.
 - **Crew:** optional, up to 12. Whoever joins is in.
+- **Gear shops:** the drill is on the counter of every 24/7 and gas station, which also sell the blow torch. Ammu-Nation
+  always stocks the blow torch and the gas mask.
 
 ## The banks
 
@@ -37,7 +39,8 @@ The clock is **6 minutes**, or **12 at Pacific Standard**, from the moment the j
 2. **Start the job.** At a Fleeca or Blaine County, <kbd>E</kbd> on the **Drill** marker at the vault door, or
    <kbd>Y</kbd> ("Open the vault") at the terminal. Pacific Standard: `/heists` inside a house you own.
 3. **Get through the door, one of three ways:**
-   - **Drill it** (<kbd>E</kbd>): hold <kbd>W</kbd> to feed the bit and watch the heat. Overheat on the vault door and
+   - **Drill it** (<kbd>E</kbd>): feed the bit with <kbd>W</kbd> and <kbd>S</kbd> and watch
+     the heat; <kbd>Q</kbd> and <kbd>E</kbd> change its speed. Overheat on the vault door and
      **the drill is destroyed**. This is the only way through without a sound.
    - **Hack the terminal** (<kbd>Y</kbd>, "Hack the vault"). The crew gets **two attempts** a job; every failure sets off
      the alarm, and walking away from the puzzle doesn't count as one. **A hacked-open vault sets off the alarm** unless
@@ -53,7 +56,9 @@ The clock is **6 minutes**, or **12 at Pacific Standard**, from the moment the j
    anything noticed you, each robber gets **2 stars and an APB**.
 
 **Joining a job already running:** the drill or the terminal at that bank, or `/jr` near the vault door, up to 12, and
-not once less than about a third of the clock is left. Dying, being jailed or changing team takes you out with nothing.
+not once less than about a third of the clock is left. Dying, being jailed or changing team takes you out with nothing. Quitting the game with any of the loot from the job
+  in a bag still counts as the robbery: you're charged, the cooldowns start on you, and the last robber leaving shuts the
+  bank.
 
 ## Pay
 
@@ -85,16 +90,24 @@ Pacific Standard always uses the password terminal.
 | Brute force | Click the right letters as they roll past |
 | Password terminal (Pacific Standard) | Find the password among the noise; each miss tells you how close you were |
 
-With nothing, a bank's hacks are hard. Gear from [Lester](../lester/) and your Hacking level make them easier in
-steps: see the table below. Hacking level 2 comes at 3 successful hacks, 3 at 6, 10 at 42 and 20 at 188.
+With nothing, a bank's hacks are hard: the circuit breaker, the data crack and brute force all ask the most of you. Gear from [Lester](../lester/) and your Hacking level make them easier in
+steps: see the table below. Hacking level 2 comes at 3 successful hacks, 3 at 6, 10 at 42 and 20 at 188. The alarm panel tells you what helped: your
+laptop takes the most off, your hacking skill a little, and the USB drive in the laptop covers a failed attempt.
+Gear and skill do **not** help the drill, the plasma cutter or a shop safe's dial.
+
+While a puzzle is up, chat is hidden, your gun is holstered and nothing fires or swings. The circuit board always starts
+from the left. One pair of hands: you can't start another hack, door, deposit box or trolley until the one you're on
+ends.
 
 ## Tips
 
 - Only the drill opens a vault door silently.
 - With the alarm disabled, nothing inside sets it off for 10 minutes: not the door, the bombs or gunshots.
 - A suppressed shot doesn't set the alarm off, but anyone within about 9 m still hears it.
-- Don't all step outside while someone still wants the boxes: an empty building ends the job.
+- Don't all step outside while someone still wants the boxes: an empty building ends the job. The boxes stay open to the
+  drill until the building empties, even after the last trolley.
+- Relog while you're inside a bank vault and you come back where you were before you went in.
 - The vault cash isn't yours until the job ends. Die halfway through and your share is gone.
 
-Related: [Lester](../lester/) · [Selling stolen goods](../selling-stolen-goods/) · [The jeweller](../the-jeweller/) ·
+Related: [Carrying things](../carrying-things/) · [Lester](../lester/) · [Selling stolen goods](../selling-stolen-goods/) · [The jeweller](../the-jeweller/) ·
 [Wanted level and heat](../wanted-level-and-heat/) · [Groups and parties](../groups-and-parties/)
