@@ -19,15 +19,18 @@ vehicle** goal: $1,000 and 150 XP.
 | Larry's RV Sales | Off-road, vans | $2,500 to $255,000 |
 | Sanders Motorcycles | Motorbikes | $2,500 to $1,300,000 |
 | Mr Spokes Cycles | Bicycles | $200 to $12,500 |
-| Grapeseed Autos | Utility | $2,500 |
+| Grapeseed Autos | Utility | $10,000 to $88,000 |
 | Higgin's Docktease | Boats | $4,200 to $530,000 |
 
 No dealership sells helicopters, planes, lorries, or the armed and military specials, and the Kosatka submarine isn't
 for sale either.
 
 **How a price is set:** by how fast the vehicle is, lap time counting three quarters and top speed a quarter. A
-motorbike costs a tenth of a car that's just as fast; boats and bicycles cost a quarter of their GTA Online price. **No
-vehicle costs less than $2,500 or more than $5,000,000.** A few examples:
+motorbike costs a tenth of a car that's just as fast; boats and bicycles cost a quarter of their GTA Online price.
+**Utility vehicles and vans are priced by what they're for**, not their speed: $10,000, plus more for what the vehicle
+does here (a tow truck $35,000 to $45,000, the forklift $15,000, a pickup's bed $6,000, a van's big boot $12,000),
+plus a little more for a model that costs more in GTA Online. **No vehicle costs less than $2,500 or more than
+$5,000,000.** A few examples:
 
 | Vehicle | Price before tax |
 | --- | --- |
@@ -40,6 +43,11 @@ vehicle costs less than $2,500 or more than $5,000,000.** A few examples:
 | Bati 801 | $300,000 |
 | Zentorno | $665,000 |
 | Pariah | $1,675,000 |
+| Mower | $10,000 |
+| Speedo | $22,000 |
+| Burrito | $40,000 |
+| Forklift | $25,000 |
+| Tow Truck | $74,500 |
 | Krieger | $2,450,000 |
 | Emerus | $2,500,000 |
 | Seashark | $4,200 |

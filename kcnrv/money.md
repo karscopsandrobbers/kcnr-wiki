@@ -101,6 +101,26 @@ money the city took this game week and a **Spent** row for every kind it paid ou
 `/taxzone [price]` shows the district you're standing in and what a property at that price would be taxed, and
 `/assets` lists everything you own.
 
+## What clothes cost
+
+At a clothing store every piece on a rail costs the same, and the menu shows it on each one. Taking something off is
+free.
+
+| Rail | Price |
+| --- | --- |
+| Watches | $1,200 |
+| Bracelets | $600 |
+| Masks | $400 |
+| Tops, shoes | $300 |
+| Legs, ear pieces | $250 |
+| Glasses, accessories | $200 |
+| Hats | $150 |
+| Undershirts | $120 |
+| Decals | $80 |
+| Body (arms) | Free |
+
+Vangelico's jewellery has its own prices.
+
 ## Tips
 
 - Bank big amounts. Cash is what a hospital bill, a stick-up or a robbery drop takes.

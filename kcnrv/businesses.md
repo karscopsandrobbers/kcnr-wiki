@@ -118,6 +118,8 @@ three $2,667, four $2,500. You're paid in full if you were in it for a minute, h
 - **A stop counts** when the job's vehicle is right at it. **Only the crew counts at the wheel**: with
   anybody else driving it, no stop counts and the hint tells you to get it back.
 - **It fails** if the vehicle is wrecked or the clock runs out. Nobody is paid, and the crew still waits the 12 minutes.
+- **After the job** the vehicle is left to you like any car on the street: drive on in it if you like. It's cleared
+  away once nobody is near it.
 - **While the place is smashed up** every other job is refused: Defend is the only one offered until it's put right.
 - **A won Defend** puts back less condition than other jobs and keeps the gang away for 3 game days, about 2.4 real
   hours. The enemies carry pistols, micro SMGs, bats and machetes, and each shows as a red dot on the map.

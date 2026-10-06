@@ -25,7 +25,7 @@ opens: From the start
 
 | Car | Price | XP |
 | --- | --- | --- |
-| A personal vehicle | 95% of what you paid, less its mileage | 15 |
+| A personal vehicle | 95% of what you paid, less its mileage, never below $0. The menu shows the price before you sell, and rates the mileage good, medium or bad by how much of the price it has taken | 15 |
 | A street car he wants | $200, plus up to $400 for the body's condition | 15 |
 | A big vehicle he wants | $200 more | 15 |
 
