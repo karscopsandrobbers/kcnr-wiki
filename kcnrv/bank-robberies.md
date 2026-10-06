@@ -51,8 +51,8 @@ The clock is **6 minutes**, or **12 at Pacific Standard**, from the moment the j
    Pacific Standard's round vault door takes about 15 seconds to swing open. Once the job is over, every vault shuts
    again as soon as nobody is inside it, or after three minutes whoever is.
 4. **Empty the vault.**
-   - **Trolleys** (Fleeca): press **Grab**. It takes about 37 seconds and brings its own bag. A ring closes on a mark at
-     the bottom of the screen: press <kbd>E</kbd> as it meets the mark and you grab 1.5 times faster until the next one.
+   - **Trolleys** (Fleeca): press **Grab**. It takes about 37 seconds and brings its own bag. Hold <kbd>E</kbd> to grab
+     one and a half times as fast. You can't move or crouch until the bag is zipped.
    - **Deposit boxes** (Fleeca): <kbd>G</kbd> at a box with the drill, a worn duffel bag and free arms. Six of the nine
      are worth drilling, different ones every job; about one in ten is empty, the rest hold a piece of jewellery.
    - **Cash piles** (Blaine County, Pacific Standard): press **Take**. One pile each.

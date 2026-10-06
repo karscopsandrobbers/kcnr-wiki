@@ -21,7 +21,7 @@ the vault opens; lose it and the alarm goes off.
 - **The vault hack gets two attempts a job**, shared by the crew. Walking away from the puzzle doesn't count as one.
 - **You can't disable an alarm once the job has started.** Do it first.
 - **Each bank is dealt one puzzle** and keeps it until the next job there, and its alarm panel asks the same one: the
-  panel tells you what the vault will ask. Pacific Standard always uses the password terminal.
+  panel tells you what the vault will ask. Pacific Standard deals either the password terminal or the fingerprint clone.
 
 How a bank job runs around the hack is on [Bank robberies](../bank-robberies/), and Vangelico's on
 [Vangelico](../the-jeweller/).
@@ -33,14 +33,11 @@ How a bank job runs around the hack is on [Bank robberies](../bank-robberies/), 
 | Circuit breaker | Steer a line from port to port without touching anything (<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> or the arrow keys). It always starts from the left |
 | Data crack | Stop eight sliding blocks in the green, left to right. A miss undoes the one before |
 | Brute force | Click the right letters as they roll past, against a one-minute clock. The columns slow a little the longer it goes |
-| Fingerprint clone | Cayo Perico's green screen. Pick a strip with <kbd>↑</kbd> <kbd>↓</kbd> and turn it with <kbd>←</kbd> <kbd>→</kbd> until all eight make the print, then the next print. Every so often the panel scrambles the one you're on, and there's a five-minute clock |
-| VoltLab | Cayo Perico's voltage hack. Wire each of three numbers to x1, x2 or x10 (<kbd>↑</kbd> <kbd>↓</kbd> to choose, <kbd>Enter</kbd> or click to wire, <kbd>Esc</kbd> to go back) so the total matches the target. A wrong total deals a new board, and the two-minute clock keeps running |
+| Fingerprint clone (Pacific Standard) | Cayo Perico's green screen. Pick a strip with <kbd>↑</kbd> <kbd>↓</kbd> and turn it with <kbd>←</kbd> <kbd>→</kbd> until all eight make the print, then the next print. Every so often the panel scrambles the one you're on, and there's a five-minute clock |
 | Password terminal (Pacific Standard) | Find the password among the noise; each miss tells you how close you were |
 
 While a puzzle is up, chat is hidden, your gun is holstered and nothing fires or swings. One pair of hands: you can't
 start another hack, a door, a deposit box or a trolley until the one you're on ends.
-
-To give up on VoltLab, hold <kbd>Delete</kbd>: <kbd>Esc</kbd> there only takes back the last wire.
 
 ## Getting better at it
 
@@ -48,7 +45,7 @@ With nothing, every puzzle asks the most of you. Two things make them
 easier, in steps, and they add up:
 
 - **Your Hacking skill.** It's a skill of its own, levelling up as you hack, separately from your total level: level 2
-  comes at 3 successful hacks, 3 at 6, 10 at 42 and 20 at 188. At **Hacking 10** every hack gets one step easier (a slower circuit or data crack, more wrong letters, one print fewer, more time on VoltLab), and at
+  comes at 3 successful hacks, 3 at 6, 10 at 42 and 20 at 188. At **Hacking 10** every hack gets one step easier (a slower circuit or data crack, more wrong letters, one print fewer on the fingerprint clone), and at
   **Hacking 20** another. The password terminal works differently: it gets a little easier with every Hacking level.
 - **Gear from [Lester](../lester/)**:
   - **the hacking device**: one step easier, until it burns out (it does, now and then, in a shower of sparks);
