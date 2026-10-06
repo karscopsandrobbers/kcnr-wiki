@@ -17,7 +17,7 @@ another robbery. Before the walkthrough reaches its hold-up step, a robbery is r
 
 The 24/7s and the gas stations with a shop, liquor stores, Ammu-Nations, the pawn shop in Strawberry, the clothing
 stores (Ponsonbys, Suburban, Binco, Discount Store), Pibwasser's Country Bar, Bahama Mamas, Tequi-la-la and the Vanilla
-Unicorn. [The jeweller](../the-jeweller/) and [the banks](../banks-and-hacking/) have pages of their own.
+Unicorn. [The jeweller](../the-jeweller/) and [the banks](../bank-robberies/) have pages of their own.
 
 ## How it works
 
@@ -119,4 +119,4 @@ A gun in your hand makes the ones who would have a go rarer. Point it at one who
 - A drill or blow torch counts as illegal in a police search.
 
 Related: [Wanted level and heat](../wanted-level-and-heat/) · [Gangs and street crime](../gangs-and-street-crime/) ·
-[Jail and the law](../jail-and-the-law/) · [The jeweller](../the-jeweller/) · [Banks and hacking](../banks-and-hacking/)
+[Jail and the law](../jail-and-the-law/) · [The jeweller](../the-jeweller/) · [Bank robberies](../bank-robberies/)

@@ -12,7 +12,7 @@ Most gates read your **total level**. The pimp's ladder reads your **civilian ra
 | --- | --- | --- |
 | From the start | | [Tow dispatch](../tow-dispatch/) rank 1. [Trucking](../trucking/) cargo and petrol runs. [Simeon's Repo Jobs](../repo-jobs/). The pimp's *Trouble on the corner*. Shop and ATM hold-ups (once the walkthrough reaches them). [Fishing](../fishing/), [racing](../racing/), the [G6 insider](../gruppe-sechs-trucks/). Every dealership but Premium Deluxe. [Joining a team](../joining-a-team/). |
 | 3 | Civilian | The pimp's *Collect the earnings* (at night only, 19:00 to 06:00 game time) |
-| 3 | Total | [Banks](../banks-and-hacking/): walk up to a Fleeca, or `/heists` for Pacific Standard |
+| 3 | Total | [Banks](../bank-robberies/): walk up to a Fleeca, or `/heists` for Pacific Standard |
 | 3 | Towing | Tow rank 2: the Large Tow Truck, highway breakdowns, calls after dark |
 | 4 | Total | Trucking random events: illegal goods, fragile goods, zoo animals |
 | 5 | Total | Create a [group](../groups-and-parties/) (`/creategroup`). Lease a [business](../businesses/) slot (`/businesses`) |
@@ -21,7 +21,7 @@ Most gates read your **total level**. The pimp's ladder reads your **civilian ra
 | 7 | Fishing | The large cooler |
 | 8 | Civilian | The pimp's *Client pickup* |
 | 10 | Total | Premium Deluxe Motorsport: sports cars, supercars and convertibles |
-| 10 | Hacking | Every hack one step easier |
+| 10 | Hacking | Every [hack](../hacking/) one step easier |
 | 10 | Towing | Tow rank 4: insurance recoveries |
 | 11 | Civilian | The pimp's *Hold the turf* |
 | 15 | Total | Buying from Vangelico's cases |

@@ -34,9 +34,9 @@ quiet night. By civilian level 15 the pay is 15% higher, rising 1% a level to 50
 ## Your Hacking skill: levels 10 and 20
 
 Hacking is a skill of its own: it levels up as you hack, separately from your total level. When your **Hacking skill
-reaches level 10**, every bank hack gets one step easier, and at **level 20** one step easier again. The password
+reaches level 10**, every hack gets one step easier, and at **level 20** one step easier again. The password
 terminal at Pacific Standard works differently: it gets a little easier with every Hacking level you gain. See
-[Banks and hacking](../banks-and-hacking/).
+[Hacking](../hacking/).
 
 ## The big jobs
 
@@ -62,4 +62,4 @@ paycheck. See [Businesses](../businesses/).
   [Achievements and leaderboards](../achievements-and-leaderboards/).
 - 24 hours of play makes you a regular, announced to everyone.
 
-Related: [Vehicles](../vehicles/) · [Pimping (Working Girls)](../the-pimp/) · [Tow dispatch](../tow-dispatch/) · [Banks and hacking](../banks-and-hacking/) · [Achievements and leaderboards](../achievements-and-leaderboards/)
+Related: [Vehicles](../vehicles/) · [Pimping (Working Girls)](../the-pimp/) · [Tow dispatch](../tow-dispatch/) · [Bank robberies](../bank-robberies/) · [Hacking](../hacking/) · [Achievements and leaderboards](../achievements-and-leaderboards/)

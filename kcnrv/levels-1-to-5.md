@@ -45,7 +45,7 @@ of you work a job, the pot grows and you each take 75%.
 - 150 XP and 100 Robbing to every robber.
 - One bank an hour per robber, whichever branch. Bring a crew.
 
-See [Banks and hacking](../banks-and-hacking/).
+See [Bank robberies](../bank-robberies/).
 
 ## At total level 4
 

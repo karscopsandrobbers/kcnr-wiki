@@ -94,4 +94,4 @@ Hall's **Property tax** page lists every district, cheapest first.
   [Death and respawn](../death-and-respawn/).
 
 Related: [Money](../money/) · [Vehicles](../vehicles/) · [Death and respawn](../death-and-respawn/) · [Wildlife](../wildlife/) · [Your first hour](../your-first-hour/) ·
-[Banks and hacking](../banks-and-hacking/)
+[Bank robberies](../bank-robberies/)

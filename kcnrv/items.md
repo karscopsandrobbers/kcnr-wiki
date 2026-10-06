@@ -62,8 +62,7 @@ starts at one. With several things under your feet the last one is offered first
 - **One bag and one mask at a time.** Wearing another takes the first off. A duffel hangs on your back, and each duffel
   is a random look that stays with that bag.
 - **<kbd>Right Alt</kbd>:** tap to put a mask on or take it off, hold for a wheel of your masks and bags.
-- **A balaclava** makes your nametag read "Masked" to everybody else. The **Night Vision Mask** gives you night vision
-  while it's on, and a **gas mask** is for getting through gas.
+- **A balaclava** makes your nametag read "Masked" to everybody else, and a **gas mask** is for getting through gas.
 - **A mask you bought as clothing** stays in your wardrobe and keeps working across logins.
 - **A worn pile can't be given or traded**: take it off first.
 - **Clothing toggles:** the personal assistant (<kbd>`</kbd>) has a **Clothing** menu: hat, visor, glasses, earrings, hair,
@@ -89,6 +88,84 @@ while one is going.
 | Pisswasser | 5 | |
 | Whisky, Vodka, Tequila, Wine | 8 | |
 | Champagne | 10 | |
+
+## What each item is for
+
+Everything you can use, and what it does. A **contraband** item is taken in a police search: see
+[Contraband and frisks](#contraband-and-frisks).
+
+### Tools
+
+| Item | What it's for |
+| --- | --- |
+| Big Rotary Drill | The quiet way through a bank vault door, then the deposit boxes inside. Also drills a shop's back-office safe and the rear lock of a stopped [Gruppe Sechs truck](../gruppe-sechs-trucks/), and forces sealed G6 briefcases and bags. Overheat it on a vault door and it's destroyed. Contraband |
+| Blow Torch | Cuts open a shop's back-office safe: slower than the drill, but quieter. That's all it does. Contraband |
+| Crowbar | The only tool that forces a G6 money crate. Also opens sealed G6 briefcases and bags, and smashes the jeweller's display cases |
+| Blades: knife, switchblade, dagger, machete, hatchets, battle axe | Cut a building's fuse box to kill its power: alarm, cameras and lights go off and the doors fail open. Also cut a G6 cash duffel open where it lies and force sealed G6 briefcases and bags. The machete, hatchets and battle axe smash display cases too, and a broken bottle opens G6 bags |
+| Hammer, bat, golf club, pipe wrench, knuckle duster | Smash the jeweller's display cases (so does a gun) |
+| Slim Jim | Opens the locked car on one of [Simeon's Repo Jobs](../repo-jobs/). It can snap. Contraband |
+| Sticky bombs, mines, grenades, pipe bombs, launchers | Blow a bank vault door or a Gruppe Sechs truck's rear doors. Loud: the alarm goes off |
+| Tear gas and BZ gas grenades | Thrown into a building's roof vent, they put the staff and guards on the floor, so the clerk can't press the panic button. Anyone inside without a gas mask goes down too |
+| Molotov, flare | Light the petrol in a rival business's [arson job](../businesses/) |
+| Jerry can | Fill it at a pump, then pour it into a car from the car's <kbd>X</kbd> menu. Also pours the petrol for an arson job |
+| Fire extinguisher | Puts fires out. A fire truck refills it |
+| Binoculars | Look through them. Use them again, or `/binoculars`, to put them away |
+| Walkie talkie | Talk to other walkie owners on a shared frequency: switch it on and tune it in the personal assistant (<kbd>`</kbd>), then `/walkietalkie` |
+
+### Bags
+
+| Item | What it's for |
+| --- | --- |
+| Duffel bag | The bag you wear. You need one on to smash the jeweller's display cases and to empty a vault's deposit boxes, and a held-up clerk fills it faster. It carries bag-sized loot so your hands stay free. Dumpsters and hard repo cars are the only places to find one |
+| Briefcase, package | Carried, not worn: somewhere to put things |
+| Small and Large Cooler | The only thing that lets you carry more fish. See [Fishing](../fishing/) |
+
+### Wearables
+
+| Item | What it's for |
+| --- | --- |
+| Balaclava and every other mask | Hides your face: cameras and witnesses can't name you, and a crime scene around you is smaller. But while you're wanted, a mask worn out in the open stops your stars fading, and a masked figure gets phoned in. Off out of sight in a chase, it helps you lose the police |
+| Gas masks and respirators | Keep you on your feet in a gassed building. They hide your face like a balaclava too. Ammu-Nation always has the plain Gas Mask |
+| Armour, from Super Light to Super Heavy | Use it to fill your armour bar to its level. Kept if you already have as much. $500 to $2,500 at Ammu-Nation |
+| Rounds | Use them to load the gun that takes them |
+
+### Fishing
+
+| Item | What it's for |
+| --- | --- |
+| Rods | Cast with <kbd>J</kbd> and fight the fish in. They wear with every cast |
+| Bait | One goes with every cast, bite or not, and you need some to cast at all |
+| Rod Repair Kit | Puts condition back on your most worn rod. Kept if nothing needs fixing |
+| Crab Pot, Lobster Hoop, Finfish Trap | Set from a boat, left to soak, hauled in later |
+| Fishing Licence | Lets you fish without an officer charging you for it |
+| Fish | Sold by weight at a Bait & Tackle. Small ones go on the hook as bait |
+
+### Hacking
+
+From [Lester](../lester/), civilians only. All three are contraband. See [Hacking](../hacking/).
+
+| Item | What it's for |
+| --- | --- |
+| Hacking device | Every hack one step easier, until it burns out |
+| Hacking laptop | Every hack two steps easier. It never breaks, and it takes a USB drive |
+| USB hacking drive | In the laptop, forgives one failed hack, then it's spent |
+
+### Phones and paper
+
+| Item | What it's for |
+| --- | --- |
+| Burner phone, smartphone | Take it out to hold it and use its camera. There are no calls or texts between players. Phones are what pickpockets and muggers go after |
+| Lottery ticket | Use it to pick a number from 0 to 100 that nobody else has: see [Money](../money/) |
+
+### Gruppe Sechs cargo
+
+Briefcases, cash bags, gold bags, cash duffels and money crates from a [Gruppe Sechs truck](../gruppe-sechs-trucks/).
+Open them with a tool (a crate needs the crowbar, a duffel a blade; briefcases and bags take a blade, the crowbar or
+the drill), or sell them sealed to the [G6 insider](../selling-stolen-goods/). Contraband.
+
+**Everything else you find** (wallets, stolen phones, watches, chains, jewellery, gems, gold bars and coins,
+paintings, trophies, a guitar, a TV, a laptop or tablet, cash bundles) has no use of its own: sell it at a
+[pawn shop](../selling-stolen-goods/).
 
 ## Where items come from
 

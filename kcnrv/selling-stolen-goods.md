@@ -2,7 +2,7 @@
 title: Selling stolen goods
 summary: Turn what you took into cash, jewellery and gold at a pawn shop, Gruppe Sechs cargo with the G6 insider.
 section: crime
-order: 9
+order: 10
 ---
 
 ## Pawn shops
@@ -47,4 +47,4 @@ too.
 | Till or vault cash | Nothing to sell | It's already money |
 
 Related: [Items and your pockets](../items/) · [Carrying things](../carrying-things/) · [The jeweller](../the-jeweller/) · [Gruppe Sechs trucks](../gruppe-sechs-trucks/) ·
-[Banks and hacking](../banks-and-hacking/) · [Lester](../lester/)
+[Bank robberies](../bank-robberies/) · [Lester](../lester/)

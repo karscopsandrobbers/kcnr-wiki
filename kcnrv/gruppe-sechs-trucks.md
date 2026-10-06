@@ -2,7 +2,7 @@
 title: Gruppe Sechs trucks
 summary: Armoured trucks carry the takings from the banks and the jeweller. Stop one, get into the back, and carry the cargo off.
 section: crime
-order: 7
+order: 9
 opens: From the start, as a civilian
 ---
 
@@ -68,7 +68,7 @@ or stays with the run as another escort. No guard alive to call, no backup.
   **On a truck that is standing,** the whole crew, the two from the back too, gets out and fights at once. **On a
   truck that is moving,** it keeps rushing, and the crew come out only after 8 seconds stood still under fire.
 - **Or drill the lock**: you need a **Big Rotary Drill in your pockets** (the banks' drill, sold at 24/7 and gas
-  stations: see [Banks and hacking](../banks-and-hacking/)). Stand at the rear doors with the truck standing and nobody
+  stations: see [Bank robberies](../bank-robberies/)). Stand at the rear doors with the truck standing and nobody
   of the crew in the cab, and press <kbd>E</kbd> at **Drill the lock**. It's the same hold-<kbd>W</kbd> heat game as a
   deposit box. If the truck moves, the bit comes off the lock. If the bit overheats, it ends and
   you can try again. A drilled lock swings the doors open. It's quiet, so dispatch hears nothing, but the crew turn on you.
@@ -157,6 +157,6 @@ There's no XP for the attack itself; the insider pays 10 Robbing XP a piece.
 
 **For officers:** every run is on your map, and you can escort one. See [Police](../police/).
 
-Related: [Selling stolen goods](../selling-stolen-goods/) · [Banks and hacking](../banks-and-hacking/) ·
+Related: [Selling stolen goods](../selling-stolen-goods/) · [Bank robberies](../bank-robberies/) ·
 [Wanted level and heat](../wanted-level-and-heat/) · [Groups and parties](../groups-and-parties/) ·
 [Carrying things](../carrying-things/) · [Police](../police/)

@@ -90,6 +90,13 @@ at anchor you can fish from the driver's seat (Dinghy, Jetmax, Seashark, Speeder
 Marquis, Longfin); on other boats use a passenger seat or the deck, and a boat with an enclosed helm needs you to move
 to an open spot on it. Not from the Avisa, the Submersibles, the Predator, the Patrol Boat or the Tug.
 
+**The anchor** is <kbd>-</kbd> (the numpad minus works too), from the helm or from beside a boat you've just stepped off.
+You're told "Anchor down" or "Anchor up". An anchored boat's engine is off, and it stays at anchor while you sit at the
+wheel; to turn the engine on you lift the anchor first, and lifting it starts the engine again unless the tank is
+empty. Water that's too shallow won't hold it, and you're told the boat can't anchor there. Getting into a boat in the
+water shows its keys at the bottom of the screen for a few seconds: the anchor, <kbd>J</kbd> to cast, <kbd>=</kbd> for
+a fish finder you've fitted, and <kbd>X</kbd> to set a pot if you carry one.
+
 **Boat upgrades** go on a boat you own, moored within 150 m of the counter:
 
 | Upgrade | Price | What it does |

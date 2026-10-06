@@ -58,8 +58,10 @@ own.
 - **It appears when you log in** where you last used `/park`, and goes away when you log out. It keeps its fuel,
   mileage, dirt, lock, paint, parts and boot; only `/park` saves where it stands. `/park` works from the driver's
   seat with the car stopped.
-- **Finding it:** your cars show on the map as "Personal Vehicle". <kbd>K</kbd> lists them: **Information** shows
-  lock, fuel and mileage, and **Track** sets a waypoint.
+- **Finding it:** your cars show on the map as "Personal Vehicle", from anywhere on it. Every other car is only a
+  dot on the minimap while it's near, under its model's name, and the map never says whose it is. <kbd>K</kbd> lists
+  your cars: **Information** shows lock, fuel and mileage (and the car's condition when you're close), and **Track**
+  sets a waypoint.
 - **Wrecked?** It comes back at once, free and repaired, at the spot it appeared at when you logged in, with its parts
   and its boot. There's no insurance, and none is needed.
 - **Left unlocked?** Anyone can drive it off. They're told it's yours, and they can't lock it or sell it.
@@ -70,21 +72,55 @@ Your account is the key. <kbd>X</kbd> on your personal vehicle, on foot: Toggle 
 and Windows; on anyone else's, just Doors and Windows while it's unlocked. `/lock` and `/unlock` work on the car you're
 in, your personal vehicle within 4 m, or the last car you drove. Locked, nobody else can open its doors or boot, and the lock
 stays through logouts. You can lock a street car that's nobody's, and then only you can unlock it. `/engine` switches
-the engine on and off.
+the engine on and off. Locking or unlocking by hand chirps and flashes the lights: **two flashes for locked, four for
+unlocked**.
 
 ## Getting in, changing seats and breaking in
 
-- **Getting in as a passenger** with <kbd>G</kbd> works while the car is nearly still, close to the ground, and with a free seat.
+- **Getting in as a passenger** with <kbd>G</kbd> works while the car is nearly still, close to the ground, and with a free seat. You
+  get the seat at the door nearest you, never the driver's. Press a movement key on the way to the door and you give up
+  on it.
 - **Changing seats** is <kbd>G</kbd> too. Nobody slides into the driver's seat for you any more: when the driver gets
-  out, you stay where you are until you press <kbd>G</kbd>. The two front seats swap with each other, and so do the
-  two rear seats. If a bag or something else is sitting on the seat you'd move to, you're told there's one there and
-  you stay put.
+  out, you stay where you are until you press <kbd>G</kbd>. **The front passenger slides across to the driver's seat
+  when it's empty**; a driver can't swap away with <kbd>G</kbd>, and a front passenger can't push in while someone is
+  driving. The two rear seats swap with each other. There's no swapping in a plane. If a bag or something else is
+  sitting on the seat you'd move to, you're told there's one there and you stay put.
 - **Smash Window:** walk up to a car and press <kbd>E</kbd> at a window (<kbd>H</kbd> if you've something in your
   hands) to put it through with a swing everyone sees. You need to be at the glass, and it has
   to be within easy reach, so a tall lorry's cab is never offered. It's offered on the **rear
   windows**, and on a **front window when something is sitting on the seat behind it**: a smash and grab. It isn't
   offered while you're getting into a car, holding a pump nozzle or refuelling, and never on a job's car.
   **Smashing doesn't unlock the car, open the glovebox or pull anyone out, and costs no heat.**
+
+## Driving
+
+The **speedometer** shows while you drive: your speed in your own units, the gear and P, R, N or D, petrol (it warns when
+you're low), the car's condition, the headlights and the indicators. **Settings > Speedometer** switches it between
+complex, simple and off. See [Keys and menus](../keys-and-menus/).
+
+| Key | What it does |
+| --- | --- |
+| <kbd>Numpad 4</kbd> / <kbd>Numpad 6</kbd> | Left / right indicator. Press again to switch it off; press the other side to swap |
+| <kbd>N</kbd> | Hazard lights on and off. With them on, a side key leaves just that side flashing |
+| <kbd>H</kbd> | Headlights. On a convertible, **hold** it to fold the roof down or up |
+
+- **Indicators and hazards** work for the driver of any car or truck, not bikes, boats or aircraft, and everybody sees them.
+- **A convertible keeps its roof as you left it.** A personal vehicle remembers it too.
+- **Radio:** the driver's station is the car's station, so passengers hear what the driver tunes.
+- **Tyre smoke:** a burnout smokes thicker the longer you hold it, and a hard slide at speed throws smoke from the rear
+  tyres. Everyone nearby sees it, in the colour of your tyre smoke part if you've fitted one. It needs both rear tyres
+  and the ground under you, and it doesn't happen in lorries, utility, service, emergency or military vehicles, or
+  boats and aircraft.
+- **Wheelies:** in a muscle car, sports classic or off-roader, **hold a burnout, then let off the brake and floor the
+  throttle** and the nose lifts. A longer burnout stores more wheelies; braking while you're moving throws them away.
+  It needs the car upright and on the ground.
+- **The forklift:** at the wheel, <kbd>E</kbd> picks up the car just ahead of the forks and <kbd>E</kbd> again puts
+  it down. The bar at the bottom says which.
+- **The JB700** isn't sold in any showroom, but whoever drives one has **mounted guns** on the right mouse button, two
+  shotgun shots at once, and **spikes** on <kbd>Left Ctrl</kbd>, dropped behind the car for a few seconds. Neither
+  works while the car is wrecked, and the spikes don't go down in water or while you're on the horn.
+- **Boats** drop anchor with <kbd>-</kbd>, and it's explained under [Fishing](../fishing/).
+- **The last street car you drove** isn't swept away while you're gone from it, until you drive another.
 
 ## Fuel
 
@@ -116,12 +152,22 @@ blip turns yellow when it's running low and grey when it's dry, and then its pum
 public: same price, never dry.
 
 **Jerrycans:** every gas station counter sells one, empty. Hold it at a pump and press <kbd>E</kbd> to fill it (a
-quarter of a tank, $200). To pour it, <kbd>X</kbd> on the car and **Refuel (Jerrycan)**.
+quarter of a tank, $200). To pour it into a car, **hold the can**, stand at the car and press <kbd>X</kbd>, then
+**Refuel (Jerrycan)**. The row only shows while the car's tank isn't full, and never on an electric car.
+
+- Pouring takes a couple of seconds, with a bar, and you're held to the spot. **Walk off, get in a car, fall or die
+  before the bar is full and no petrol goes in.**
+- A car takes what the can holds, up to a quarter of a tank, and you're told how full the can is afterwards. An empty can
+  won't pour and tells you to fill it at a pump.
+- Pouring it out on the ground (the fire button) just wastes it, down to an empty can.
+- Anyone can fuel any car this way, yours or not.
 
 ## The mod shop
 
 Seven garages ("Mod Shop" on the map): three Los Santos Customs, two Beeker's Garages, Benny's Motor Works, and the
-Runway 1 Hangar for planes and military vehicles. Drive in at the wheel. Police vehicles are turned away, and no
+Runway 1 Hangar for planes and military vehicles. Drive in at the wheel; at the hangar, press <kbd>E</kbd> at the
+wheel to go in. If the menu ever goes while you're inside, <kbd>E</kbd> brings it back and the bar's **Leave** drives
+you out. Police vehicles are turned away, and no
 garage takes bicycles, boats, helicopters or emergency vehicles. You buy only while you're inside a garage. New players
 (under an hour played) see an extra label at the door inviting them in.
 
@@ -170,7 +216,9 @@ Krieger and $249,500 on an Emerus.
 
 <kbd>E</kbd> at the back of a car, on foot. A rear-engined car keeps its boot at the front; a motorbike has
 saddlebags, a bicycle nothing. **A personal vehicle keeps its boot for good**, through wrecks, impounds and restarts; any
-other car loses everything in it when the car goes. With your hands full, <kbd>E</kbd> at the boot puts what you hold straight in, and a bag-sized thing can also ride on a seat: see [Carrying things](../carrying-things/). You can't open a boot while the car is moving or on a job's car. A model the game doesn't place in a class gets
+other car loses everything in it when the car goes. You turn to the lid and reach for it, and it lifts when your hand
+gets there; closing the boot pushes it down the same way. The **Doors** row of the <kbd>X</kbd> menu has a trunk that
+does the same. With your hands full, <kbd>E</kbd> at the boot puts what you hold straight in, and a bag-sized thing can also ride on a seat: see [Carrying things](../carrying-things/). You can't open a boot while the car is moving or on a job's car. A model the game doesn't place in a class gets
 40 kg (88 lb). A boat's hold depends on its hull instead, and your own boat's hold carries fish: see
 [Fishing](../fishing/).
 

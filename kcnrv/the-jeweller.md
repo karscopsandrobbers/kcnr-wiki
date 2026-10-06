@@ -16,7 +16,7 @@ shut, its doors are locked.
 ## How it works
 
 1. **Prepare (optional).**
-   - **Disable the alarm**: <kbd>G</kbd> at the computer on the counter. Win the hack and the alarm and cameras are off
+   - **Disable the alarm**: <kbd>G</kbd> at the computer on the counter. Win the [hack](../hacking/) and the alarm and cameras are off
      for 10 minutes; lose and the alarm goes off.
    - **Cut the power** at the jeweller's own fuse box, with a blade, in 30 seconds: no alarm, cameras or lights for 90
      seconds, and the door locks open, which is the way in after hours. The police are told.
@@ -62,5 +62,5 @@ Each case holds one piece, picked by chance, in a varying condition.
 - **Your bag drops where you fall** if you die while wanted or inside your own crime scene with police online.
 - Pieces stay **hot** for half an hour after the job. Sell them later for the full price, with no risk of a tip-off.
 
-Related: [Carrying things](../carrying-things/) · [Selling stolen goods](../selling-stolen-goods/) · [Banks and hacking](../banks-and-hacking/) ·
+Related: [Carrying things](../carrying-things/) · [Selling stolen goods](../selling-stolen-goods/) · [Bank robberies](../bank-robberies/) · [Hacking](../hacking/) ·
 [Shop robberies](../shop-robberies/) · [Simeon's Repo Jobs](../repo-jobs/) (where a bag comes from)

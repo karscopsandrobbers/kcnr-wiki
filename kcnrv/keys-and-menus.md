@@ -23,19 +23,22 @@ FiveM keeps your old choice for that action, so a default that changes later won
 | <kbd>E</kbd> | Pick up, a car's boot from the back, an ATM, City Hall's counter, the scrapyard, a pump, a dumpster to search, a car window to smash. Floating prompts show their own key |
 | <kbd>Y</kbd> | A shop, pawn or bank counter, a Bait & Tackle, and the card on screen (a party invite, a crew job, a trade) |
 | <kbd>L</kbd> | Declines the card on screen |
-| <kbd>H</kbd> | The house menu, inside a house (in a car it's the headlights). A bag's contents, when you stand over one |
+| <kbd>H</kbd> | The house menu, inside a house (in a car it's the headlights, and held on a convertible it moves the roof). A bag's contents, when you stand over one |
 | <kbd>G</kbd> | Get in at the nearest door, or swap seats |
 | <kbd>F</kbd> | Pay respects, next to a body |
 | <kbd>Right Alt</kbd> | Tap: mask on or off. Hold: a wheel of your masks and bags |
 | <kbd>Left Alt</kbd> | Put down what you're holding (in a car, a bag-sized thing goes on a seat), or get off somebody's back. See [Carrying things](../carrying-things/) |
 | <kbd>K</kbd> | Your personal vehicles |
 | <kbd>B</kbd> (hold) | Point |
-| <kbd>Left Ctrl</kbd> | Stance: stealth, crouch, prone |
+| <kbd>Left Ctrl</kbd> | Stance: stealth, crouch, prone. At the wheel of a JB700, it drops a spike strip behind the car |
 | <kbd>F9</kbd> | Emotes. <kbd>Numpad 1 2 3 7 8 9</kbd> are your six emote slots, <kbd>Numpad 0</kbd> cancels |
 | <kbd>J</kbd> | Cast a fishing line, or put the rod away. At the wheel of an emergency vehicle with its siren on, silence it |
-| <kbd>-</kbd> / <kbd>=</kbd> | A boat's anchor / its fish finder |
-| <kbd>Numpad 4</kbd> / <kbd>Numpad 6</kbd>, <kbd>N</kbd> | Indicators, hazards |
+| <kbd>-</kbd> / <kbd>=</kbd> | A boat's anchor (the numpad minus works too) / its fish finder |
+| <kbd>Numpad 4</kbd> / <kbd>Numpad 6</kbd>, <kbd>N</kbd> | Left and right indicators, hazards |
 | <kbd>Numpad 8</kbd> (hold) | Push a vehicle |
+| <kbd>E</kbd> in a forklift | Pick up the car ahead of the forks, or put it down |
+| <kbd>Left Shift</kbd> / <kbd>X</kbd> in a tow truck | Hook or unhook a car, or winch or unload it on a flatbed / lower or raise the flatbed's ramp. See [Tow dispatch](../tow-dispatch/) |
+| Right mouse button in a JB700 | Fire the mounted guns |
 | Horn | Join a race from its card |
 
 Walking onto a house's door marker opens that house's menu.
@@ -54,8 +57,9 @@ it's gone.
 ### Getting in and swapping seats
 
 <kbd>G</kbd> gets you in at the nearest door only when the vehicle is nearly stopped, is on the ground, and has a seat free. A front passenger no longer slides
-into the driver's seat on their own, so to swap seats press <kbd>G</kbd>. The front pair swap with each other, and so do
-the rear pair. You can't swap onto a seat with a bag on it, and you're told what is there.
+into the driver's seat on their own, so to swap seats press <kbd>G</kbd>. The front passenger moves across to the
+driver's seat when it's empty, and the two rear seats swap with each other; a driver can't swap, and there's no
+swapping in a plane. You can't swap onto a seat with a bag on it, and you're told what is there.
 
 ### People
 
@@ -70,7 +74,7 @@ the rear pair. You can't swap onto a seat with a bag on it, and you're told what
 - **Police:** <kbd>M</kbd> megaphone; middle mouse button to arrest, ticket or take visual contact (<kbd>B</kbd> takes
   visual contact too); <kbd>1</kbd> the number-plate reader; <kbd>Left Alt</kbd> police tech. See [Police](../police/).
 - **Medic:** <kbd>Y</kbd> accepts a call. See [Medic](../medic/).
-- **Firefighter:** <kbd>Y</kbd> sets a waypoint to the fire. See [Firefighter](../firefighter/).
+- **Firefighter:** <kbd>Y</kbd> sets a waypoint to the fire; left click turns the hose on and off. See [Firefighter](../firefighter/).
 - **Tow truck:** <kbd>Y</kbd> the radio. See [Tow dispatch](../tow-dispatch/).
 - **Any emergency vehicle:** <kbd>J</kbd> silences the siren while you drive it and it is on.
 

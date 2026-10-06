@@ -32,8 +32,8 @@ in words. The menu shows how many you own against how many you can carry.
   you can carry 5.
 - **Thermite** does nothing yet: no job uses it. You can carry 5.
 
-All four are contraband, so a police search takes them. See [Banks and hacking](../banks-and-hacking/) for what each
-step does. Gear and skill don't help the drill, the plasma cutter or a safe's dial.
+All four are contraband, so a police search takes them. See [Hacking](../hacking/) for what each
+step does. Gear and skill don't help the drill or a safe's dial.
 
-Related: [Banks and hacking](../banks-and-hacking/) · [The jeweller](../the-jeweller/) ·
+Related: [Hacking](../hacking/) · [Bank robberies](../bank-robberies/) · [The jeweller](../the-jeweller/) ·
 [Levels 5 to 10](../levels-5-to-10/)

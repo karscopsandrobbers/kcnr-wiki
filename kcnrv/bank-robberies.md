@@ -1,10 +1,9 @@
 ---
-title: Banks and hacking
+title: Bank robberies
 summary: Get into a bank vault for cash trolleys and deposit-box jewellery. Drill the door quietly, hack it or blow it open.
 section: crime
 order: 5
 opens: Total level 3
-tables: [hacking]
 ---
 
 ## When you can start
@@ -30,7 +29,7 @@ The clock is **6 minutes**, or **12 at Pacific Standard**, from the moment the j
 ## How it works
 
 1. **Prepare (optional).**
-   - **Disable the alarm**: <kbd>G</kbd> at the bank's terminal. It's a hack: win and the alarm and cameras are off for
+   - **Disable the alarm**: <kbd>G</kbd> at the bank's terminal. It's a [hack](../hacking/): win and the alarm and cameras are off for
      10 minutes; lose and the alarm goes off. Not once the job has started.
    - **Cut the power (Fleeca only)**: an electrical box on the street near the branch, with a knife, switchblade,
      dagger, machete, hatchet or battle axe, 30 seconds at the box. No alarm, cameras or lights for 60 seconds, but the
@@ -42,7 +41,7 @@ The clock is **6 minutes**, or **12 at Pacific Standard**, from the moment the j
    - **Drill it** (<kbd>E</kbd>): feed the bit with <kbd>W</kbd> and <kbd>S</kbd> and watch
      the heat; <kbd>Q</kbd> and <kbd>E</kbd> change its speed. Overheat on the vault door and
      **the drill is destroyed**. This is the only way through without a sound.
-   - **Hack the terminal** (<kbd>Y</kbd>, "Hack the vault"). The crew gets **two attempts** a job; every failure sets off
+   - **Hack the terminal** (<kbd>Y</kbd>, "Hack the vault"; see [Hacking](../hacking/)). The crew gets **two attempts** a job; every failure sets off
      the alarm, and walking away from the puzzle doesn't count as one. **A hacked-open vault sets off the alarm** unless
      you disabled it or cut the power first.
    - **Blow it**: sticky bombs on the door take 3 to 7 off its strength each. Every blast sets off the alarm.
@@ -79,25 +78,8 @@ see a **[CLEAN]** message.
 
 ## Hacking
 
-You hack the terminal beside a vault and the jeweller's counter computer. Each bank is dealt one puzzle and keeps it
-until the next job there, and its alarm panel asks the same one, so the panel tells you what the vault will ask.
-Pacific Standard always uses the password terminal.
-
-| Puzzle | What you do |
-| --- | --- |
-| Circuit breaker | Steer a line from port to port without touching anything (<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> or the arrow keys) |
-| Data crack | Stop seven sliding bars in the green |
-| Brute force | Click the right letters as they roll past |
-| Password terminal (Pacific Standard) | Find the password among the noise; each miss tells you how close you were |
-
-With nothing, a bank's hacks are hard: the circuit breaker, the data crack and brute force all ask the most of you. Gear from [Lester](../lester/) and your Hacking level make them easier in
-steps: see the table below. Hacking level 2 comes at 3 successful hacks, 3 at 6, 10 at 42 and 20 at 188. The alarm panel tells you what helped: your
-laptop takes the most off, your hacking skill a little, and the USB drive in the laptop covers a failed attempt.
-Gear and skill do **not** help the drill, the plasma cutter or a shop safe's dial.
-
-While a puzzle is up, chat is hidden, your gun is holstered and nothing fires or swings. The circuit board always starts
-from the left. One pair of hands: you can't start another hack, door, deposit box or trolley until the one you're on
-ends.
+The terminal's puzzles, how your Hacking skill and Lester's gear make them easier, and what a lost attempt costs are
+on [Hacking](../hacking/).
 
 ## Tips
 
@@ -109,5 +91,5 @@ ends.
 - Relog while you're inside a bank vault and you come back where you were before you went in.
 - The vault cash isn't yours until the job ends. Die halfway through and your share is gone.
 
-Related: [Carrying things](../carrying-things/) · [Lester](../lester/) · [Selling stolen goods](../selling-stolen-goods/) · [The jeweller](../the-jeweller/) ·
+Related: [Hacking](../hacking/) · [Carrying things](../carrying-things/) · [Lester](../lester/) · [Selling stolen goods](../selling-stolen-goods/) · [The jeweller](../the-jeweller/) ·
 [Wanted level and heat](../wanted-level-and-heat/) · [Groups and parties](../groups-and-parties/)

@@ -38,10 +38,10 @@ seconds.
    onlookers and a stranded driver, blue for an officer, yellow for the owner, red for a crew or a gang. The car is
    always one a hook can take: never a bike, boat, aircraft, train, trailer or tow truck.
 2. **Hook it.** A hook truck: reverse up to the car and press <kbd>Left Shift</kbd>. A flatbed: <kbd>X</kbd> lowers the
-   ramp, then <kbd>Left Shift</kbd> winches the car up. The winch takes the nearest car behind the
+   ramp, then <kbd>Left Shift</kbd> winches the car up. The winch takes the nearest car lined up behind the
    ramp, but the call's own car always wins. The winch and
-   unload buttons only show with the ramp down and the truck still, and you're told when nothing is in reach. A car on
-   its roof is stood up before it's hooked.
+   unload buttons only show once the ramp is down and has stopped moving, and you're told when nothing is in reach. A car on
+   its roof is stood up before it's hooked. More on both below.
 3. **Bring it in** to the right place: the LSPD Auto Impound for illegally parked cars, police seizures and gang cars;
    the nearest yard for abandoned, crashed, broken-down and insurance cars; another yard for an impound transfer; the
    crusher at Rogers for a chop job.
@@ -61,6 +61,27 @@ goes back over the car while it's off. Whatever way a call ends, its car is only
 
 **A call fails** if time runs out, you die, your truck or the car is destroyed, the owner drives off with it, or you
 type `/tow cancel`. It pays nothing, and there's a 20-second wait.
+
+## Hooks, ramps and winches
+
+From the driver's seat, a button bar at the bottom of the screen names what each key does right now:
+
+| Truck | Key | The bar says |
+| --- | --- | --- |
+| Hook truck | <kbd>Left Shift</kbd> | **Hook Vehicle** with a car right behind you, **Hook Vehicle (reverse up to it)** with none, **Unhook Vehicle** with one on the arm |
+| Flatbed | <kbd>X</kbd> | **Lower Ramp**, **Raise Ramp**, or **Ramp Moving** while it travels |
+| Flatbed | <kbd>Left Shift</kbd> | **Winch Vehicle** with a car in reach, **Winch Vehicle (back up to it)** with none, **Unload Vehicle** with one aboard |
+| Either | <kbd>Y</kbd> | The tow radio |
+
+- **The hook** needs the truck stopped ("Stop the truck first"). It lifts the car by the end facing the truck, puts a
+  driver who isn't a player out on the kerb first, and takes a car upside down by standing it up. <kbd>Left Shift</kbd>
+  again lets it go.
+- **The winch** needs the car lined up straight behind the lowered ramp. If it can't get hold of
+  the car or can't pull it on, you're told to try again or to line the ramp up straight. <kbd>Left Shift</kbd> with a car
+  aboard unloads it back onto the road.
+- **Neither takes** a boat, aircraft, train or another tow truck, a car with a player at the wheel, or anything big
+  like a bus (your call's own car is always allowed). The hook won't lift a bicycle either.
+- **They work off duty too**: any hook truck or flatbed you drive will carry a car, with no call and no pay.
 
 ## What you find at the scene
 

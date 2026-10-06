@@ -27,8 +27,9 @@ wrench at 3, a jerry can at 5.
    Businesses that rivals set alight are called in the same way. A new city fire breaks out a couple of minutes after
    the last one is out. Fires never burn out on their own.
 3. **Use the hose.** At your Fire Truck, press <kbd>X</kbd> and choose **Add Fire Hose**. Left click turns the water on
-   and off. It reaches about 10 m, you have to aim at the flames, and walls block it. Getting into a vehicle drops it.
-4. **Or the extinguisher**, which reaches 5 m. <kbd>X</kbd> at the Fire Truck, then **Refill fire extinguisher**, tops
+   and off. You have to aim at the flames, and walls block it. While you hold the hose you can't switch weapons or
+   fight. Getting into a vehicle, or dying, drops it.
+4. **Or the extinguisher**, which only reaches a short way. <kbd>X</kbd> at the Fire Truck, then **Refill fire extinguisher**, tops
    it up.
 5. **Stay close.** A flame only counts for you if you're within 60 m of it.
 
