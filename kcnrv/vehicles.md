@@ -267,7 +267,7 @@ sends its own truck. See [Tow dispatch](../tow-dispatch/).
 - **Selling:** the [scrapyard](../the-scrapyard/) always buys your personal vehicles, for 95% of what you paid, less $1,000
   for each km of mileage your vehicle menu shows (mileage is always in kilometres, whatever your Measurement System). It's gone for good, parts and boot too.
 - **Pushing:** hold <kbd>Numpad 8</kbd> at either end of a car and steer with <kbd>A</kbd> and <kbd>D</kbd>. The prompt
-  shows when you're close, and pressing the key walks you to the nearer end and turns you to face the car; let go
+  shows when you're close, but not while you're getting into a car, and pressing the key walks you to the nearer end and turns you to face the car; let go
   and you stop. It works on cars, bikes, vans and anything up to ambulance size, locked or not, upright and in one
   piece, as long as **nobody is in the driver's seat or its engine is off**. That's how a dry car gets to a pump. The
   key is listed as "Push a vehicle (hold)" in **Settings > Key Bindings > FiveM**, and you can rebind it there.

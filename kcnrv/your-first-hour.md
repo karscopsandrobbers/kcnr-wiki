@@ -57,7 +57,9 @@ are, or let the card go. A contact's first call comes with a twist that shows yo
 
 | Who | The job | The twist on the first call |
 | --- | --- | --- |
-| Simeon | A [repo car](../repo-jobs/) | The car's tank is empty: take it fuel in a jerrycan, and he pays the fuel back |
+| Simeon | A [repo car](../repo-jobs/), never a hard one | The car's tank is empty: take it fuel in a jerrycan, and he pays the fuel back. Only once you have the cash on you for the can and its fuel |
+| Billy | A [petrol run](../trucking/) | A station has run dry: a rush run to it, the tanker lent free and a bonus on top |
+| Tonya | A [show car](../tow-dispatch/) at the Del Perro Pier car meet | Get there early and the owner lends you a rod and bait to fish with while it's judged |
 
 Nobody rings while you're on a job, robbing, wanted, in jail, fishing, on another call or sitting in a tow truck
 waiting for the radio. Calls come at least ten minutes apart, and every call you let go makes the next one wait longer.

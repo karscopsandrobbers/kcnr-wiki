@@ -72,6 +72,11 @@ Every gas station has a tank that fill-ups drain, and only petrol runs refill it
 yellow blip; a dry one is grey and its pumps are closed. When a station runs low or dry, **everyone online** gets a
 yellow `[Petrol]` line in chat and a text from Billy.
 
+**Billy's rush run.** Below level 10, Billy sometimes phones you about a station that has run dry (see
+[Your first hour](../your-first-hour/)). Take the card and the depot goes on your map: start a petrol run at its board
+within 10 minutes and it goes to that station, whichever you pick, a borrowed tanker costs you nothing, and a **$500
+Rush bonus** is paid on top. With no station dry, his call is an ordinary run to the station that needs it most.
+
 A petrol run counts as a trucking load for the [work board](../your-first-hour/): it moves "Two trucking loads" and
 the weekly trucking job, as well as "One petrol run".
 

@@ -32,6 +32,20 @@ If every yard spot is taken when you sign on, the truck is put on a clear road n
 **Between calls:** after a delivery dispatch gives you a **30-second** break; after a failed or cancelled call, 20
 seconds.
 
+### The show car at Del Perro Pier
+
+Below level 10, Tonya sometimes phones you with a booked job (see [Your first hour](../your-first-hour/)): a show car
+at the car meet on Del Perro Pier, going to storage once the judges are done with it, about 8 minutes after the call.
+Press <kbd>Y</kbd> on the card after the call. If you're not in a tow truck, the nearest yard goes on your map; the
+job is yours as soon as you're at the wheel of one, with no radio card. It pays as a yard-to-yard transfer, and the
+clock includes the wait.
+
+The owner won't let the car go until the judging is done: the hook and the winch won't take it, and your objective
+says to wait. The first time Tonya books it, **get there early** and the owner lends you a Light Rod and 10 Sandworms
+to fish off the end of the pier while you wait. They're yours to keep. When the judging is done the owner says so,
+and it's an ordinary tow from there. Nobody turns up within 10 minutes of it being ready and the owner calls
+somebody else.
+
 ## A call, start to finish
 
 1. **Find the car.** It carries a cone until it's on your truck. Everyone at the scene has a blip: green for
