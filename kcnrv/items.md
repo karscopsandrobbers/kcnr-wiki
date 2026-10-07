@@ -266,8 +266,10 @@ and your hand shows the rounds it takes; <kbd>R</kbd> loads every round you carr
 lets it hold, and the rest stays in your pockets. Loading from the inventory goes into the gun that takes them, the
 one in your hand first. Your **weapon wheel is your loadout**: guns you've put on aren't in your pockets.
 
-Rounds bought from a gang, or out of a crate of rounds, come in **ammo boxes** of one calibre (250 rounds, or 100 of
-12 gauge). Use a box in your inventory to tip its rounds into your pockets.
+Rounds bought from a gang, or out of a crate of rounds, come in **ammo boxes** of one calibre: 50 pistol rounds, 25
+shells or 20 rifle rounds. Use a box in your inventory to tip its rounds into your pockets. Once in a long while a
+gang's supply van carries a **large ammo box**, dozens of ammo boxes in one, carried in both arms; open it to take
+them out. It holds ammo boxes and nothing else.
 
 ### Weapon mods
 

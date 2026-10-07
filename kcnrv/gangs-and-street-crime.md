@@ -69,8 +69,7 @@ them for 2 minutes either, and they can't rob anyone themselves in that time.
 | Families | Davis, Strawberry, with corners in Chamberlain Hills and on the Rancho border |
 | Ballas | Davis, with corners on Grove Street, Davis Avenue and Carson Avenue |
 | Aztecas | A block of El Burro Heights, and a corner downtown |
-| Vagos | Cypress Flats and El Burro Heights, with corners in La Mesa and out at the Palmer-Taylor power station |
-| Marabunta Grande | Rancho |
+| Vagos | Cypress Flats, El Burro Heights and Rancho, with corners in La Mesa, at the Rancho underpass and out at the Palmer-Taylor power station |
 | Kkangpae | Little Seoul, Alta |
 | Lost MC | Sandy Shores, Grapeseed, with corners on Route 68, the Paleto coast, the Great Ocean Highway, out east of Sandy and in Mirror Park |
 
@@ -96,17 +95,21 @@ refusal is 2 stars and a fight. You wait 90 seconds before the next (20 after a 
 Walk up to a corner's dealer and press <kbd>E</kbd> on **Deal with the** gang.
 
 - **Selling crates.** Park the vehicle with the crates near him. A drugs corner buys crates of product; a guns corner
-  buys crates of guns and crates of rounds, straight out of the boot, one load or all of it. The more you have sold to
-  a gang, the better it pays, and a corner pays less for a while after a big load. A big sale can get a tip to the
-  police. `/sell` from the driver's seat still works too.
+  buys crates of guns and crates of rounds, straight out of the boot, one load or all of it. Loose goods sell too,
+  rounds, ammo boxes, guns or product lying in the boot, at three quarters of what they would fetch in a crate; bags,
+  cases and large ammo boxes he will not open. The gang pays out of its own cash, and buys only as much as that
+  covers: the menu shows what it has to spend. The more you have sold to a gang, the better it pays, and a corner pays
+  less for a while after a big load. A big sale can get a tip to the police. `/sell` from the driver's seat still
+  works too.
 - **Buying guns.** A gang that counts you a friend sells you its own guns and rounds, cheaper than Ammu-Nation, in
   cash: a **gun case** (one of its guns and a few magazines of rounds, carried at your side: open it in your
-  inventory) or an **ammo box** of rounds (use it in your inventory to tip the rounds into your pockets). A gang only
-  sells what it carries itself:
+  inventory) or an **ammo box** of rounds (use it in your inventory to tip the rounds into your pockets). The money
+  is the gang's, and the guns come off its own stock: a gang with none left has none to sell until somebody sells it
+  more. A gang only sells what it carries itself:
 
 | Gang | Its guns |
 | --- | --- |
-| Families, Vagos, Marabunta Grande | Pistol, Pump Shotgun, Micro SMG, Assault Rifle |
+| Families, Vagos | Pistol, Pump Shotgun, Micro SMG, Assault Rifle |
 | Ballas | Combat Pistol, Pump Shotgun, Micro SMG, Assault Rifle |
 | Aztecas | Pistol, Pump Shotgun, SMG, Carbine Rifle |
 | Kkangpae | Combat Pistol, Pump Shotgun, SMG, Carbine Rifle |
@@ -123,7 +126,8 @@ gun he was holding can be picked up into your weapon wheel.
 
 ## Gangs at work
 
-The gangs are up to things of their own, whether or not you are watching, and you will come across them:
+The gangs are up to things of their own, whether or not you are watching, and you will come across them on and around
+their own ground:
 
 - **A store robbery.** Two of a gang at a 24/7, liquor store or gas station counter, one shouting, the clerk filling a
   bag from the till under the gun and the alarm going. Officers get the call and the shop's blip flashes. Left alone
@@ -133,8 +137,9 @@ The gangs are up to things of their own, whether or not you are watching, and yo
 - **A mugging.** Somebody held up in the street, or at an ATM, by one of a gang: they hold the wallet out. Officers
   are told. Nobody steps in and he either runs with it or shoots them first. Go for him and he fights; drop him and the wallet is on the ground, and the victim shows
   **Give the wallet back** the same way.
-- **A supply run.** One of a gang carries crates of product into a van, then they drive it to one of their corners,
-  where he carries each to the dealer, who takes it inside a little later. Stop it and they fight; with them down,
+- **A supply run.** One of a gang carries crates of its guns and rounds into a van, then they drive them to one of
+  their guns corners, where he carries each to the dealer, who takes it inside a little later. The van also has a gun
+  case and a few ammo boxes in the back, and once in a long while a large ammo box full of them. Stop it and they fight; with them down,
   what is in the back is in the back for whoever opens it. A crate grabbed off the ground while they load, out of
   the van or from the dealer's feet is yours, and the gang knows who took it. A crate set down on the ground shows a
   prompt of its own: pick it up, or break it open with a blade or a crowbar, and what was in it spills out beside it.
@@ -158,20 +163,21 @@ the XP; putting down a gang at a crime the police were called to is XP.
 
 ## Gang hideouts
 
-Every gang has a place: a house marked on your map in the gang's colour. Come near and its people are out front; keep
+Every gang has a place: a house marked on your map in the gang's colour. Press <kbd>E</kbd> at the door of a stash
+house to go down into its basement, and <kbd>E</kbd> at the foot of the basement stairs to come back out. Come near and its people are out front; keep
 your distance and they leave you alone. Come too close and you are warned off; stay, with a weapon in your hands or
 right in their faces, and you are held at gunpoint, then fought. Out of their sight, round a corner or behind a wall,
 the guns come down until you show again. Empty-handed and a few steps back, you only hear
 about it.
-Put every guard down and the place is yours for a moment: part of the gang's stash lands outside, crates of product,
-crates of the gang's own guns or rounds, a gun case and cash, for whoever takes it. The gang comes back weaker, and the guards return after a while. A strong gang sends more
+Put every guard down and the place is yours for a moment: part of the gang's stash lands outside: crates of the
+gang's own guns or rounds, a gun case and cash, for whoever takes it. The gang comes back weaker, and the guards return after a while. A strong gang sends more
 of its people out of the door once the shooting starts.
 
 Officers see each robbery, mugging, deal and theft on the map while it goes on, and everyone sees a dot in the gang's
 colour on every gang member, at a corner, a hideout or a job, turning red once they fight; the dot's name says which.
 A gang's cars count as its people: ram one, shoot at it or break its window and the crew comes for you, and the gang's
 people on a corner nearby come with them. Its people step out of the way of its own cars. `/gangs` shows where each
-gang stands, what you have sold them, what they think of you and who they are at war with. A gang that robs and runs product well gets richer and stronger, and the stronger it is the better armed and
+gang stands, what you have sold them, what they think of you and who they are at war with. A gang that robs and runs its guns well gets richer and stronger, and the stronger it is the better armed and
 the harder to put down its people are: pistols at first, then its shotguns, SMGs and rifles. No gang carries machine
 guns.
 
@@ -188,7 +194,7 @@ the raid on their map, and everyone sees the defenders' dots turn red.
 ## What a gang thinks of you
 
 Every gang remembers what you do to it. Selling to its corners and putting down a rival gang's raiders win it over;
-killing its people, shaking down its dealers, raiding its hideout and taking its product turn it against you. It
+killing its people, shaking down its dealers, raiding its hideout and taking its crates turn it against you. It
 wears off slowly. `/gangs` shows where you stand with each gang:
 
 - **Friendly**: its people at a job or a hideout leave you alone, however close you come, and its corners sell you
