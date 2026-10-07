@@ -63,7 +63,7 @@ are, or let the card go. A contact's first call comes with a twist that shows yo
 | Sweet Lou | [Trouble on the corner](../the-pimp/) | Keep it quiet: no shots fired and he tips. He also tells you how to bring a friend |
 | The fire chief (firefighters) | A [store on fire](../firefighter/) and full of smoke | He gives you a gas mask: without one the smoke chokes you |
 
-Firefighters get the fire chief's calls, and only while no fire is burning; civilians get the rest. Nobody rings while
+Firefighters get the fire chief's calls, one smoke job at a time; civilians get the rest. Nobody rings while
 you're on a job, robbing, wanted, in jail, fishing, on another call or sitting in a tow truck waiting for the radio. Calls come at least ten minutes apart, and every call you let go makes the next one wait longer.
 
 ## Today's work

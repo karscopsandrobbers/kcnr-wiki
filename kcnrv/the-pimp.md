@@ -28,6 +28,7 @@ Which of the three men stands on which corner is shuffled every time the server 
 [Your first hour](../your-first-hour/)); press <kbd>Y</kbd> on the card after the call. The first time, he wants it
 **quiet**: put the man down with your fists or a blade, or point a gun at him and let him run, but nobody in the crew
 fires a shot. Do it that way and he tips **$300 to $600** on top of the fee. One shot and he tells you the tip is gone.
+Some men aren't scared of a gun: if he stands his ground the job says so, and it's your hands.
 He also tells you how to bring a friend (below, With a friend).
 
 ## How it works

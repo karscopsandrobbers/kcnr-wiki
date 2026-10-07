@@ -35,15 +35,16 @@ seconds.
 ### The show car at Del Perro Pier
 
 Below level 10, Tonya sometimes phones you with a booked job (see [Your first hour](../your-first-hour/)): a show car
-at the car meet on Del Perro Pier, going to storage once the judges are done with it. Press <kbd>Y</kbd> on the card
-after the call. If you're not in a tow truck, the nearest yard goes on your map; the job is yours as soon as you're at
-the wheel of one, with no radio card. It pays as a yard-to-yard transfer, and the clock includes the judging. Not in a
-truck within 10 minutes of the call and the owner calls somebody else.
+at the car meet on Del Perro Pier, going to the nearest tow yard once the judges are done with it. Press <kbd>Y</kbd>
+on the card after the call. If you're not in a tow truck, the nearest yard goes on your map; the job is yours the
+moment you're at the wheel of one, with no radio card to answer. It pays as a transfer, and the clock includes the
+judging. Not in a truck within 10 minutes of the call and the owner calls somebody else.
 
-The judges want **about 3 minutes** with the car once you get there. Until they're done the owner won't let it go:
-the hook and the winch won't take it, and your objective says to wait. The first time Tonya books it, the owner lends
-you a Light Rod and 10 Sandworms as you arrive, to fish off the end of the pier while you wait. They're yours to keep.
-When the judging is done the owner says so, and it's an ordinary tow from there.
+The judges want **about 3 minutes** with the car once you get there, and a **JUDGING** bar counts it down. Until
+they're done the owner won't let it go: the hook and the winch won't take it, and your objective says to wait. The
+first time Tonya books it, the owner lends you a Light Rod and 10 Sandworms as you arrive, and a **Fish here** blip
+with a route takes you to the end of the pier. They're yours to keep. When the judging is done the owner says so,
+the blip goes, and it's an ordinary tow from there.
 
 ## A call, start to finish
 

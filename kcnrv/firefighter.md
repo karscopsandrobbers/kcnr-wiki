@@ -38,7 +38,7 @@ wrench at 3, a jerry can at 5.
 ### The fire chief's smoke jobs
 
 Below level 10, the fire chief may phone you about a store on fire and **full of smoke** (see
-[Your first hour](../your-first-hour/)); he only calls while no other fire is burning. Press <kbd>Y</kbd> on the card
+[Your first hour](../your-first-hour/)); he calls one smoke job at a time, and it burns alongside the city's own fire. Press <kbd>Y</kbd> on the card
 after the call and the store goes on your map. Inside it without a gas mask you cough and lose health for as long as
 you stay, down to almost nothing (the smoke alone won't kill you). With a gas mask on, it does nothing. The first
 time, the chief gives you one: hold <kbd>Right Alt</kbd> and pick it from the wheel. Ammu-Nation always sells them.

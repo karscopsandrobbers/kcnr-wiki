@@ -23,9 +23,11 @@ with is never a hard one.
 ### The dry car
 
 Once you have the cash on you for a jerrycan and a can of fuel, the next job Simeon phones you with comes with an
-**empty tank**. When you get in, the nearest gas station whose pumps work goes on your map, and your objective says to
-get it fuel until there is some in it. Buy an empty jerrycan at its counter, fill it at a pump (<kbd>E</kbd> with the can in your hand),
-then stand at the car holding the can, press <kbd>X</kbd> and pick **Refuel (Jerrycan)**. The clock has 4 more minutes
+**empty tank**. From the start your objective follows what you carry: with no jerrycan, or an empty one, it sends you
+for fuel first and the nearest gas station whose pumps work goes on your map; once there is fuel in your can it sends
+you to the car, and in the car it tells you to pour. Buy an empty jerrycan at a gas station's counter, fill it at a pump
+(<kbd>E</kbd> with the can in your hand), then stand at the car holding the can, press <kbd>X</kbd> and pick
+**Refuel (Jerrycan)**. The clock has 4 more minutes
 for it, and when you deliver, Simeon pays back what you spent on fuel during the job, up to one full can, on top of the
 fee. The can is yours to keep. If the car turns out to be electric, it needs no fuel, and Simeon tells you to just drive
 it.
