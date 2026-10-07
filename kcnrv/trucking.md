@@ -23,7 +23,7 @@ opens: From the start, as a civilian
 
 ## A cargo run
 
-1. Billy at the Trucking Guild texts you the pickup: a police station, bank or car dealership, 300 m to 2 km away.
+1. Billy from the Truckers Association texts you the pickup: a police station, bank or car dealership, 300 m to 2 km away.
 2. Drive into the pickup marker in your truck. A box truck loads for 5 seconds while you're held still; a tractor unit
    gets a trailer dropped behind it, so back up and hitch it.
 3. Drive to the drop, a shop, bar, club, restaurant or the like: 1.5 to 3.5 km on for a short haul, 6 km or more for a
@@ -73,9 +73,9 @@ yellow blip; a dry one is grey and its pumps are closed. When a station runs low
 yellow `[Petrol]` line in chat and a text from Billy.
 
 **Billy's rush run.** Below level 10, Billy sometimes phones you about a station that has run dry (see
-[Your first hour](../your-first-hour/)). Take the card and the depot goes on your map: start a petrol run at its board
-within 10 minutes and it goes to that station, whichever you pick, a borrowed tanker costs you nothing, and a **$500
-Rush bonus** is paid on top. With no station dry, his call is an ordinary run to the station that needs it most.
+[Your first hour](../your-first-hour/)). Take the card and the depot goes on your map. Open its board within 10 minutes
+and the petrol run shows Billy's station, with no station to choose: it goes there, a borrowed tanker costs you nothing,
+and a **$500 Rush bonus** is paid on top. With no station dry, his call is an ordinary run to the station that needs it most.
 
 A petrol run counts as a trucking load for the [work board](../your-first-hour/): it moves "Two trucking loads" and
 the weekly trucking job, as well as "One petrol run".

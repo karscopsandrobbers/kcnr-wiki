@@ -24,8 +24,10 @@ with is never a hard one.
 
 Once you have the cash on you for a jerrycan and a can of fuel, the next job Simeon phones you with comes with an
 **empty tank**. From the start your objective follows what you carry: with no jerrycan, or an empty one, it sends you
-for fuel first and the nearest gas station whose pumps work goes on your map; once there is fuel in your can it sends
-you to the car, and in the car it tells you to pour. Buy an empty jerrycan at a gas station's counter, fill it at a pump
+for fuel first, and the nearest gas station that can sort you out goes on your map. With no jerrycan, that is one with a
+shop that is open and not on fire, as stations that are only pumps sell no cans; with an empty one, any whose pumps
+work and that is not on fire. Once there is fuel in your can it sends you to the car, and in the car it tells you to pour. Buy an empty
+jerrycan at a gas station's counter, fill it at a pump
 (<kbd>E</kbd> with the can in your hand), then stand at the car holding the can, press <kbd>X</kbd> and pick
 **Refuel (Jerrycan)**. The clock has 4 more minutes
 for it, and when you deliver, Simeon pays back what you spent on fuel during the job, up to one full can, on top of the

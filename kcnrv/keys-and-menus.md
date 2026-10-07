@@ -31,7 +31,7 @@ FiveM keeps your old choice for that action, so a default that changes later won
 | <kbd>K</kbd> | Your personal vehicles |
 | <kbd>B</kbd> (hold) | Point |
 | <kbd>Left Ctrl</kbd> | Stance: stealth, crouch, prone. At the wheel of a JB700, it drops a spike strip behind the car |
-| <kbd>Left Shift</kbd> while aiming | Moves the camera to your other shoulder. See [Aiming over either shoulder](#aiming-over-either-shoulder) |
+| <kbd>Middle mouse</kbd> while aiming | Moves the camera to your other shoulder. See [Aiming over either shoulder](#aiming-over-either-shoulder) |
 | <kbd>F9</kbd> | Emotes. <kbd>Numpad 1 2 3 7 8 9</kbd> are your six emote slots, <kbd>Numpad 0</kbd> cancels |
 | <kbd>J</kbd> | Cast a fishing line, or put the rod away. At the wheel of an emergency vehicle with its siren on, silence it |
 | <kbd>-</kbd> / <kbd>=</kbd> | A boat's anchor (the numpad minus works too) / its fish finder |
@@ -44,16 +44,18 @@ FiveM keeps your old choice for that action, so a default that changes later won
 
 Walking onto a house's door marker opens that house's menu.
 
-**Two keys do two jobs.** <kbd>Numpad 8</kbd> is both your fifth emote slot and "push a vehicle", and <kbd>B</kbd> is both
-pointing and a police officer's visual contact. If one gets in the way of the other, move one of them in **Settings > Key
-Bindings > FiveM**.
+**Some keys do two jobs.** <kbd>Numpad 8</kbd> is both your fifth emote slot and "push a vehicle", <kbd>B</kbd> is both
+pointing and a police officer's visual contact, and for an officer the middle mouse button both swaps the shoulder while
+aiming and arrests, tickets or takes visual contact. If one gets in the way of the other, move one of them in
+**Settings > Key Bindings > FiveM**.
 
 ### Aiming over either shoulder
 
-GTA puts the camera over your right shoulder when you aim. Press <kbd>Left Shift</kbd> while you aim and it moves over
+GTA puts the camera over your right shoulder when you aim. Press <kbd>Middle mouse</kbd> while you aim and it moves over
 your left one, so you can look and shoot round the left side of a corner, a car or a doorway without stepping out into
-the open. It stays on that side every time you aim until you press <kbd>Left Shift</kbd> again, and it goes back to
-the right shoulder when you reconnect.
+the open. It stays on that side every time you aim until you press <kbd>Middle mouse</kbd> again, and it goes back to
+the right shoulder when you reconnect. You can rebind it as "Aiming: swap the camera to the other shoulder" in
+**Settings > Key Bindings > FiveM**.
 
 It only works aiming on foot in third person. In first person, through a sniper scope, in a vehicle, in cover (cover
 has its own sides) and lying prone, the camera is the game's usual one.
