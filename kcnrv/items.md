@@ -290,7 +290,7 @@ Bigger guns cost more: melee parts are cheaper than pistol ones, and a sniper's 
 
 ### Found, not bought
 
-- **Dumpsters, cars and bodies:** see Searching below.
+- **Dumpsters and bodies:** see Searching below.
 - **The Davis Quartz quarry** always has some tools or finds lying about, and a new one turns up a couple of hours
   after one's taken. It's mostly a flashlight, hammer, wrench, crowbar, petrol can, fire extinguisher,
   binoculars or hatchet, now and then a blow torch, a big rotary drill or a machete, and very rarely an SNS pistol, a
@@ -298,17 +298,12 @@ Bigger guns cost more: melee parts are cheaper than pistol ones, and a sniper's 
 
 ## Searching
 
-**A dumpster:** walk up and press <kbd>E</kbd> ("Search Dumpster"); the ones behind shops are worth the walk. **A car that
-is nobody's and unlocked:** <kbd>X</kbd> on it, **Search vehicle**. A progress ring runs and what you found is worked
-out at the end. **The same dumpster or car can't be searched again for an hour.**
+**A dumpster:** walk up and press <kbd>E</kbd> ("Search Dumpster"); the ones behind shops are worth the walk. A progress
+ring runs and what you found is worked out at the end. **The same dumpster can't be searched again for an hour.**
 
-Either can come up empty, a car more often than a dumpster. A dumpster sometimes holds cash, $10 to $80, and a car
-never does.
-
-| | What turns up |
-| --- | --- |
-| Dumpster | Packages, empty baggies, a fake wallet, baking soda, lithium strips, acetone, a wallet, a stolen or burner phone, a silver chain, a walkie talkie, a digital watch, and rarely a duffel bag, a briefcase or a balaclava |
-| Car | A condom, lottery ticket, sunglasses, empty baggies, earbuds, a wallet, car keys, a stolen phone, a digital watch or a field watch, and rarely a balaclava |
+It can come up empty, and sometimes holds cash, $10 to $80. Otherwise: packages, empty baggies, a fake wallet, baking
+soda, lithium strips, acetone, a wallet, a stolen or burner phone, a silver chain, a walkie talkie, a digital watch, and
+rarely a duffel bag, a briefcase or a balaclava.
 
 **Bodies:** killing one of a gang's people drops what they carried around the spot where they fell, for whoever walks
 over it, for a couple of minutes. It is usually cash ($20 to $120), now and then a slim jim, and a few finds. A

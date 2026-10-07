@@ -8,13 +8,13 @@ order: 10
 ## Pawn shops
 
 Press <kbd>Y</kbd> at a pawn shop's counter: opening the menu tips out of your bag everything the shop would buy, and it buys what you are holding in your hands as well as what is in your pockets (see [Carrying things](../carrying-things/)). Guns, grenades and the like stay in the bag. A pawn shop never buys a bag itself, only what's in it, and it skips the
-phone the walkthrough gives you.
+phone the walkthrough gives you. The menu lists what the shop pays most for first, so your valuables are at the top.
 
 | Item | Price |
 | --- | --- |
 | Valuables (jewellery, watches, gold bars and so on) | 60% of market price |
 | Ordinary second-hand goods | 25% |
-| Contraband, bags, fish, sealed G6 cargo, anything with no market price | Not bought |
+| Contraband, bags, fish, bait, sealed G6 cargo, anything with no market price | Not bought |
 
 **Hot pieces.** For half an hour after a job, a piece from it is hot: it sells for 55% of the usual offer, and about
 one time in three the shop tips off the police, with your name if your face was showing.

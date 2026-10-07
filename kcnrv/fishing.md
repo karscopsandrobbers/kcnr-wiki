@@ -42,7 +42,7 @@ piece works like shop bait. Cut bait goes on the hook before shop bait. **Bait c
 illegal to carry**: an officer who searches you and finds it charges you.
 
 **Fish are real items.** They survive a relog, show in your inventory with their size and weight, and can be handed to
-another player in a [trade](../trading/). The pawn counter refuses them.
+another player in a [trade](../trading/). The pawn counter refuses them, and bait too.
 
 ## Where to fish
 

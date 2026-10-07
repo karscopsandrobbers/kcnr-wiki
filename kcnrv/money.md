@@ -74,7 +74,7 @@ one demand. Bank it.
 
 ## The lottery
 
-1. **Get a ticket.** Every 24/7 counter sells them, and they turn up in gloveboxes and strangers' pockets.
+1. **Get a ticket.** Every 24/7 counter sells them, and they turn up in strangers' pockets.
 2. **Use it** from your pockets and type a number from 0 to 100 in chat. One number each per draw, and each number
    can only be taken once.
 3. **The draw** is at 16:00 game time every game day (every 48 real minutes), and only players online at the draw
@@ -104,7 +104,7 @@ money the city took this game week and a **Spent** row for every kind it paid ou
 ## What clothes cost
 
 At a clothing store every piece on a rail costs the same, and the menu shows it on each one. Taking something off is
-free.
+free, and it stays off: your legs go back to bare, not to the jeans the game starts everybody in.
 
 | Rail | Price |
 | --- | --- |

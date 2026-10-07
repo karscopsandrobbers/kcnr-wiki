@@ -51,7 +51,7 @@ The clock is **6 minutes**, or **12 at Pacific Standard**, from the moment the j
    Pacific Standard's round vault door takes about 15 seconds to swing open. Once the job is over, every vault shuts
    again as soon as nobody is inside it, or after three minutes whoever is.
 4. **Empty the vault.**
-   - **Trolleys** (Fleeca): press **Grab**. It takes about 37 seconds and brings its own bag. Hold <kbd>E</kbd> to grab
+   - **Trolleys** (Fleeca): <kbd>E</kbd> at one (**Grab**, on the trolley). It takes about 37 seconds and brings its own bag. Hold <kbd>E</kbd> to grab
      one and a half times as fast. You can't move or crouch until the bag is zipped. Right-click to stop and step away
      with what you've bagged: whoever grabs that trolley next, you or a crewmate, carries on from where you stopped.
    - **Deposit boxes** (Fleeca): <kbd>G</kbd> at a box with the drill, a worn duffel bag and free arms. Six of the nine
