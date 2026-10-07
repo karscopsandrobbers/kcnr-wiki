@@ -59,10 +59,12 @@ are, or let the card go. A contact's first call comes with a twist that shows yo
 | --- | --- | --- |
 | Simeon | A [repo car](../repo-jobs/), never a hard one | The car's tank is empty: take it fuel in a jerrycan, and he pays the fuel back. Only once you have the cash on you for the can and its fuel |
 | Billy | A [petrol run](../trucking/) | A station has run dry: a rush run to it, the tanker lent free and a bonus on top |
-| Tonya | A [show car](../tow-dispatch/) at the Del Perro Pier car meet | Get there early and the owner lends you a rod and bait to fish with while it's judged |
+| Tonya | A [show car](../tow-dispatch/) at the Del Perro Pier car meet | The judges want a few minutes with it, and the owner lends you a rod and bait to fish with meanwhile |
+| Sweet Lou | [Trouble on the corner](../the-pimp/) | Keep it quiet: no shots fired and he tips. He also tells you how to bring a friend |
+| The fire chief (firefighters) | A [store on fire](../firefighter/) and full of smoke | He gives you a gas mask: without one the smoke chokes you |
 
-Nobody rings while you're on a job, robbing, wanted, in jail, fishing, on another call or sitting in a tow truck
-waiting for the radio. Calls come at least ten minutes apart, and every call you let go makes the next one wait longer.
+Firefighters get the fire chief's calls, and only while no fire is burning; civilians get the rest. Nobody rings while
+you're on a job, robbing, wanted, in jail, fishing, on another call or sitting in a tow truck waiting for the radio. Calls come at least ten minutes apart, and every call you let go makes the next one wait longer.
 
 ## Today's work
 

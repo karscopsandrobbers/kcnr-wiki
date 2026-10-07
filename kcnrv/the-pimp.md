@@ -24,6 +24,12 @@ blips are on the map all day, faded by day and bright from 19:00 to 06:00 game t
 
 Which of the three men stands on which corner is shuffled every time the server restarts.
 
+**Sweet Lou's call.** Below level 10, Sweet Lou may phone you with Trouble on the corner (see
+[Your first hour](../your-first-hour/)); press <kbd>Y</kbd> on the card after the call. The first time, he wants it
+**quiet**: put the man down with your fists or a blade, or point a gun at him and let him run, but nobody in the crew
+fires a shot. Do it that way and he tips **$300 to $600** on top of the fee. One shot and he tells you the tip is gone.
+He also tells you how to bring a friend (below, With a friend).
+
 ## How it works
 
 1. He names the street and the fee. Go and deal with it. **Every job has a clock**: time for the

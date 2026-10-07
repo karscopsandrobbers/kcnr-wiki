@@ -115,6 +115,8 @@ three $2,667, four $2,500. You're paid in full if you were in it for a minute, h
   store**. You bring the load home to the wash lane or the club door.
 - **Promotion:** the three shops are a short drive from the club, picked from 24/7s, liquor stores,
   clothing stores, bars, tattoo parlours and barbers.
+- **The job's vehicle** (and Crush Evidence's car) is waiting with its engine running: get in and drive. It's yours to
+  lock and to turn off and on from the <kbd>X</kbd> menu or `/engine`.
 - **A stop counts** when the job's vehicle is right at it. **Only the crew counts at the wheel**: with
   anybody else driving it, no stop counts and the hint tells you to get it back.
 - **It fails** if the vehicle is wrecked or the clock runs out. Nobody is paid, and the crew still waits the 12 minutes.
