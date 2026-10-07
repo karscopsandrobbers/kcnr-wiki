@@ -15,7 +15,7 @@ FiveM keeps your old choice for that action, so a default that changes later won
 | <kbd>`</kbd> (left of 1) | Personal assistant |
 | <kbd>F10</kbd> | Dashboard (`/help` opens it too) |
 | <kbd>F1</kbd> | Your cash and bank for 8 seconds with your rank bar; while wanted, how your heat is going |
-| <kbd>Z</kbd> | The same as <kbd>F1</kbd>, and it widens the map: radar, big map, whole map, back. It returns on its own after 10 seconds |
+| <kbd>Z</kbd> | The same as <kbd>F1</kbd>, and it widens the map a step at a time: radar, big map, whole map. After 10 seconds it goes back to where it sits: the radar on foot, the big map once you are in a vehicle |
 | <kbd>F2</kbd> | Scoreboard |
 | <kbd>T</kbd> | Chat. See [Chat and Discord](../chat-and-discord/) |
 | <kbd>I</kbd> | Your pockets. See [Items and your pockets](../items/) |
