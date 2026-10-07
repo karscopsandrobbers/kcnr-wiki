@@ -49,6 +49,19 @@ Each goal also shows up as an achievement on your dashboard; see
 After the walkthrough, rank 2 and the $1,000 goal you have about 320 XP. Level 3 is 354, so **your first job after
 the walkthrough takes you to level 3**, and level 3 opens banks.
 
+## Calls from people with work
+
+Until you reach level 10, somebody with work phones you after you've been doing nothing for about three minutes, and
+driving around counts as nothing. After the call a card shows the job: press <kbd>Y</kbd> to take it from wherever you
+are, or let the card go. A contact's first call comes with a twist that shows you something new, and a perk for it.
+
+| Who | The job | The twist on the first call |
+| --- | --- | --- |
+| Simeon | A [repo car](../repo-jobs/) | The car's tank is empty: take it fuel in a jerrycan, and he pays the fuel back |
+
+Nobody rings while you're on a job, robbing, wanted, in jail, fishing, on another call or sitting in a tow truck
+waiting for the radio. Calls come at least ten minutes apart, and every call you let go makes the next one wait longer.
+
 ## Today's work
 
 `/work` (or `/jobs`, `/daily`) shows your board: **three jobs for the game day and one for the game week**. A game

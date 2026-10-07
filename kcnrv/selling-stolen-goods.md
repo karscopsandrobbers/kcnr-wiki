@@ -42,7 +42,7 @@ too.
 | You have | Best place | Why |
 | --- | --- | --- |
 | Jewellery from a case or a deposit box | A pawn shop | Wait half an hour if you can: full price, no tip-off |
-| A sealed briefcase, bag or duffel | The G6 insider | Full worth, never less than opening it yourself, plus Robbing XP |
+| A sealed cash box, bag or duffel | The G6 insider | Full worth, never less than opening it yourself, plus Robbing XP |
 | A sealed gold bag | The G6 insider | Its full worth; opened, each bar fetches only 60% at a pawn shop |
 | Till or vault cash | Nothing to sell | It's already money |
 

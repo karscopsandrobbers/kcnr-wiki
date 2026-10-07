@@ -20,6 +20,7 @@ of their building, and you leave them at the same desk.
 | Team | Buildings | What's inside |
 | --- | --- | --- |
 | Police | Mission Row | Desk, locker, armoury and garage |
+| | La Mesa | Desk and garage |
 | | Sandy Shores, Paleto Bay Sheriff's Station | Desk only |
 | Medic | Central Los Santos, Pillbox Hill, Mount Zonah, St. Fiacre, Sandy Shores, The Bay Care Center (Paleto) | Desk and garage |
 | | Eclipse Medical Tower | Desk only |

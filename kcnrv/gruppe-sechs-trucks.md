@@ -10,8 +10,8 @@ opens: From the start, as a civilian
 
 A truck goes out every 12 real minutes at most: one at a time, or two at once with 4 or more players online. It leaves
 the Union Depository with one or two cash duffels and calls at banks and Vangelico. At each stop the **courier** (the
-guard in the front passenger seat) walks in and comes back with a briefcase or a cash bag. Pacific Standard, Blaine
-County and Vangelico always send a big bag. Every other stop sends a bag or a briefcase, more often a briefcase. Pacific Standard sometimes sends a bag of gold.
+guard in the front passenger seat) walks in and comes back with a green Gruppe Sechs **cash box**. Pacific Standard, Blaine
+County and Vangelico fill theirs the most. Pacific Standard sometimes sends a bag of gold instead.
 
 The truck gets **one escort car** once its cargo reaches $40,000, **two** at $80,000. An escort car holds two armed
 guards.
@@ -87,7 +87,7 @@ Then press <kbd>E</kbd> at the back of the truck to take the cargo out. It has t
 
 ## Opening it, or not
 
-Cargo is **sealed**. A briefcase or bag opens with **any blade or a crowbar anywhere in your weapons**, whether or not
+Cargo is **sealed**. A cash box or bag opens with **any blade or a crowbar anywhere in your weapons**, whether or not
 you hold it, or with a **drill in your pockets**. The blades are a knife, switchblade, dagger, machete, either
 hatchet, a battle axe or a broken bottle. You can't do it in a vehicle or while cuffed.
 
@@ -134,20 +134,19 @@ When none of the crew are left in the truck, it **unlocks for anyone**.
 
 | Cargo | Worth |
 | --- | --- |
-| Briefcase | $5,000 to $10,000 |
-| Cash bag | $12,000 to $22,000 |
-| Big bank bag (Pacific Standard, Blaine County, Vangelico) | $40,000 to $70,000 |
+| Cash box | $5,000 to $10,000, or now and then $12,000 to $22,000 |
+| Cash box from a big bank (Pacific Standard, Blaine County, Vangelico) | $40,000 to $70,000 |
 | Depot cash duffel | $10,000 to $18,000, one or two a truck |
 | Gold bag (Pacific Standard) | 4 to 7 gold bars |
 
-A briefcase weighs 3 kg (6.6 lb), a cash bag 6 kg (13.2 lb), a gold bag 7.5 kg (16.5 lb) and a duffel 12 kg (26.5 lb).
+A cash box weighs 3 kg (6.6 lb), a gold bag 7.5 kg (16.5 lb) and a duffel 12 kg (26.5 lb).
 
 There's no XP for the attack itself; the insider pays 10 Robbing XP a piece.
 
 ## Tips
 
 - Selling sealed to the insider never pays less than opening it yourself, and he already knows which pieces carry dye.
-- Blow the whole truck up and the briefcases and gold are thrown clear, but the bags of money burn.
+- Blow the whole truck up and the cash boxes and gold are thrown clear, but the duffels of money burn.
 - Kill a guard carrying a case out of a bank and he drops it; hit him and he runs.
 - Buy the insider's tip and wait in his circle: the truck drives in. You can hold **five tips** at once, and a sixth
   pushes out the oldest. He won't sell you a tip on a run you're already robbing, or one you already have, and he won't

@@ -21,8 +21,8 @@ opens: Total level 3
 | Bank | How it starts | Door strength | Inside | Closed after a job |
 | --- | --- | --- | --- | --- |
 | Six Fleeca branches | Walk up to the vault door with a drill, or use the terminal | 10 | 3 cash trolleys, 9 deposit boxes | 15 minutes |
-| Blaine County Savings (Paleto Bay) | Walk up, like a Fleeca | 12 | 3 cash piles | 24 minutes |
-| Pacific Standard | Only from `/heists`, typed inside a house you own | 15 | 6 cash piles | 1 hour |
+| Blaine County Savings (Paleto Bay) | Walk up, like a Fleeca | 12 | 3 cash trolleys | 24 minutes |
+| Pacific Standard | Only from `/heists`, typed inside a house you own | 15 | 7 trolleys, up to two of them gold | 1 hour |
 
 The clock is **6 minutes**, or **12 at Pacific Standard**, from the moment the job starts.
 
@@ -51,12 +51,11 @@ The clock is **6 minutes**, or **12 at Pacific Standard**, from the moment the j
    Pacific Standard's round vault door takes about 15 seconds to swing open. Once the job is over, every vault shuts
    again as soon as nobody is inside it, or after three minutes whoever is.
 4. **Empty the vault.**
-   - **Trolleys** (Fleeca): <kbd>E</kbd> at one (**Grab**, on the trolley). It takes about 37 seconds and brings its own bag. Hold <kbd>E</kbd> to grab
+   - **Trolleys**: <kbd>E</kbd> at one (**Grab**, on the trolley). It takes about 37 seconds and brings its own bag. Hold <kbd>E</kbd> to grab
      one and a half times as fast. You can't move or crouch until the bag is zipped. Right-click to stop and step away
      with what you've bagged: whoever grabs that trolley next, you or a crewmate, carries on from where you stopped.
    - **Deposit boxes** (Fleeca): <kbd>G</kbd> at a box with the drill, a worn duffel bag and free arms. Six of the nine
      are worth drilling, different ones every job; about one in ten is empty, the rest hold a piece of jewellery.
-   - **Cash piles** (Blaine County, Pacific Standard): press **Take**. One pile each.
 5. **Get out.** Once the vault's open, the job ends when the whole crew is out of the building, or on the clock. If
    anything noticed you, each robber gets **2 stars and an APB**.
 
@@ -70,8 +69,8 @@ not once less than about a third of the clock is left. Dying, being jailed or ch
 | What | Pays |
 | --- | --- |
 | A Fleeca trolley | $15,000 to $30,000, three a branch |
-| A Blaine County pile | $15,000 to $30,000, three piles |
-| A Pacific Standard pile | $30,000 to $60,000, six piles |
+| A Blaine County trolley | $15,000 to $30,000, three |
+| A Pacific Standard trolley | $30,000 to $60,000, seven, a gold one the same as cash |
 | A deposit box | A piece of jewellery for the pawn shop, about nine boxes in ten |
 | Finishing the job | 150 civilian XP and 100 Robbing XP, to every robber |
 | Every successful hack | 40 civilian XP and 46 Hacking XP |

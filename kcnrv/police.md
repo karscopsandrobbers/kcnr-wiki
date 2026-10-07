@@ -6,14 +6,14 @@ order: 2
 opens: From the start, if you're not wanted and owe no fines
 ---
 
-Join at any of the three police desks: Mission Row, Sandy Shores or Paleto Bay (see [Joining a team](../joining-a-team/)).
-Only **Mission Row** has the rest of the station:
+Join at any of the four police desks: Mission Row, La Mesa, Sandy Shores or Paleto Bay (see [Joining a team](../joining-a-team/)).
+Only **Mission Row** has the rest of the station; **La Mesa** has a garage too:
 
 - **Locker**: a police outfit, or one of the cop, sheriff, ranger, highway patrol, marine, SWAT or FIB characters.
 - **Armoury**: free weapons with full ammo. Which ones you can take depends on your police rank.
 - **Garage**: police cars, bikes and the Police Maverick helicopter, free, one every 5 seconds.
 
-Every police desk also has **Crime scenes**, **Armoured runs** and **Tickets**.
+Every police desk also has **Crime scenes** and **Tickets**, and for officers **Armoured runs**.
 
 ## Finding the work
 

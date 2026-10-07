@@ -16,6 +16,18 @@ need one.
 Go to Simeon's desk inside Premium Deluxe Motorsport (it's on the map), walk into the marker and choose **Take the
 job**. After a job, done or failed, he has another one 5 seconds later.
 
+Below level 10 he also phones you with one when you've been doing nothing for a while (see
+[Your first hour](../your-first-hour/)); press <kbd>Y</kbd> on the card after the call to take it.
+
+### The dry car
+
+The first job Simeon phones you with comes with an **empty tank**. When you get in, the nearest gas station whose pumps
+work goes on your map. Buy an empty jerrycan at its counter, fill it at a pump (<kbd>E</kbd> with the can in your hand),
+then stand at the car holding the can, press <kbd>X</kbd> and pick **Refuel (Jerrycan)**. The clock has 4 more minutes
+for it, and when you deliver, Simeon pays back what you spent on fuel during the job, up to one full can, on top of the
+fee. The can is yours to keep. If the car turns out to be electric, it needs no fuel, and Simeon tells you to just drive
+it.
+
 ## How it works
 
 1. Simeon texts you the area and the fee. The blip's colour says how rough it'll be: green is easy, yellow medium, red

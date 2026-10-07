@@ -6,7 +6,7 @@ order: 10
 opens: Any time you pick up something too big for your pockets
 ---
 
-Most loot goes straight into your pockets. A few things don't fit: Gruppe Sechs briefcases and bags, a laptop, a
+Most loot goes straight into your pockets. A few things don't fit: Gruppe Sechs cash boxes and bags, a laptop, a
 painting, a flat-screen TV. Those you carry **in your hands**, and you only have one pair.
 
 ## Three sizes
@@ -14,7 +14,7 @@ painting, a flat-screen TV. Those you carry **in your hands**, and you only have
 | Size | Examples | Where it can go |
 | --- | --- | --- |
 | Pocket-sized | Almost everything: cash, jewellery, tools, drinks | Your pockets, anywhere |
-| Bag-sized | A G6 briefcase, cash bag, gold bag or duffel; a laptop; a painting or canvas; a trophy; a vase | A bag you're wearing (if it has room), else your hands, a boot, a car seat or the ground. **Never loose in your pockets** |
+| Bag-sized | A G6 cash box, gold bag or duffel; a laptop; a painting or canvas; a trophy; a vase | A bag you're wearing (if it has room), else your hands, a boot, a car seat or the ground. **Never loose in your pockets** |
 | Arms-sized | A guitar, a flat-screen TV | Your hands, a boot or the ground. Never a pocket, a bag or a car seat |
 
 A bag-sized thing that you get goes **into your worn bag first, if it has room**. If you have no bag, or it is full, it
@@ -29,8 +29,7 @@ what you're holding first, and while you hold a two-handed thing you can't pick 
 
 | Cargo | Weight | How you hold it |
 | --- | --- | --- |
-| G6 Briefcase | 3 kg (6.6 lb) | By the handle |
-| G6 Cash Bag | 6 kg (13.2 lb) | A bag at your side |
+| G6 Cash Box | 3 kg (6.6 lb) | By its handle, at your side |
 | G6 Gold Bag | 7.5 kg (16.5 lb) | A bag at your side |
 | G6 Cash Duffel | 12 kg (26.5 lb) | A bag at your side |
 
@@ -43,14 +42,13 @@ is the heavy one at 12 kg (26.5 lb).
 ## What holding something stops
 
 While you hold anything, you **can't shoot, aim, fight or take cover, and you can't play an emote**. Your gun is
-holstered the moment you pick it up. **Drawing a weapon makes you drop what you hold.** The briefcase is the one
-exception: it is held as a weapon of its own.
+holstered the moment you pick it up. **Drawing a weapon makes you drop what you hold.**
 
 How much else it stops depends on how you carry it.
 
 | How it's held | Examples | Sprint | Jump | In a car |
 | --- | --- | --- | --- | --- |
-| One-handed, by the handle or at your side | G6 briefcase, bags and duffel, a guitar | Yes | Yes | Allowed |
+| One-handed, by the handle or at your side | G6 cash box, bags and duffel, a guitar | Yes | Yes | Allowed |
 | One-handed, under your arm | Laptop, a painting | Yes | No | Allowed |
 | Two-handed, in both arms | A TV, a vase, a trophy | No | No | No: put it in a boot first |
 

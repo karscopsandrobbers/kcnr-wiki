@@ -9,8 +9,8 @@ opens: From the start, as a civilian
 ## When you can start
 
 - You must be a civilian, at any level, and not wanted.
-- **Cargo:** a box truck (Benson, Biff, Mule, Pounder, Terbyte) carries the load itself; a tractor unit (Hauler,
-  Packer, a Phantom) pulls a trailer.
+- **Cargo:** a box truck (Benson, Biff, Mule, Pounder, Terbyte) carries the load itself; a tractor unit (a Hauler or
+  Hauler Custom, Packer, a Phantom) pulls a trailer.
 - **Petrol:** you need a tractor unit.
 - **No truck?** The board lends you one, for 10% off the distance pay. You can't start in a car that isn't a truck.
 

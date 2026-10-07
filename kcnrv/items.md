@@ -119,9 +119,9 @@ Everything you can use, and what it does. A **contraband** item is taken in a po
 
 | Item | What it's for |
 | --- | --- |
-| Big Rotary Drill | The quiet way through a bank vault door, then the deposit boxes inside. Also drills a shop's back-office safe and the rear lock of a stopped [Gruppe Sechs truck](../gruppe-sechs-trucks/), and forces sealed G6 briefcases and bags. Overheat it on a vault door and it's destroyed. Contraband |
+| Big Rotary Drill | The quiet way through a bank vault door, then the deposit boxes inside. Also drills a shop's back-office safe and the rear lock of a stopped [Gruppe Sechs truck](../gruppe-sechs-trucks/), and forces sealed G6 cash boxes and bags. Overheat it on a vault door and it's destroyed. Contraband |
 | Blow Torch | Cuts open a shop's back-office safe: slower than the drill, but quieter. That's all it does. Contraband |
-| Crowbar | The only tool that forces a G6 money crate. Also opens sealed G6 briefcases and bags, and smashes Vangelico's display cases |
+| Crowbar | The only tool that forces a G6 money crate. Also opens sealed G6 cash boxes and bags, and smashes Vangelico's display cases |
 | Blades: knife, switchblade, dagger, machete, hatchets, battle axe | Cut a building's fuse box to kill its power: alarm, cameras and lights go off and the doors fail open. Also cut a G6 cash duffel open where it lies and force sealed G6 briefcases and bags. The machete, hatchets and battle axe smash display cases too, and a broken bottle opens G6 bags |
 | Hammer, bat, golf club, pipe wrench, knuckle duster | Smash Vangelico's display cases (so does a gun) |
 | Slim Jim | Opens the locked car on one of [Simeon's Repo Jobs](../repo-jobs/). It can snap. Contraband |

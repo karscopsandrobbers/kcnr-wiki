@@ -47,7 +47,7 @@ top right instead of the banner, but the server is told all the same.
 
 Each of the first three pages has a **tab for every counter**, and each tab shows the **top 25**. A player only appears
 on a tab once they have moved that counter, so a quiet week shows only the people who played. Times show as a clock,
-distances in your own units, and money in green dollars.
+distances and fuel in your own units, and money in green dollars.
 
 | Area | What is counted |
 | --- | --- |
@@ -58,6 +58,7 @@ distances in your own units, and money in green dollars.
 | Jobs | Missions completed and the money earned from them, scrapyard cars sold and what they earned |
 | Trucking | Runs, petrol runs, distance, XP, money earned, perfect parks |
 | Fishing | Fish caught, trophies, money earned, pots hauled |
+| Fuel | Fuel bought at the pumps, for a car or a jerrycan, and what it cost with the tax |
 | Business | Business income, supply runs, scrap hauls, promotions, defends, car washes, jobs done and money earned from them |
 | Luck | Lottery jackpots won and total winnings, [animals hunted](../wildlife/) |
 
