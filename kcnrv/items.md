@@ -38,8 +38,8 @@ you get into a car. A seat holds one bag-sized thing, and an arms-sized one goes
 ### Picking up and dropping
 
 A floating prompt shows over anything lying close by. <kbd>E</kbd> picks it up, and <kbd>H</kbd> looks inside
-a bag. A cash pile reads **Take $X cash** and takes it all at once; a pile of several things opens an amount menu that
-starts at one. With several things under your feet the last one is offered first, then the next as each goes.
+a bag. A cash pile reads **Take $X cash** and takes it all at once; a pile of several things reads **Pick up all**,
+and a tap of <kbd>E</kbd> takes all of it too. Hold <kbd>E</kbd> to choose how many instead: the menu starts at all of them. With several things under your feet the last one is offered first, then the next as each goes.
 
 ## Bags
 
@@ -266,6 +266,9 @@ and your hand shows the rounds it takes; <kbd>R</kbd> loads every round you carr
 lets it hold, and the rest stays in your pockets. Loading from the inventory goes into the gun that takes them, the
 one in your hand first. Your **weapon wheel is your loadout**: guns you've put on aren't in your pockets.
 
+Rounds bought from a gang, or out of a crate of rounds, come in **ammo boxes** of one calibre (250 rounds, or 100 of
+12 gauge). Use a box in your inventory to tip its rounds into your pockets.
+
 ### Weapon mods
 
 A **Mods** row appears on a stocked gun you own: suppressors, scopes, grips, flashlights, magazines, muzzle brakes,
@@ -321,7 +324,7 @@ An item is either legal or **contraband**, and a police search separates the two
 
 | Contraband | Legal |
 | --- | --- |
-| Guns and rifles, explosives (grenades, sticky bombs, pipe bombs, proximity mines) and molotovs, drugs, seeds, sealed G6 cargo, crates, a blow torch, a big rotary drill, a slim jim, coca leaves, opium paste, a hacking laptop and a USB hacking drive | Melee weapons, tear gas, BZ gas, flares, baseballs and snowballs, a stun gun and a fire extinguisher, rounds, armour, valuables, bags, food and drink, phones, masks |
+| Guns and rifles, explosives (grenades, sticky bombs, pipe bombs, proximity mines) and molotovs, drugs, seeds, sealed G6 cargo, crates, a blow torch, a big rotary drill, a slim jim, coca leaves, opium paste, a hacking laptop and a USB hacking drive | Melee weapons, tear gas, BZ gas, flares, baseballs and snowballs, a stun gun and a fire extinguisher, rounds and ammo boxes, armour, valuables, bags, food and drink, phones, masks |
 
 A frisk goes through **your pockets**, which is why a spare gun in them shows up and the guns on your weapon wheel
 don't. For six seconds you can bury up to three piles (contraband first, six taps of <kbd>E</kbd> each), and a worn

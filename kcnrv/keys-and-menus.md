@@ -15,7 +15,7 @@ FiveM keeps your old choice for that action, so a default that changes later won
 | <kbd>`</kbd> (left of 1) | Personal assistant |
 | <kbd>F10</kbd> | Dashboard (`/help` opens it too) |
 | <kbd>F1</kbd> | Your cash and bank for 8 seconds with your rank bar; while wanted, how your heat is going |
-| <kbd>Z</kbd> | The same as <kbd>F1</kbd>, and it widens the map a step at a time: radar, big map, whole map. After 10 seconds it goes back to where it sits: the radar on foot, the big map once you are in a vehicle |
+| <kbd>Z</kbd> | The same as <kbd>F1</kbd>, and it widens the map a step at a time: radar, radar zoomed out, big map, whole map. After 10 seconds it goes back to where it sits: the radar on foot, the radar zoomed out once you are in a vehicle |
 | <kbd>F2</kbd> | Scoreboard |
 | <kbd>T</kbd> | Chat. See [Chat and Discord](../chat-and-discord/) |
 | <kbd>I</kbd> | Your pockets. See [Items and your pockets](../items/) |
@@ -63,7 +63,8 @@ has its own sides) and lying prone, the camera is the game's usual one.
 ### Picking things up
 
 A thing on the ground shows a floating prompt. <kbd>E</kbd> picks it up. A pile of cash says "Take $X cash" and takes it
-all at once; a pile of several things opens a menu where you choose how many, starting at one. A bag shows <kbd>H</kbd> "Look
+all at once; a pile of several things is taken whole on a tap of <kbd>E</kbd> as well, and holding <kbd>E</kbd> opens a
+menu where you choose how many, starting at all of them. A bag shows <kbd>H</kbd> "Look
 inside" to see what it holds. With several things underfoot, the last one you reached is offered first, then the next once
 it's gone.
 
