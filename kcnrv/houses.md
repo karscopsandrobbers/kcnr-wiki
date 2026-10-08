@@ -17,7 +17,8 @@ the door's marker and its menu opens:
 
 - an unowned house: **Preview house for purchase**;
 - your house: **Enter House**;
-- somebody else's: **Enter House** if it's unlocked, or **Enter House Access Password** if it has one;
+- somebody else's: **Enter House** if it's unlocked, or **Enter House Access Password** if it has one (five wrong
+  passwords and that house won't take one from you for five minutes);
 - police on duty: **Enter House (duty)**.
 
 ## Buying

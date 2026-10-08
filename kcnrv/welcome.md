@@ -46,7 +46,7 @@ Choose **Forgot your Password?** on the login card:
 1. A six-digit code is emailed to the address on the account. The card shows the address with most of it hidden, such
    as `ab****@host`, so you can tell which inbox to open.
 2. Type the code and a new password (5 characters or more, typed twice). **The code is good for an hour.** Asking again
-   sends a new code and the old one stops working.
+   within five minutes sends nothing new, and the code you have still works; after that a new code replaces it.
 3. If the account has no email, the card tells you to contact an admin through the website.
 
 Add an email when you register: it is what recovery depends on.

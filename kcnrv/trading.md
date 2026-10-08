@@ -16,7 +16,7 @@ can't refuse it, and nothing comes back.
 ## The trade table
 
 1. Look at the player, press <kbd>X</kbd> and pick **Trade** (within 2.5 m).
-2. They answer <kbd>Y</kbd> to accept or <kbd>L</kbd> to decline. **They have 10 seconds**, and no answer is a no.
+2. They answer <kbd>Y</kbd> to accept or <kbd>N</kbd> to decline. **They have 10 seconds**, and no answer is a no.
 3. You each get a table:
    - **Put something up:** it leaves your pockets and sits on your side.
    - **Cash:** put up $10 to $100,000, or everything you carry.

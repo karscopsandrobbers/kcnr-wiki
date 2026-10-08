@@ -75,7 +75,8 @@ them for 2 minutes either, and they can't rob anyone themselves in that time.
 
 Every corner has its dealer: often on his own, otherwise with one to three of his crew round him. **They leave you alone until you start
 something**: hit one, or keep a gun on a crew member, and they draw, and every gang member within 40 m joins in. They
-give up once you're 100 m away or dead. The dead come back once nobody's near: dealers after 5 minutes, crew after 10.
+give up once you're well clear of the corner, or dead, and walk back to it. The dead come back once nobody's near:
+dealers after 5 minutes, crew after 10.
 
 | Tier | Chance | Carries | Refuses a shakedown |
 | --- | --- | --- | --- |
@@ -154,7 +155,11 @@ their own ground:
 - **A car theft.** Somebody's car taken from under them by one of a gang and driven off to the gang's place. Stop the
   thief, get in the car and bring it back to its owner, stopped beside them, and they pay you for it.
 
-A gang's cars carry its own things. Every car parked on a gang's turf, every supply van and every car a gang raids
+A fight with any of them belongs to where it started. Get well clear of that spot and stay away, and they give up and
+go back to what they were doing: a car thief gets back in the car and carries on. Stash-house guards walk back to the
+door.
+
+A gang's cars carry its own things. The crew's car at a hard repo job, every supply van and every car a gang raids
 in has a gun case in the boot: one of the gang's guns and some rounds for it. Crates of guns or rounds break open the
 same way as any crate, into the guns, or the rounds in ammo boxes.
 

@@ -23,7 +23,8 @@ of a robbery, you're wanted, or you're not in a tow truck.
    Auto Garage in Murrieta Heights, Sandy Shores and Paleto Bay.
 2. Get behind the wheel. Tonya, the dispatcher, puts you on duty.
 3. Calls come in every so often, with at most two open at once. The card shows the street, the car, the
-   distance and the fee; press <kbd>Y</kbd> within 25 seconds to take it, and the first driver to press it gets it. An
+   distance and the fee; press <kbd>Y</kbd> within 25 seconds to take it, and the first driver to press it gets it, or
+   <kbd>N</kbd> (**Not now**) to leave it to the others. An
    untaken call lapses after a while. If the radio's quiet, <kbd>Y</kbd> asks for a call, but not too often, and not while a card is already up. You're not sent a second card while the first is showing.
 4. When you're done, hand the truck back from the menu at any yard.
 

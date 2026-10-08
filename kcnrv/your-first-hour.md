@@ -53,7 +53,7 @@ the walkthrough takes you to level 3**, and level 3 opens banks.
 
 Until you reach level 10, somebody with work phones you after you've been doing nothing for about three minutes, and
 driving around counts as nothing. After the call a card shows the job: press <kbd>Y</kbd> to take it from wherever you
-are, or let the card go. A contact's first call comes with a twist that shows you something new, and a perk for it.
+are, or <kbd>N</kbd> (**Not now**), or let the card go. Turning it down, or letting it go, puts the next call further off. A contact's first call comes with a twist that shows you something new, and a perk for it.
 
 | Who | The job | The twist on the first call |
 | --- | --- | --- |

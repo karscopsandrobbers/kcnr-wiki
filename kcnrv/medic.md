@@ -7,13 +7,15 @@ opens: From the start, if you're not wanted
 ---
 
 Join at the desk of any hospital (see [Joining a team](../joining-a-team/)). Every hospital but Eclipse Medical Tower
-has a **garage** that hands out an **Ambulance** or the **Lifeguard** truck, free, one every 5 seconds.
+has a **garage** that hands out an **Ambulance** or the **Lifeguard** truck, free, one at a time: taking another takes
+your last one away once nobody is in it, and it goes when you leave the medics. Ten seconds between two.
 
 ## A call, start to finish
 
 1. **Drive a medic vehicle yourself.** Calls only come to the driver. Every 2 minutes dispatch sends a 911 card with the
    district and the distance: an Ambulance gets calls on land, the Lifeguard truck on the beaches.
-2. **Press <kbd>Y</kbd> within 35 seconds** to take it. A patient blip and a waypoint appear.
+2. **Press <kbd>Y</kbd> within 35 seconds** to take it, or <kbd>N</kbd> (**Not now**) to turn it down. A patient blip and a
+   waypoint appear.
 3. **Get out at the scene.** The patient menu offers the one treatment they need:
 
    | Patient | Treatment |

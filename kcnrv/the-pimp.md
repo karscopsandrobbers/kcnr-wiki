@@ -15,10 +15,11 @@ with two passenger seats.
 
 ## How to start
 
-There are three contacts: on the Vanilla Unicorn corner, behind Bahama Mamas, and on Orchardville Ave in La Mesa. Their
-blips are on the map all day, faded by day and bright from 19:00 to 06:00 game time. Walk up and press <kbd>Y</kbd>:
+Three contacts stand out at a time: on the Vanilla Unicorn corner, behind Bahama Mamas, and on Orchardville Ave in La
+Mesa. Who is where changes with each restart, from Sweet Lou, Papi Love, Rough Tony, Champagne Tilly and Big Rhonda.
+Their blips are on the map all day, faded by day and bright from 19:00 to 06:00 game time. Walk up and press <kbd>Y</kbd>:
 
-- **Ask for work**: he picks a job from what your level has opened;
+- **Ask for work**: they pick a job from what your level has opened;
 - **Help (name)**: join a job somebody else is already running, if it's still open and has room;
 - the whole ladder, with what locks each rung: a rung shows **Level N**, or **Night only** when it's daytime.
 
@@ -38,7 +39,7 @@ He also tells you how to bring a friend (below, With a friend).
 2. When the work's done, press <kbd>Y</kbd> to ring him, or he rings you after 15 seconds. The cash lands as the call
    ends. If the call drops, the 15 seconds start again and you're told to ring him again.
 3. He offers the next job on the phone. Until your wait is over the bar says he's setting it up, and the key does
-   nothing. Then he holds the job for a short while: <kbd>Y</kbd> takes it, <kbd>H</kbd> (shown once he's ready)
+   nothing. Then he holds the job for a short while: <kbd>Y</kbd> takes it, <kbd>N</kbd> (**Not now**, shown once he's ready)
    turns it down. The offer goes to **everyone in the crew**. It's the rung above the one you just did, if your level
    opens it; at the top of the ladder it's a random one other than the one you just did. It still needs your level, the
    night for night-only jobs, and the wait to be over.

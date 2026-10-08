@@ -10,7 +10,7 @@ opens: A party from the start; making a group at total level 5
 
 **Inviting:** `/party` lists people within 25 m to invite; or look at a player, press <kbd>X</kbd> and **Invite To
 Party** (within 5 m); or `/party invite [name or ID]` reaches anyone online. They answer with <kbd>Y</kbd> on the card
-within 30 seconds.
+within 30 seconds, or turn it down with <kbd>N</kbd>.
 
 A party invite and a job offer are the **same card**, so you only ever have one card at a time. A second one is refused
 ("try again"), and a card lapses after 30 seconds.

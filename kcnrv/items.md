@@ -53,6 +53,8 @@ and a tap of <kbd>E</kbd> takes all of it too. Hold <kbd>E</kbd> to choose how m
 - **<kbd>I</kbd> opens a bag's row** onto what's inside and what could go in from your pockets.
 - **A bag drops whole.** Dropped, it keeps its contents and can be picked up as it was; <kbd>H</kbd> looks inside it
   from the ground. A worn bag drops with everything in it.
+- **Anything dropped is picked up as it was**: a drug keeps its purity, an ammo box its rounds and a jewel its
+  condition.
 - **No shop sells a duffel bag, briefcase, package or balaclava.** A duffel is a rare find in a dumpster or a hard repo
   car's boot: see [Simeon's Repo Jobs](../repo-jobs/). A briefcase or package comes from a dumpster.
 - **A pawn shop won't buy a bag**: see [Selling stolen goods](../selling-stolen-goods/).

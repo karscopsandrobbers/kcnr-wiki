@@ -43,7 +43,8 @@ it.
      off.
    - **Medium:** a better car in a driveway. The owner comes out of the front door armed and comes for you. Half the
      time the car is unlocked; otherwise the keys are in the owner's pocket and drop where the owner goes down.
-   - **Hard:** a car on gang turf with three or four armed gang members around it. One of them has the keys.
+   - **Hard:** a car on gang turf with three or four armed gang members around it. One of them has the keys. Their own
+     car is parked by it, open, with one of their guns in the boot.
 3. **Get in** by picking up the keys, or with a **slim jim** from your pockets within 3 m of the car: it takes 4 seconds
    and snaps one time in four, and on a gang car it sets the crew off.
    While a locked car is still shut, a **KEYS** bar shows on screen: red "NOT FOUND" until you pick the keys up, then

@@ -38,7 +38,7 @@ Billy keeps an eye on you. Drive back past a board in the middle of a run and he
 ## The next load
 
 After every **cargo** run (not petrol), Billy texts that he has another load near you. While the board's wait is still
-running, a bar counts it down ("Skip the next load") and <kbd>H</kbd> turns it down. When the wait is up, the haul menu
+running, a bar counts it down and <kbd>N</kbd> (**Not now**) turns it down. When the wait is up, the haul menu
 opens right where you are, on the same haul you just drove, with **Done for now** to leave it. The offer stands for 90
 seconds, and taking any run uses it up. The new pickup is picked near **where you are**, so your next run starts from
 the drop.

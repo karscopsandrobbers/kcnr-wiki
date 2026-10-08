@@ -80,7 +80,8 @@ Your account is the key. <kbd>X</kbd> on your personal vehicle, on foot: Toggle 
 and Windows; on anyone else's, just Doors and Windows while it's unlocked. `/lock` and `/unlock` work on the car you're
 in, your personal vehicle within 4 m, or the last car you drove. Locked, nobody else can open its doors or boot, and the lock
 stays through logouts. You can lock a street car that's nobody's, and then only you can unlock it. `/engine` switches
-the engine on and off. Locking or unlocking by hand chirps and flashes the lights: **two flashes for locked, four for
+the engine on and off, and getting into the driver's seat of a car whose engine is off shows <kbd>L</kbd> to start it, for
+a few seconds. Locking or unlocking by hand chirps and flashes the lights: **two flashes for locked, four for
 unlocked**.
 
 ## Getting in, changing seats and breaking in

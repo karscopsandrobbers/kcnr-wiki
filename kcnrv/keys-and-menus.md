@@ -15,14 +15,15 @@ FiveM keeps your old choice for that action, so a default that changes later won
 | <kbd>`</kbd> (left of 1) | Personal assistant |
 | <kbd>F10</kbd> | Dashboard (`/help` opens it too) |
 | <kbd>F1</kbd> | Your cash and bank for 8 seconds with your rank bar; while wanted, how your heat is going |
-| <kbd>Z</kbd> | The same as <kbd>F1</kbd>, and it widens the map a step at a time: radar, radar zoomed out, big map, whole map. After 10 seconds it goes back to where it sits: the radar on foot, the radar zoomed out once you are in a vehicle |
+| <kbd>Z</kbd> | The same as <kbd>F1</kbd>, and it widens the map a step at a time: radar, radar zoomed out, big map. After 10 seconds it goes back to where it sits: the radar on foot, the radar zoomed out once you are in a vehicle |
 | <kbd>F2</kbd> | Scoreboard |
 | <kbd>T</kbd> | Chat. See [Chat and Discord](../chat-and-discord/) |
 | <kbd>I</kbd> | Your pockets. See [Items and your pockets](../items/) |
 | <kbd>X</kbd> | The menu for whatever is in the middle of your screen close by: a person, a car. In a boat, it sets a fishing pot |
 | <kbd>E</kbd> | Pick up, a car's boot from the back, an ATM, City Hall's counter, the scrapyard, a pump, a dumpster to search, a car window to smash. Floating prompts show their own key |
 | <kbd>Y</kbd> | A shop, pawn or bank counter, a Bait & Tackle, and the card on screen (a party invite, a crew job, a trade) |
-| <kbd>L</kbd> | Declines the card on screen |
+| <kbd>N</kbd> | **Not now**: turns down the card on screen (a call with work, a party or crew invite, a trade, a shared emote) and the next job a contact offers. Hazards otherwise, in a car |
+| <kbd>L</kbd> | Starts the engine, for the few seconds its prompt shows after you get into the driver's seat of a car whose engine is off |
 | <kbd>H</kbd> | The house menu, inside a house (in a car it's the headlights, and held on a convertible it moves the roof). A bag's contents, when you stand over one |
 | <kbd>G</kbd> | Get in at the nearest door, or swap seats |
 | <kbd>F</kbd> (hold) | Pay respects, next to a body |
@@ -35,7 +36,7 @@ FiveM keeps your old choice for that action, so a default that changes later won
 | <kbd>F9</kbd> | Emotes. <kbd>Numpad 1 2 3 7 8 9</kbd> are your six emote slots, <kbd>Numpad 0</kbd> cancels |
 | <kbd>J</kbd> | Cast a fishing line, or put the rod away. At the wheel of an emergency vehicle with its siren on, silence it |
 | <kbd>-</kbd> / <kbd>=</kbd> | A boat's anchor (the numpad minus works too) / its fish finder |
-| <kbd>Numpad 4</kbd> / <kbd>Numpad 6</kbd>, <kbd>N</kbd> | Left and right indicators, hazards |
+| <kbd>Numpad 4</kbd> / <kbd>Numpad 6</kbd>, <kbd>N</kbd> | Left and right indicators, hazards (not while a card with **Not now** is up) |
 | <kbd>Numpad 8</kbd> (hold) | Push a vehicle |
 | <kbd>E</kbd> in a forklift | Pick up the car ahead of the forks, or put it down |
 | <kbd>Left Shift</kbd> / <kbd>X</kbd> in a tow truck | Hook or unhook a car, or winch or unload it on a flatbed / lower or raise the flatbed's ramp. See [Tow dispatch](../tow-dispatch/) |
@@ -87,9 +88,9 @@ swapping in a plane. You can't swap onto a seat with a bag on it, and you're tol
 
 - **Police:** <kbd>M</kbd> megaphone; middle mouse button to arrest, ticket or take visual contact (<kbd>B</kbd> takes
   visual contact too); <kbd>1</kbd> the number-plate reader; <kbd>Left Alt</kbd> police tech. See [Police](../police/).
-- **Medic:** <kbd>Y</kbd> accepts a call. See [Medic](../medic/).
+- **Medic:** <kbd>Y</kbd> accepts a call, <kbd>N</kbd> turns it down. See [Medic](../medic/).
 - **Firefighter:** <kbd>Y</kbd> sets a waypoint to the fire; left click turns the hose on and off. See [Firefighter](../firefighter/).
-- **Tow truck:** <kbd>Y</kbd> the radio. See [Tow dispatch](../tow-dispatch/).
+- **Tow truck:** <kbd>Y</kbd> the radio, <kbd>N</kbd> turns a call down. See [Tow dispatch](../tow-dispatch/).
 - **Any emergency vehicle:** <kbd>J</kbd> silences the siren while you drive it and it is on.
 
 ## The menus

@@ -11,7 +11,8 @@ Only **Mission Row** has the rest of the station; **La Mesa** has a garage too:
 
 - **Locker**: a police outfit, or one of the cop, sheriff, ranger, highway patrol, marine, SWAT or FIB characters.
 - **Armoury**: free weapons with full ammo. Which ones you can take depends on your police rank.
-- **Garage**: police cars, bikes and the Police Maverick helicopter, free, one every 5 seconds.
+- **Garage**: police cars, bikes and the Police Maverick helicopter, free, one at a time: taking another takes your
+  last one away once nobody is in it, and it goes when you leave the police. Ten seconds between two.
 
 Every police desk also has **Crime scenes** and **Tickets**, and for officers **Armoured runs**.
 
@@ -75,7 +76,7 @@ three quarters of the XP.
 | --- | --- | --- |
 | <kbd>X</kbd> | The interaction menu on a civilian | Frisk (within 1.5 m), Handcuff, Remove Handcuffs, Grab someone who's given up, Check Licence on somebody fishing (no licence is 1 star) |
 | <kbd>M</kbd> | Megaphone | A stop order to a pursued suspect within 30 m: 5 seconds to pull over, or kneel or surrender on foot; ignoring it is Evading Police, one more star. Once a minute per suspect. If they comply, your arrest pays 25% more |
-| <kbd>Left Alt</kbd> | Police tech | Cones, flares, barriers, stingers or an oil slick, on foot or from a police vehicle on all four wheels. How long it stays down grows with your rank |
+| <kbd>Left Alt</kbd> | Police tech | Cones, flares, barriers, stingers or an oil slick, on foot or from a police vehicle on all four wheels. How long it stays down grows with your rank; up to 15 of yours can be down at once |
 | <kbd>1</kbd> | Plate reader | In a police vehicle, reads cars up to 40 m ahead. A car flagged at a crime scene names its driver, gives you contact on them and goes out on dispatch |
 | <kbd>;</kbd> | Searchlight | The Police Maverick's spotlight locks onto a suspect in sight. With a helicopter in the pursuit, a suspect's escape clock runs at half speed |
 | <kbd>J</kbd> | Silence the siren | In any emergency vehicle you're driving with its siren on |
