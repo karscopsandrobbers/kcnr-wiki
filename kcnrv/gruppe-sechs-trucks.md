@@ -2,7 +2,7 @@
 title: Gruppe Sechs trucks
 summary: Armoured trucks carry the takings from the banks and Vangelico. Stop one, get into the back, and carry the cargo off.
 section: crime
-order: 9
+order: 5
 opens: From the start, as a civilian
 ---
 

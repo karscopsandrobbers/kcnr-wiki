@@ -1,8 +1,8 @@
 ---
 title: The Purge
 summary: One hour where nothing is a crime. Pedestrians riot, every shop clerk is armed, and everyone still alive at the end is paid.
-section: crime
-order: 11
+section: events
+order: 1
 ---
 
 It's an event an admin switches on, and everyone online is in it. Staff can also switch on quieter changes, like hidden nametags: see [When staff change the world](../keys-and-menus/#when-staff-change-the-world).

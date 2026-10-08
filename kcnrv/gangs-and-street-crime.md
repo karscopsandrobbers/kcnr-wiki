@@ -2,7 +2,7 @@
 title: Gangs and street crime
 summary: The city's people can be robbed, pickpocketed and shaken down. Gang corners fight back, and what they carry falls where they drop.
 section: crime
-order: 3
+order: 10
 opens: From the start, as a civilian on foot
 ---
 

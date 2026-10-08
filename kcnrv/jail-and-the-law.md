@@ -2,7 +2,7 @@
 title: Jail and the law
 summary: At 1 to 3 stars an officer writes you a ticket. At 4 or more you can be arrested, or killed for a takedown, and you spend time in a cell.
 section: crime
-order: 4
+order: 3
 ---
 
 ## Tickets (1 to 3 stars)

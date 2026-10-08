@@ -2,7 +2,7 @@
 title: Selling stolen goods
 summary: Turn what you took into cash, jewellery and gold at a pawn shop, Gruppe Sechs cargo with the G6 insider.
 section: crime
-order: 10
+order: 9
 ---
 
 ## Pawn shops

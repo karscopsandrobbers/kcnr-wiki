@@ -40,7 +40,7 @@ tables: [fish]
 | --- | --- |
 | `title` | The page's name, also in the sidebar. |
 | `summary` | One line: under the title, on the home page's cards, and in search results. |
-| `section` | `start`, `progression`, `jobs`, `crime`, `teams` or `life`. |
+| `section` | `start`, `progression`, `jobs`, `crime`, `teams`, `life` or `events`. |
 | `order` | Its place in the section. *Start here* and *Your progression* are read in this order. |
 | `opens` | Optional: when a player can first do it ("Total level 3", "Police"). |
 | `tables` | Optional: tables of game numbers drawn after the text: `levels`, `skills`, `fish`, `lester`, `hacking`. |

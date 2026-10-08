@@ -2,7 +2,7 @@
 title: Bank robberies
 summary: Get into a bank vault for cash trolleys and deposit-box jewellery. Drill the door quietly, hack it or blow it open.
 section: crime
-order: 5
+order: 4
 opens: Total level 3
 ---
 
