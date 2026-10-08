@@ -14,8 +14,8 @@ separate: see [Money](../money/).
 - **Pockets have no weight limit and no slot limit.** Bags and car boots do. The one exception is fish, which are
   capped at 25 lb (11.3 kg) in your pockets: see [Fishing](../fishing/).
 - **Weights follow your measurement setting**, kilograms or pounds, like every other unit in the game.
-- **The menu is a shelf of categories**, in this order: Weapons, Fishing, Tools, Valuables, Drugs, Food & Drink, Masks,
-  Bags, Clothing, General. Each shows how many kinds you carry and how much they weigh, and the top line says what you
+- **The menu is a shelf of categories**, in this order: Food & Drink, Weapons, Ammunition (loose rounds and ammo boxes),
+  Fishing, Tools, Valuables, Drugs, Masks, Bags, Clothing, General. Each shows how many kinds you carry and how much they weigh, and the top line says what you
   weigh in all.
 - **Pick an item for its options:** **Use** (**Withdraw** for a gun), **Wear** or **Take off**, **Put down** if it's
   in your hands, **Give to…**, **Look inside** for a bag, and **Drop**.
@@ -339,7 +339,8 @@ frisk ends if either of you dies. See [Jail and the law](../jail-and-the-law/) a
 - **Items keep their details.** Two watches of different condition, or two duffels, are separate piles, not one
   stack.
 - **Dying doesn't empty your pockets.** See [Death and respawn](../death-and-respawn/).
-- **Drugs can't be played yet.** Drug items exist and are contraband, but nothing turns them into money.
+- **Drugs** are contraband, taken with **Use**: see [Drugs](../drugs/). A pile of a drug looks like what it is, a
+  small package, a bag or a block, by how much there is.
 
 Related: [Money](../money/) · [Trading](../trading/) · [Selling stolen goods](../selling-stolen-goods/) ·
 [Vehicles](../vehicles/) · [Fishing](../fishing/) · [Death and respawn](../death-and-respawn/) ·

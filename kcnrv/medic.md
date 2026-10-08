@@ -42,6 +42,23 @@ has a **garage** that hands out an **Ambulance** or the **Lifeguard** truck, fre
 There's one rank title, Paramedic, and medic rank doesn't open anything yet, but every point counts toward your total
 level.
 
+## Overdoses and addiction
+
+**An overdose** comes as a call: what it looks like and a waypoint, and two minutes before the patient dies. Read the
+symptoms and pick the one treatment that works from the menu on them:
+
+| They are | Give |
+| --- | --- |
+| Not breathing, pinned pupils | **Give Naloxone** |
+| In pain at the chest, the heart racing, collapsed | **Start CPR** |
+| Burning up, fitting | **Give Medication** |
+
+The wrong one does nothing, and you can try again while there is time. Bringing somebody round pays **$2,000** in
+cash and 25 XP, once for the same patient in half an hour.
+
+**An addiction** is treated from **Treat Addiction** in the menu on a civilian: they pay $2,500 and you get half. See
+[Drugs](../drugs/).
+
 ## Tips
 
 - **Treat first.** The health bar, not the clock, is what usually ends a call.

@@ -83,6 +83,11 @@ three quarters of the XP.
 
 `/leo [text]` talks to the other officers, and `/backup [10-code]` puts a backup blip on every officer's map.
 
+**Drugs.** **Drug Test** in the menu on a civilian next to you shows anything they have taken in the last three hours:
+positive at the wheel is Driving Under the Influence, plainly high on foot Public Intoxication. Seeing somebody take a
+dose, sell on a corner or hand drugs over charges them, and drugs you book in a frisk charge Drug Possession, or Drug
+Trafficking for a dealer's amount. See [Drugs](../drugs/).
+
 **Frisking** is a contest: see [Jail and the law](../jail-and-the-law/) for how a search plays out from both sides.
 What you find is your choice: send it into evidence for a bounty, or keep it and take the risk. Something a suspect holds in their hands, like a briefcase, falls to the ground when you frisk them, and you pick it up from there: see [Carrying things](../carrying-things/).
 
@@ -137,7 +142,7 @@ are cash on the spot.
 | ...holding them in the spotlight | +$75 |
 | A ticket collected | The whole fine |
 | A fine collected while the city is in deficit | +25% of the fine, in cash, to you |
-| An item booked into evidence | $250 cash (Gruppe Sechs cargo: a tenth of its worth, at least $250) |
+| An item booked into evidence | $250 cash. Drugs: half what a gang's corner pays for them, at least $250 a pile. Gruppe Sechs cargo: a tenth of its worth, at least $250 |
 | A Gruppe Sechs escort | $400 a leg, $1,200 for seeing the run to the depot |
 | A fishing pot seized | $150 cash |
 

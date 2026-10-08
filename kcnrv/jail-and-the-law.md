@@ -36,7 +36,8 @@ An officer can frisk a civilian within 1.5 m, and for six seconds you're playing
   up to three (contraband first). A worn duffel bag costs two of the three. <kbd>Backspace</kbd> pulls away instead,
   which ends the search and is Escape, 1 star; so is walking more than 3 m off. Cuffs take that option away.
 - **The officer** sees nothing for those six seconds, then a list: contraband in red, legal items in white. Contraband
-  goes into evidence, or the officer keeps it and takes the risk.
+  goes into evidence, or the officer keeps it and takes the risk. Drugs sent into evidence charge you: Drug Possession,
+  1 star, or Drug Trafficking, 2 stars, for more than 20 doses (see [Drugs](../drugs/)).
 
 You can't be searched again for 45 seconds.
 

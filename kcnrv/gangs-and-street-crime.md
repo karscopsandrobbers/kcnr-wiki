@@ -218,7 +218,12 @@ Another group can take it off you the same way, and a gang that grows back to st
 
 ## Drugs
 
-**Drugs can't be played yet**: nothing in the game gives you what any recipe needs.
+A drugs corner's dealer also sells bags of his gang's drugs, and buys doses out of your pockets on the street. Each gang
+deals its own: see [Drugs](../drugs/) for what each sells, the street's prices and the police.
+
+**The gangs' size.** A gang's strength decides how big it runs. A weak gang sends one crate at a time and keeps thin
+corners. A strong one sends three or four crates with a car of its people behind the van, keeps fuller corners of
+better-armed men, and is out working more often. Its supply vans carry its guns, or its product.
 
 Related: [Items and your pockets](../items/) · [Shop robberies](../shop-robberies/) · [Wanted level and heat](../wanted-level-and-heat/) ·
 [Jail and the law](../jail-and-the-law/) · [Simeon's Repo Jobs](../repo-jobs/)
