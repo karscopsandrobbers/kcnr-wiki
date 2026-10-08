@@ -137,8 +137,8 @@ points you to it.
 
 - **Cash in your pocket is at risk.** It's what a stick-up takes and what the hospital bills when you die. Money in
   the bank is safe from both.
-- **A pistol** at Ammu-Nation is $2,500 plus tax, and you don't need a licence or a level to buy one. It comes with one
-  magazine. Buying a weapon is legal; carrying it where the police can see it is not. You don't need a gun to start
+- **A pistol** at Ammu-Nation is $2,500 plus tax, and you don't need a licence or a level to buy one. It comes empty:
+  the same menu then sells its rounds, $4 each plus tax. Buying a weapon is legal; carrying it where the police can see it is not. You don't need a gun to start
   robbing: the walkthrough's blade holds a clerk up.
 - **Search the bins.** A dumpster can be searched with <kbd>E</kbd> (the ones behind shops are worth it), and a stopped, unlocked car
   that is nobody's from its <kbd>X</kbd> menu. Anything you search stays empty for an hour.

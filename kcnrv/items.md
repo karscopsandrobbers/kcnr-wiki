@@ -203,7 +203,7 @@ paintings, trophies, a guitar, a TV, a laptop or tablet, cash bundles) has no us
 | --- | --- |
 | 24/7 and gas stations | Every food and drink, plus the counter: lottery ticket (a 24/7 always has them), burner phone, smartphone, walkie talkie, condom, binoculars, fake wallet, big rotary drill, blow torch. A gas station always has an empty jerrycan |
 | Liquor stores, bars, clubs | Drinks |
-| Ammu-Nation | Guns, rounds, parts, tints and armour: see below. It always has a blow torch and a gas mask |
+| Ammu-Nation | Guns and their rounds, parts, tints and armour: see below. It always has a blow torch and a gas mask |
 | Bait & Tackle | Fishing gear: see [Fishing](../fishing/) |
 
 A 24/7's menu has Food and Drinks submenus. Press <kbd>Y</kbd> at a counter to open a shop.
@@ -212,9 +212,14 @@ A 24/7's menu has Food and Drinks submenus. Press <kbd>Y</kbd> at a counter to o
 
 **Anybody can buy a gun here**: no licence, no level, only the cash.
 
-- **A gun comes with one magazine**, as the game defines it for that gun. A thrown weapon comes with the one you bought,
-  and a melee weapon or a jerrycan with none. **Buying a gun you already carry** puts the spare in your pockets with no
-  rounds, and **Withdraw** in the inventory puts it on you.
+- **A gun comes empty, and its rounds are bought right after**: its menu moves on to its ammo, where you choose how many
+  magazines, or **Fill up**, and they go straight into the gun. A thrown weapon comes with the one you bought, and a melee
+  weapon or a jerrycan with none. Buy more than one gun and the rest go in your pockets, empty; **Withdraw** in the
+  inventory puts one on you.
+- **A gun you already carry** is listed as its rounds, such as **Carbine Rifle Ammo**: the row says which ammo it takes,
+  which other guns that fills, and how many rounds you carry. Its menu sells its rounds and holds its Mods.
+- **Rounds cost by the round**, plus tax: Pistol $4, SMG $5, Rifle and MG $8, Shotgun $15, Sniper $40, a flare $800.
+  Ammu-Nation doesn't sell loose rounds: those are traded (see Rounds, below).
 - **Prices:** a pistol is $2,500 plus tax. A knife, dagger or switchblade is $200, a hatchet $2,000, a wrench, crowbar
   or pool cue $400. The Sniper Rifle is $50,000 and the Heavy Sniper $75,000.
 
@@ -253,7 +258,7 @@ A 24/7's menu has Food and Drinks submenus. Press <kbd>Y</kbd> at a counter to o
   handguns and SMGs.
 - **The shelf changes.** At game midnight each store swaps a line or two, and sold stock
   comes back over time.
-- **The menu** runs Melee, Misc, Ammunition, Armour, then the guns, Throwables, Masks and the loose rows.
+- **The menu** runs Melee, Misc, Armour, then the guns, Throwables, Masks and the loose rows.
 
 | Armour | Armour points | Price |
 | --- | --- | --- |
@@ -267,13 +272,26 @@ Using a vest sets your armour to its weight. One that would add nothing is kept,
 
 ### Rounds
 
-**Rounds are items, named by calibre** (9mm, 12 gauge, .380, .44 Magnum, 5.56, 7.62, .50 BMG and so on). Aim an empty gun
-and your hand shows the rounds it takes; <kbd>R</kbd> loads every round you carry for that gun, up to what the game
-lets it hold, and the rest stays in your pockets. Loading from the inventory goes into the gun that takes them, the
-one in your hand first. Your **weapon wheel is your loadout**: guns you've put on aren't in your pockets.
+**Rounds come in GTA's own kinds**, and every gun of a kind takes the same rounds and shares one count of them: load Rifle
+Ammo and every assault rifle and carbine you carry has it.
 
-Rounds bought from a gang, or out of a crate of rounds, come in **ammo boxes** of one calibre: 50 pistol rounds, 25
-shells or 20 rifle rounds. Use a box in your inventory to tip its rounds into your pockets. Once in a long while a
+| Ammo | Fits |
+| --- | --- |
+| Pistol Ammo | every pistol and revolver |
+| SMG Ammo | every SMG, the Combat PDW and the Machine Pistol |
+| Rifle Ammo | every assault rifle and carbine |
+| Shotgun Ammo | every shotgun and the Musket |
+| MG Ammo | the MG, the Combat MG and the Gusenberg Sweeper |
+| Sniper Ammo | every sniper and marksman rifle |
+| Flare Gun Ammo | the Flare Gun |
+
+Aim an empty gun and your hand shows the rounds it takes; <kbd>R</kbd> loads every round you carry for that gun, up to
+what the game lets it hold, and the rest stays in your pockets. Loading from the inventory goes into the gun that takes
+them, the one in your hand first. Your **weapon wheel is your loadout**: guns you've put on aren't in your pockets, and a
+gun taken out of your inventory comes out empty.
+
+Loose rounds in your pockets are what you trade. They come from the gangs, or out of a crate of rounds, in **ammo
+boxes** of one kind: 50 Pistol or SMG Ammo, 25 shells or 20 Rifle Ammo. Use a box in your inventory to tip its rounds into your pockets. Once in a long while a
 gang's supply van carries a **large ammo box**, dozens of ammo boxes in one, carried in both arms; open it to take
 them out. It holds ammo boxes and nothing else.
 
