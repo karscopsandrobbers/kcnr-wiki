@@ -169,9 +169,8 @@ your distance and they leave you alone. Come too close and you are warned off; s
 right in their faces, and you are held at gunpoint, then fought. Out of their sight, round a corner or behind a wall,
 the guns come down until you show again. Empty-handed and a few steps back, you only hear
 about it.
-Put every guard down and the place is yours for a moment: part of the gang's stash lands outside: crates of the
-gang's own guns or rounds, a gun case and cash, for whoever takes it. The gang comes back weaker, and the guards return after a while. A strong gang sends more
-of its people out of the door once the shooting starts.
+A strong gang sends more of its people out of the door once the shooting starts. Put every guard down and new ones
+come back after a while; nothing of the gang's stash comes out with them.
 
 Officers see each robbery, mugging, deal and theft on the map while it goes on, and everyone sees a dot in the gang's
 colour on every gang member, at a corner, a hideout or a job, turning red once they fight; the dot's name says which.
@@ -194,7 +193,7 @@ the raid on their map, and everyone sees the defenders' dots turn red.
 ## What a gang thinks of you
 
 Every gang remembers what you do to it. Selling to its corners and putting down a rival gang's raiders win it over;
-killing its people, shaking down its dealers, raiding its hideout and taking its crates turn it against you. It
+killing its people, shaking down its dealers and taking its crates turn it against you. It
 wears off slowly. `/gangs` shows where you stand with each gang:
 
 - **Friendly**: its people at a job or a hideout leave you alone, however close you come, and its corners sell you
@@ -204,16 +203,7 @@ wears off slowly. `/gangs` shows where you stand with each gang:
 
 ## Taking a gang over
 
-A group can take a gang over. Wear the gang down until its strength is under 90 (`/gangs` shows it), then raid its
-hideout with your group. With every guard down your group is told to hold the door: keep at least one of you right by
-it for three minutes, and put down the crew the gang sends back. Hold it, and the gang works for your group:
-
-- A quarter of everything the gang earns goes into your group bank.
-- Its people count your members as friends.
-- Your group's managers choose, in `/gangs`, which gangs it is at truce, tension or war with, which is choosing whom it
-  raids.
-
-Another group can take it off you the same way, and a gang that grows back to strength 200 breaks free.
+Groups can't take a gang over for now.
 
 
 ## Drugs
