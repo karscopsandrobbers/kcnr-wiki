@@ -154,7 +154,7 @@ Everything you can use, and what it does. A **contraband** item is taken in a po
 | Balaclava and every other mask | Hides your face: cameras and witnesses can't name you, and a crime scene around you is smaller. But while you're wanted, a mask worn out in the open stops your stars fading, and a masked figure gets phoned in. Off out of sight in a chase, it helps you lose the police |
 | Gas masks and respirators | Keep you on your feet in a gassed building. They hide your face like a balaclava too. Ammu-Nation always has the plain Gas Mask |
 | Night Vision Mask | Night vision while you wear it, so a building with its power cut isn't dark to you. Hides your face like a balaclava. Only [Lester](../lester/) sells it |
-| Armour, from Super Light to Super Heavy | Use it to fill your armour bar to its level. Kept if you already have as much. $500 to $2,500 at Ammu-Nation |
+| Armour, from Super Light to Super Heavy | Use it to add its armour to yours, up to full. Kept if your armour is already full. $500 to $2,500 at Ammu-Nation |
 | Rounds | Use them to load the gun that takes them |
 
 ### Fishing
@@ -216,9 +216,11 @@ A 24/7's menu has Food and Drinks submenus. Press <kbd>Y</kbd> at a counter to o
   magazines, or **Fill up**, and they go straight into the gun. A thrown weapon comes with the one you bought, and a melee
   weapon or a jerrycan with none. Buy more than one gun and the rest go in your pockets, empty; **Withdraw** in the
   inventory puts one on you.
-- **A gun you already carry** is listed as its rounds, such as **Carbine Rifle Ammo**: the row says which ammo it takes,
-  which other guns that fills, and how many rounds you carry. Its menu sells its rounds and holds its Mods.
+- **A gun you already carry** is listed as its rounds, such as **Carbine Rifle Ammo**, at every Ammu-Nation, whether
+  that store stocks the gun or not: the row says which ammo it takes, which other guns that fills, and how many rounds
+  you carry. Its menu sells its rounds, and its Mods where the store stocks it.
 - **Rounds cost by the round**, plus tax: Pistol $4, SMG $5, Rifle and MG $8, Shotgun $15, Sniper $40, a flare $800.
+- **Your gun can't go off in the shop:** while a gun is on show behind the counter, clicking or aiming does nothing.
   Ammu-Nation doesn't sell loose rounds: those are traded (see Rounds, below).
 - **Prices:** a pistol is $2,500 plus tax. A knife, dagger or switchblade is $200, a hatchet $2,000, a wrench, crowbar
   or pool cue $400. The Sniper Rifle is $50,000 and the Heavy Sniper $75,000.
@@ -243,18 +245,18 @@ A 24/7's menu has Food and Drinks submenus. Press <kbd>Y</kbd> at a counter to o
 | Handguns | Several kinds |
 | SMGs, shotguns, rifles | A kind or two of each |
 | Snipers | Few, if any |
-| Machine guns | Rarely |
 | Flares, smoke, BZ gas, a ball | On most shelves |
 | Grenades and the like | Rarely |
 | Armour | **Always**: five weights, below |
 | Blow torch, gas mask | **Always** |
 | Other gas masks | Each comes and goes |
 
-- **Never stocked:** the stun gun, the ray guns, the railgun, the minigun, the hazard can, the snowball, a broken bottle
-  and the parachute. The Mk II guns and nine oddities (the Heavy Sniper, Gusenberg, Combat MG, Navy Revolver, Double
-  Action, Ceramic Pistol, Marksman Pistol, Assault Shotgun and the Sweeper) turn up far less often than the rest.
+- **Never stocked:** the machine guns (the MG, Combat MG and Gusenberg Sweeper), the stun gun, the ray guns, the railgun,
+  the minigun, the hazard can, the snowball, a broken bottle and the parachute. The Mk II guns and seven oddities (the
+  Heavy Sniper, Navy Revolver, Double Action, Ceramic Pistol, Marksman Pistol, Assault Shotgun and the Sweeper) turn up
+  far less often than the rest.
 - **Each store leans:** country stores (Sandy Shores, Paleto Bay, Palomino Freeway, Great Chaparral) carry more snipers and
-  shotguns; the two ranges (Cypress Flats, Pillbox Hill) more rifles, SMGs and machine guns; the city stores more
+  shotguns; the two ranges (Cypress Flats, Pillbox Hill) more rifles and SMGs; the city stores more
   handguns and SMGs.
 - **The shelf changes.** At game midnight each store swaps a line or two, and sold stock
   comes back over time.
@@ -268,7 +270,10 @@ A 24/7's menu has Food and Drinks submenus. Press <kbd>Y</kbd> at a counter to o
 | Heavy | 80 | $2,000 |
 | Super Heavy | 100 | $2,500 |
 
-Using a vest sets your armour to its weight. One that would add nothing is kept, not used up.
+**Bought, a vest goes straight on** while it fits whole over the armour you have on, and the rest go in your inventory:
+four Super Lights come to 80 and all go on, but a Standard (60) over a Heavy (80) would be 140, so it goes in your
+inventory. The chat line says which went on and which went in your inventory. **Used from the inventory**, a vest adds
+its armour to yours up to full; with your armour already full it is kept.
 
 ### Rounds
 
