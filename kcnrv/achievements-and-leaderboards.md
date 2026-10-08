@@ -52,10 +52,12 @@ distances and fuel in your own units, and money in green dollars.
 | Area | What is counted |
 | --- | --- |
 | You | Play time, kills, deaths, crimes committed and attempted |
-| Crime | Robberies completed and the money taken, shoplifts and times caught, pursuits escaped, evasions, witnesses silenced, times a crime was reported |
-| Law | Arrests, tickets issued and collected and the money, people handcuffed, searches, plate-reader hits, pursuit assists, scenes opened, and the police's good and dirty marks |
+| Crime | Robberies completed and the money taken, heists pulled off, robberies nobody saw, Gruppe Sechs trucks robbed, shoplifts and times caught, pursuits escaped, evasions, witnesses silenced, times a crime was reported |
+| Law | Arrests, tickets issued and collected and the money, people handcuffed, searches (the same person counts once in ten minutes), robbers caught with the take, plate-reader hits, pursuit assists, scenes opened, and the police's good and dirty marks |
 | Being caught | Times handcuffed, ticketed, arrested or taken down, tickets paid and the money paid |
-| Jobs | Missions completed and the money earned from them, scrapyard cars sold and what they earned |
+| Gangs | Gang crimes stopped, gang members put down (up to 20 an hour count), money made selling to the gangs' corners, dealers shaken down |
+| Jobs | Missions completed and the money earned from them, tow, repo and pimp jobs done, fires put out, scrapyard cars sold and what they earned |
+| Racing | Races won, when somebody else was really racing |
 | Trucking | Runs, petrol runs, distance, XP, money earned, perfect parks |
 | Fishing | Fish caught, trophies, money earned, pots hauled |
 | Fuel | Fuel bought at the pumps, for a car or a jerrycan, and what it cost with the tax |
