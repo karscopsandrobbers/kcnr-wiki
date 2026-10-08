@@ -31,7 +31,7 @@ FiveM keeps your old choice for that action, so a default that changes later won
 | <kbd>Left Alt</kbd> | Put down what you're holding (in a car, a bag-sized thing goes on a seat), or get off somebody's back. See [Carrying things](../carrying-things/) |
 | <kbd>K</kbd> | Your personal vehicles |
 | <kbd>B</kbd> (hold) | Point |
-| <kbd>Left Ctrl</kbd> | Stance: stealth, crouch, prone. At the wheel of a JB700, it drops a spike strip behind the car |
+| <kbd>Left Ctrl</kbd> | Stance, one step a press: sneak, crouch, prone, and from prone back up. While sprinting, a dive straight to prone. <kbd>Space</kbd> stands you straight up from any of them, and lying prone <kbd>Left Shift</kbd> rolls you over. At the wheel of a JB700, it drops a spike strip behind the car |
 | <kbd>Middle mouse</kbd> while aiming | Moves the camera to your other shoulder. See [Aiming over either shoulder](#aiming-over-either-shoulder) |
 | <kbd>F9</kbd> | Emotes. <kbd>Numpad 1 2 3 7 8 9</kbd> are your six emote slots, <kbd>Numpad 0</kbd> cancels |
 | <kbd>J</kbd> | Cast a fishing line, or put the rod away. At the wheel of an emergency vehicle with its siren on, silence it |

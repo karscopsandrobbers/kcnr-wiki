@@ -204,7 +204,8 @@ wears off slowly. `/gangs` shows where you stand with each gang:
 - **Friendly**: its people at a job or a hideout leave you alone, however close you come, and its corners sell you
   its guns.
 - **Neutral**: you are warned off, as above.
-- **Hostile**: its people come for you on sight, at a job, at its hideout and on its corners.
+- **Hostile**: its people come for you on sight when you have a weapon out (on its corners, a gun), at a job, at its
+  hideout and on its corners. Empty-handed, you are warned off like anybody else.
 
 ## Taking a gang over
 
