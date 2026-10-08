@@ -306,7 +306,7 @@ Bigger guns cost more: melee parts are cheaper than pistol ones, and a sniper's 
 **A dumpster:** walk up and press <kbd>E</kbd> ("Search Dumpster"); the ones behind shops are worth the walk. A progress
 ring runs and what you found is worked out at the end. **The same dumpster can't be searched again for an hour.**
 
-It can come up empty, and sometimes holds cash, $10 to $80. Otherwise: packages, empty baggies, a fake wallet, baking
+It can come up empty, and sometimes holds cash, $10 to $80. Otherwise: packages, a fake wallet, baking
 soda, lithium strips, acetone, a wallet, a stolen or burner phone, a silver chain, a walkie talkie, a digital watch, and
 rarely a duffel bag, a briefcase or a balaclava.
 
@@ -316,7 +316,7 @@ balaclava is a likely drop, and other masks turn up too. See
 [Gangs and street crime](../gangs-and-street-crime/).
 
 **Pockets:** a pickpocket's hand sometimes finds nothing, otherwise usually $10 to $60, or a stolen phone,
-wallet, car keys, lottery ticket, condom, sunglasses, a fake wallet or empty baggies.
+wallet, car keys, lottery ticket, condom, sunglasses or a fake wallet.
 
 **Searching players** is the police's job: see below.
 

@@ -14,7 +14,7 @@ first, and holding <kbd>E</kbd> during a glance gets you caught almost at once. 
 are easier.
 
 - **Got away with it:** no crime. Cash 62% of the time ($10 to $60), and maybe a phone, a wallet, car keys, a lottery
-  ticket, sunglasses, a fake wallet, empty baggies, a condom or rubbish.
+  ticket, sunglasses, a fake wallet, a condom or rubbish.
 - **Felt it:** they shout and walk off. Some phone it in, and if the call gets through it's 1 star.
 
 You can't start one while you're in a vehicle or carrying somebody. You wait 20 seconds between tries, and the same person can't be picked again for 10 minutes. 12 XP.
@@ -120,7 +120,7 @@ Officers are turned away, and a gang that hates you won't deal with you at all.
 ## What gang members drop
 
 When one dies, his things land on the ground for about two minutes, for whoever gets there first: cash ($20 to $120)
-usually, a balaclava sometimes (other masks drop too), empty baggies, a stolen phone, a silver chain, a watch, and now
+usually, a balaclava sometimes (other masks drop too), a stolen phone, a silver chain, a watch, and now
 and then a slim jim (rarely). A
 gun he was holding can be picked up into your weapon wheel.
 

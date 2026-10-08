@@ -56,7 +56,7 @@ Every so often the server says one line to everybody, picked at random from a sh
 - <kbd>F10</kbd> opens the dashboard, **Help** reminds you of a key, and your stats and leaderboards are there too;
 - there is a total level and a level for each team, and work on a team earns XP on that team;
 - law enforcement is paid and earns XP by how they work, and an arrest usually beats a takedown;
-- gang members carry cash, baggies and sometimes a balaclava, and drop them where they fall;
+- gang members carry cash, a phone or a chain, and sometimes a balaclava, and drop them where they fall;
 - a duffel bag worn into a hold-up makes the clerk fill it faster, and they turn up in dumpsters and in the boot of a hard
   repo car;
 - dumpsters are searched with <kbd>E</kbd>, a stopped car that is nobody's from its <kbd>X</kbd> menu, and what you
