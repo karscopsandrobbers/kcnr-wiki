@@ -62,6 +62,26 @@ Each cash demand takes 7 to 15% of what they carry, never more than about $25,00
 something. Afterwards you wait 4 minutes to rob anyone, and can't rob that person again for 30 minutes. Nobody else can rob
 them for 2 minutes either, and they can't rob anyone themselves in that time.
 
+## Being noticed
+
+A gang's people, a job's crew and the guards at a robbery react only to what they notice of you. They see you when
+you are in front of them with nothing in the way, sooner the closer you are, and they hear you running, shooting,
+sounding a horn or setting something off, and where your rounds land, however far off you fired them. Crouching,
+sneaking or lying prone, and the dark away from any light, make you harder to see; sneaking makes you quieter. A
+silenced shot is heard only close by, and the round lands unheard, so somebody who doesn't see the kill doesn't know.
+
+Over each of them an eye fills as they notice you, and turns into a question mark once they have seen you. Come up
+behind one unseen and nothing starts.
+
+- **Empty-handed**: a glance. A gang that hates you warns you off, but nobody fights you for being seen.
+- **A mask**: once they have seen it they keep watching you, and the others near them look too. Take it off in front
+  of them and they have seen your face.
+- **A weapon out**: you are warned, and a gun comes up on you. Put it away or walk on and they go back to what they
+  were doing; keep it out, or come into their faces, and it's a fight.
+- **Aiming at them, shooting at them, hitting one, or killing somebody where they can see**: a fight, and the others
+  nearby join in.
+- **A sound they can't place, or a body**: one of them walks over to look, kneels by a body, and goes back.
+
 ## Gang corners
 
 | Gang | Turf |
@@ -74,7 +94,8 @@ them for 2 minutes either, and they can't rob anyone themselves in that time.
 | Lost MC | Sandy Shores, Grapeseed, with corners on Route 68, the Paleto coast, the Great Ocean Highway, out east of Sandy and in Mirror Park |
 
 Every corner has its dealer: often on his own, otherwise with one to three of his crew round him. **They leave you alone until you start
-something**: hit one, or keep a gun on a crew member, and they draw, and every gang member within 40 m joins in. They
+something**, as in [Being noticed](#being-noticed): hit one, keep a gun on a crew member, or keep a weapon out once
+you are warned, and they draw, and every gang member within 40 m joins in. They
 give up once you're well clear of the corner, or dead, and walk back to it. The dead come back once nobody's near:
 dealers after 5 minutes, crew after 10.
 
@@ -87,7 +108,8 @@ dealers after 5 minutes, crew after 10.
 
 ## Shaking down a dealer
 
-Aim any weapon at a dealer: his hands go up for 10 seconds. Keep the gun on him and he pays or refuses and fights.
+Aim a weapon at a dealer, a knife or a crowbar as much as a gun (fists don't count): his hands go up for 10 seconds.
+Keep your weapon on him and he pays or refuses and fights.
 He pays $400 to $1,200 at the low tier, 35% more for each tier above. A shakedown that pays is **4 stars** and 30 XP; a
 refusal is 2 stars and a fight. You wait 90 seconds before the next (20 after a refusal).
 
@@ -95,16 +117,16 @@ refusal is 2 stars and a fight. You wait 90 seconds before the next (20 after a 
 
 Walk up to a corner's dealer and press <kbd>E</kbd> on **Deal with the** gang.
 
-- **Selling crates.** Park the vehicle with the crates near him. A drugs corner buys crates of product; a guns corner
-  buys crates of guns and crates of rounds, straight out of the boot, one load or all of it. Loose goods sell too,
-  rounds, ammo boxes, guns or product lying in the boot, at three quarters of what they would fetch in a crate; bags,
+- **Selling crates and boxes.** Park the vehicle with them near him. A drugs corner buys boxes of product; a guns
+  corner buys crates of guns and crates of rounds, straight out of the boot, one load or all of it. Loose goods sell
+  too, rounds, ammo boxes, guns or product lying in the boot, at three quarters of what they would fetch packed; bags,
   cases and large ammo boxes he will not open. The gang pays out of its own cash, and buys only as much as that
   covers: the menu shows what it has to spend. The more you have sold to a gang, the better it pays, and a corner pays
   less for a while after a big load. A big sale can get a tip to the police. `/sell` from the driver's seat still
   works too.
 - **Buying guns.** A gang that counts you a friend sells you its own guns and rounds, cheaper than Ammu-Nation, in
-  cash: a **gun case** (one of its guns and a few magazines of rounds, carried at your side: open it in your
-  inventory) or an **ammo box** of rounds (use it in your inventory to tip the rounds into your pockets). The money
+  cash: a **gun case** (one of its guns and a few magazines of rounds, carried at your side: **Take everything out** in your
+  inventory, or <kbd>Y</kbd> on it where it lies, puts both in your pockets) or an **ammo box** of rounds (use it in your inventory to tip the rounds into your pockets). The money
   is the gang's, and the guns come off its own stock: a gang with none left has none to sell until somebody sells it
   more. A gang only sells what it carries itself:
 
@@ -138,12 +160,12 @@ their own ground:
 - **A mugging.** Somebody held up in the street, or at an ATM, by one of a gang: they hold the wallet out. Officers
   are told. Nobody steps in and he either runs with it or shoots them first. Go for him and he fights; drop him and the wallet is on the ground, and the victim shows
   **Give the wallet back** the same way.
-- **A supply run.** One of a gang carries crates of its guns and rounds into a van, then they drive them to one of
-  their guns corners, where he carries each to the dealer, who takes it inside a little later. The van also has a gun
+- **A supply run.** One of a gang carries crates of its guns and rounds (or boxes of its product, for a drugs corner)
+  into a van, then they drive them to one of their corners, where he carries each to the dealer, who takes it inside a little later. The van also has a gun
   case and a few ammo boxes in the back, and once in a long while a large ammo box full of them. Stop it and they fight; with them down,
   what is in the back is in the back for whoever opens it. A crate grabbed off the ground while they load, out of
-  the van or from the dealer's feet is yours, and the gang knows who took it. A crate set down on the ground shows a
-  prompt of its own: pick it up, or break it open with a blade or a crowbar, and what was in it spills out beside it.
+  the van or from the dealer's feet is yours, and the gang knows who took it. A crate or box set down on the ground
+  shows a prompt of its own: pick it up, or break it open with a blade or a crowbar, and what was in it spills out beside it.
 
 - **A weapons deal.** Two gangs meeting out of the way, two cars parked side by side. The two in charge meet behind
   the cars and talk; one of the sellers carries the crates (the sellers' own guns, or rounds for them) across to the buyers' car
@@ -170,8 +192,8 @@ the XP; putting down a gang at a crime the police were called to is XP.
 
 Every gang has a place: a house marked on your map in the gang's colour. Press <kbd>E</kbd> at the door of a stash
 house to go down into its basement, and <kbd>E</kbd> at the foot of the basement stairs to come back out. Come near and its people are out front; keep
-your distance and they leave you alone. Come too close and you are warned off; stay, with a weapon in your hands or
-right in their faces, and you are held at gunpoint, then fought. Out of their sight, round a corner or behind a wall,
+your distance and they leave you alone. Come too close where they can see you and you are warned off (creep up unseen and you
+aren't); stay, with a weapon in your hands or right in their faces, and you are held at gunpoint, then fought. Out of their sight, round a corner or behind a wall,
 the guns come down until you show again. Empty-handed and a few steps back, you only hear
 about it.
 A strong gang sends more of its people out of the door once the shooting starts. Put every guard down and new ones
@@ -204,8 +226,8 @@ wears off slowly. `/gangs` shows where you stand with each gang:
 - **Friendly**: its people at a job or a hideout leave you alone, however close you come, and its corners sell you
   its guns.
 - **Neutral**: you are warned off, as above.
-- **Hostile**: its people come for you on sight when you have a weapon out (on its corners, a gun), at a job, at its
-  hideout and on its corners. Empty-handed, you are warned off like anybody else.
+- **Hostile**: its people come for you when they see you with a weapon out, at a job, at its hideout and on its
+  corners. Empty-handed, you are warned off like anybody else.
 
 ## Taking a gang over
 

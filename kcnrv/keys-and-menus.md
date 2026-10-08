@@ -66,7 +66,7 @@ has its own sides) and lying prone, the camera is the game's usual one.
 A thing on the ground shows a floating prompt. <kbd>E</kbd> picks it up. A pile of cash says "Take $X cash" and takes it
 all at once; a pile of several things is taken whole on a tap of <kbd>E</kbd> as well, and holding <kbd>E</kbd> opens a
 menu where you choose how many, starting at all of them. A bag shows <kbd>H</kbd> "Look
-inside" to see what it holds. With several things underfoot, the last one you reached is offered first, then the next once
+inside" to see what it holds, and <kbd>Y</kbd> "Take everything out" to empty it into your pockets. With several things underfoot, the last one you reached is offered first, then the next once
 it's gone.
 
 ### Getting in and swapping seats

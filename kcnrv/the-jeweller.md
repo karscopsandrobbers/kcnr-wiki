@@ -33,7 +33,8 @@ cutting the power (below) is the only way to unlock them.
    piece lands on the floor at your feet. **The first case you smash sets off the
    alarm**, unless you disabled it or cut the power; gas doesn't stop the glass sensors.
 4. **The guards.** Two guards draw on robbers, shooters and whoever set off the alarm, unless they're gassed. A guard you
-   shoot fights back.
+   shoot fights back. One who sees you with a weapon out warns you and covers you, and draws for real if you keep it
+   out or come close; one who hears something walks over to look.
 5. **Get out.** The job ends when every robber is 100 m from the building, or after 3 minutes. If anything noticed
    you: a wanted level and an APB.
 

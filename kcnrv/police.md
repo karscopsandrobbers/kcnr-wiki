@@ -143,7 +143,7 @@ are cash on the spot.
 | ...holding them in the spotlight | +$75 |
 | A ticket collected | The whole fine |
 | A fine collected while the city is in deficit | +25% of the fine, in cash, to you |
-| An item booked into evidence | $250 cash. Loose drugs: a quarter of what a corner sells them for, with no minimum. A crate: half its price, at least $250. Gruppe Sechs cargo: a tenth of its worth, at least $250 |
+| An item booked into evidence | $250 cash. Loose drugs: a quarter of what a corner sells them for, with no minimum. A crate, or a box of drugs: half its price, at least $250. Gruppe Sechs cargo: a tenth of its worth, at least $250 |
 | A Gruppe Sechs escort | $400 a leg, $1,200 for seeing the run to the depot |
 | A fishing pot seized | $150 cash |
 

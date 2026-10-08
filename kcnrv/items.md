@@ -18,7 +18,7 @@ separate: see [Money](../money/).
   Fishing, Tools, Valuables, Drugs, Masks, Bags, Clothing, General. Each shows how many kinds you carry and how much they weigh, and the top line says what you
   weigh in all.
 - **Pick an item for its options:** **Use** (**Withdraw** for a gun), **Wear** or **Take off**, **Put down** if it's
-  in your hands, **Give to…**, **Look inside** for a bag, and **Drop**.
+  in your hands, **Give to…**, **Take everything out** and **Look inside** for a bag, and **Drop**.
 - **Give to…** hands an amount to somebody next to you. It's instant and one-way: see [Trading](../trading/).
 - **The walkthrough's phone is bound to you.** It can only leave your pockets into a car's boot: Drop and Give are
   greyed out, the pawn shop skips it, and the bind lifts when the walkthrough ends or you skip it.
@@ -37,8 +37,8 @@ you get into a car. A seat holds one bag-sized thing, and an arms-sized one goes
 
 ### Picking up and dropping
 
-A floating prompt shows over anything lying close by. <kbd>E</kbd> picks it up, and <kbd>H</kbd> looks inside
-a bag. A cash pile reads **Take $X cash** and takes it all at once; a pile of several things reads **Pick up all**,
+A floating prompt shows over anything lying close by. <kbd>E</kbd> picks it up. On a bag, <kbd>H</kbd> looks
+inside it and <kbd>Y</kbd> takes everything out of it into your pockets, leaving the bag where it lies. A cash pile reads **Take $X cash** and takes it all at once; a pile of several things reads **Pick up all**,
 and a tap of <kbd>E</kbd> takes all of it too. Hold <kbd>E</kbd> to choose how many instead: the menu starts at all of them. With several things under your feet the last one is offered first, then the next as each goes.
 
 ## Bags
@@ -48,11 +48,15 @@ and a tap of <kbd>E</kbd> takes all of it too. Hold <kbd>E</kbd> to choose how m
 | Briefcase | 5 kg (11 lb) | |
 | Duffel Bag | 25 kg (55 lb) | Can be worn on the back |
 | Package | 15 kg (33 lb) | |
+| Gun Case | 10 kg (22 lb) | Carried at your side. A gang's comes with one of its guns and rounds for it |
 
 - **A bag can't go inside a bag**, and a bag's weight includes what's in it.
-- **<kbd>I</kbd> opens a bag's row** onto what's inside and what could go in from your pockets.
-- **A bag drops whole.** Dropped, it keeps its contents and can be picked up as it was; <kbd>H</kbd> looks inside it
-  from the ground. A worn bag drops with everything in it.
+- **<kbd>I</kbd> opens a bag's row**: **Take everything out** empties it into your pockets in one go, **Look inside**
+  takes things out one at a time, and **Put something in** moves things in from your pockets.
+- **Choosing how many starts at all of it**: moving a pile in or out of a bag or a boot, giving it, dropping it, picking
+  it up and selling it at the pawn shop. Step it down to use less. Loading rounds into a gun and buying in a shop start at 1.
+- **A bag drops whole.** Dropped, it keeps its contents and can be picked up as it was; on the ground <kbd>H</kbd>
+  looks inside it and <kbd>Y</kbd> empties it into your pockets. A worn bag drops with everything in it.
 - **Anything dropped is picked up as it was**: a drug keeps its purity, an ammo box its rounds and a jewel its
   condition.
 - **No shop sells a duffel bag, briefcase, package or balaclava.** A duffel is a rare find in a dumpster or a hard repo

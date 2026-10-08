@@ -89,7 +89,7 @@ gang is against. The bags come off the gang's own product, so a gang with none l
 
 The Kkangpae hold no drugs corner of their own, so you won't find their product on a street.
 
-**Off a gang.** A gang's supply van running product carries crates of it, and a few loose bags beside them. See
+**Off a gang.** A gang's supply van running product carries boxes of it, and a few loose bags beside them. See
 [Gangs and street crime](../gangs-and-street-crime/).
 
 **What a cook needs.** A 24/7's counter has pseudoephedrine, acetone, lithium strips and baking soda. Coca leaves and
@@ -104,11 +104,11 @@ above the rest that day and pays **double** for it, so moving between corners pa
 the menu shows what it has to spend. Talk to him on foot. He won't buy from an officer, or from somebody his gang is
 against.
 
-**By the crate.** A lot of one drug packs into a crate in a house you own (`/pack`). A drugs corner buys crates and
+**By the box.** A lot of one drug packs into a box in a house you own (`/pack`). A drugs corner buys boxes and
 loose product out of a vehicle's boot: see [Dealing with a corner](../gangs-and-street-crime/). At the going rate, a
-full crate of cocaine (2 kg) fetches $30,000, meth (2.5 kg) $26,000, heroin (1.5 kg) $32,000 and ecstasy (3,500 pills)
+full box of cocaine (2 kg) fetches $30,000, meth (2.5 kg) $26,000, heroin (1.5 kg) $32,000 and ecstasy (3,500 pills)
 $14,000. Purity and the corner's appetite move that. A big sale can get the police tipped off. `/unpack` in the
-house turns a crate back into loose product in the stash.
+house turns a box back into loose product in the stash.
 
 **To other players**, with a trade (see [Trading](../trading/)). In an officer's sight it is trafficking.
 
