@@ -60,6 +60,7 @@ distances and fuel in your own units, and money in green dollars.
 | Fishing | Fish caught, trophies, money earned, pots hauled |
 | Fuel | Fuel bought at the pumps, for a car or a jerrycan, and what it cost with the tax |
 | Business | Business income, supply runs, scrap hauls, promotions, defends, car washes, jobs done and money earned from them |
+| Drugs | Money made selling drugs on the street, drug doses cooked, overdoses brought round (medics), positive drug tests (police) |
 | Luck | Lottery jackpots won and total winnings, [animals hunted](../wildlife/) |
 
 Only **counters** are ranked, never a "best". The biggest fish or your best lap time aren't on these pages; lap times are

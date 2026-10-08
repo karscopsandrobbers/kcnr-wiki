@@ -140,6 +140,18 @@ are wasted.
 
 Once the steps are done, it cooks on the clock whether you stay or not; `/lab` again to collect it.
 
+## Your record
+
+The <kbd>F10</kbd> dashboard's profile has a **Drugs** card: each drug with any hold on you, how addicted you are to
+it, how built-up your tolerance is, and whether you're withdrawing right now. Your stat cards count doses taken,
+overdoses (survived, and the ones that killed you), doses and crates sold, bags bought, cooks finished, doses cooked and
+batches ruined. Medics count overdoses brought round and addictions treated; officers count drug tests given, positive
+tests and doses booked into evidence.
+
+Four of them have leaderboards, all-time and weekly: money made selling on the street, doses cooked, overdoses brought
+round and positive drug tests. A medic's revive counts once per patient in half an hour, and an officer's positive test
+once per suspect in three hours. See [Achievements and leaderboards](../achievements-and-leaderboards/).
+
 ## Notes
 
 - Amounts in grams follow your **Measurement System** setting, so they read in ounces and pounds if your game is set
