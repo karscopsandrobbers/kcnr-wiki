@@ -345,7 +345,7 @@ Bigger guns cost more: melee parts are cheaper than pistol ones, and a sniper's 
 
 ## Searching
 
-**A dumpster:** walk up and press <kbd>E</kbd> ("Search Dumpster"); the ones behind shops are worth the walk. A progress
+**A dumpster or a bin:** walk up and press <kbd>E</kbd> on **Search** over it; the ones behind shops are worth the walk. A progress
 ring runs and what you found is worked out at the end. **The same dumpster can't be searched again for an hour.**
 
 It can come up empty, and sometimes holds cash, $10 to $80. Otherwise: packages, a fake wallet, baking

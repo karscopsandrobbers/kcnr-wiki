@@ -111,7 +111,9 @@ no medic is on duty, or nobody comes in time, they die there.
 
 Keep product off your body, where a frisk can't find it: hide it in a dumpster or a bin. Stand at one and press
 <kbd>G</kbd> **Hide something here**, and pick what goes in and how much. Your stash there shows as **Your stash** when you
-come back; take out what you need. You can have three stashes, a bag's worth in each.
+come back; take out what you need. You can have three stashes, a bag's worth in each. A stash takes drugs, weapons,
+rounds, valuables, masks and tools; not fishing gear or bait, food, clothes or bags, so with none of those on you a bin
+only offers a search. While a customer is in front of you, the bin's keys are put away.
 
 Nobody else is told where they are, but they aren't safe: somebody searching that bin now and then finds your stash and
 keeps it, and a police dog sent at the bin sniffs out drugs or guns in it, and the officer seizes them. Either way you
