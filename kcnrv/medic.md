@@ -6,6 +6,20 @@ order: 3
 opens: From the start, if you're not wanted
 ---
 
+## The hospital desk
+
+Every hospital's desk is open to anybody:
+
+| Row | What it does | Price |
+| --- | --- | --- |
+| Join or leave the medics | See [Joining a team](../joining-a-team/) | Free |
+| Overdose Kit | One kit, to bring round somebody overdosing (see [Drugs](../drugs/)) | $500 ($2,500 at a 24/7) |
+| Heal | Your health back to full. A few seconds between two | The hospital bill: 2% of your cash, $50 to $1,000 |
+| Treat Addiction | Part of your worst habit gone, the cravings kept off for an hour | $5,000 (a medic does it for $2,500) |
+| Your health | How hooked you are on each drug, and any withdrawal | Free |
+
+## Joining
+
 Join at the desk of any hospital (see [Joining a team](../joining-a-team/)). Every hospital but Eclipse Medical Tower
 has a **garage** that hands out an **Ambulance** or the **Lifeguard** truck, free, one at a time: taking another takes
 your last one away once nobody is in it, and it goes when you leave the medics. Ten seconds between two.

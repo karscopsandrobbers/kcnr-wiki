@@ -62,6 +62,15 @@ Each cash demand takes 7 to 15% of what they carry, never more than about $25,00
 something. Afterwards you wait 4 minutes to rob anyone, and can't rob that person again for 30 minutes. Nobody else can rob
 them for 2 minutes either, and they can't rob anyone themselves in that time.
 
+## Taking somebody away
+
+Somebody with their hands up, surrendering or held up at gunpoint, can be picked up (**Lift Up**) and carried to a
+car: at the car, <kbd>E</kbd> puts them in the back seat and <kbd>Y</kbd> in the boot. Picking up somebody you are
+holding up ends the hold-up. Anybody else won't go quietly. Putting somebody in a car is **Kidnapping**, 4 stars.
+
+They can't get out until you let them out (<kbd>G</kbd> at the car), an officer does, the car is wrecked, or you leave
+them: a minute with you 50 m from the car and they get the door open. In a boot they can only look about.
+
 ## Being noticed
 
 A gang's people, a job's crew and the guards at a robbery react only to what they notice of you. They see you when
@@ -170,12 +179,16 @@ their own ground:
   the van or from the dealer's feet is yours, and the gang knows who took it. A crate or box set down on the ground
   shows a prompt of its own: pick it up, or break it open with a blade or a crowbar, and what was in it spills out beside it.
 
-- **A weapons deal.** Two gangs meeting out of the way, two cars parked side by side. The two in charge meet behind
-  the cars and talk; one of the sellers carries the crates (the sellers' own guns, rounds for them, or both) across to the buyers' car
+- **A deal.** Two gangs meeting out of the way, two cars parked side by side. The two in charge meet behind
+  the cars and talk; one of the sellers carries the crates (the sellers' own guns, rounds for them, or both, or boxes of their product) across to the buyers' car
   one at a time, and one of the
-  buyers brings a case of cash over. Officers get a tip. Left alone they shake on it, get in and drive off, one car after the other; some deals go
+  buyers brings the money over: a pile of notes in his hand for a small deal, or for a big one ($20,000 and up) a case
+  of cash out of the buyers' boot. A bigger gang deals in more crates. Take the case out of their boot first and it is
+  yours, and the deal goes wrong. Officers get a tip. Left alone they shake on it, get in and drive off, one car after the other; some deals go
   wrong on their own, and then the two sides shoot it out and the money lies where they stood. Shoot the man carrying
-  a crate and it lands where he falls; shoot the man with the case and the cash does. Go for them and both sides
+  a crate and it lands where he falls; shoot the man with the money and it does. A case on the ground: <kbd>Y</kbd> opens
+  it and <kbd>E</kbd> takes all the cash at once, or <kbd>E</kbd> picks it up shut. An empty case shuts again and can be
+  kept or traded. Go for them and both sides
   fight you.
 - **A car theft.** Somebody's car taken from under them by one of a gang and driven off to the gang's place. Stop the
   thief, get in the car and bring it back to its owner, stopped beside them, and they pay you for it.

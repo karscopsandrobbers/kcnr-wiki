@@ -11,8 +11,9 @@ separate: see [Money](../money/).
 
 ## Your pockets
 
-- **Pockets have no weight limit and no slot limit.** Bags and car boots do. The one exception is fish, which are
-  capped at 25 lb (11.3 kg) in your pockets: see [Fishing](../fishing/).
+- **Pockets have no weight limit and no slot limit.** Bags and car boots do. Two exceptions: fish, capped at 25 lb
+  (11.3 kg) in your pockets (see [Fishing](../fishing/)), and guns: at most **5 of one kind** loose in your pockets.
+  A boot or a bag takes more, as its weight allows.
 - **Weights follow your measurement setting**, kilograms or pounds, like every other unit in the game.
 - **The menu is a shelf of categories**, in this order: Food & Drink, Weapons, Ammunition (loose rounds and ammo boxes),
   Fishing, Tools, Valuables, Drugs, Masks, Bags, Clothing, General. Each shows how many kinds you carry and how much they weigh, and the top line says what you
@@ -184,6 +185,11 @@ From [Lester](../lester/), civilians only. All three are contraband. See [Hackin
 | --- | --- |
 | Burner phone, smartphone | Take it out to hold it and use its camera. There are no calls or texts between players. Phones are what pickpockets and muggers go after |
 | Lottery ticket | Use it to pick a number from 0 to 100 that nobody else has: see [Money](../money/) |
+
+### Attaché Case
+
+The case a big gang deal is paid in. Put it down to open it (<kbd>Y</kbd>): <kbd>E</kbd> takes all the cash in it at
+once. Empty, it shuts again (<kbd>Y</kbd>) and can be carried off and traded. It is carried shut, at your side.
 
 ### Gruppe Sechs cargo
 

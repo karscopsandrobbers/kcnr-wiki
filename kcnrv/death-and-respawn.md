@@ -50,6 +50,8 @@ and never more than you have**. It comes out of your cash only, never your bank,
 | $10,000 | $200 |
 | $50,000 and up | $1,000 |
 
+Alive and hurt, a hospital's desk heals you to full for the same bill: see [Medic](../medic/).
+
 The bill is the same in a Purge. It goes to the city's treasury: see [Money](../money/).
 
 ## What you lose

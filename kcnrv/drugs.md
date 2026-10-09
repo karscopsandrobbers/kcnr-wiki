@@ -45,7 +45,9 @@ craving it about ten minutes after a comedown ends: a craving now and then, your
 worse the further gone you are. Heroin withdrawal also wears your health down, though never far enough to kill you.
 
 A **medic** can treat an addiction: **Treat Addiction** from the menu on you, $2,500 cash. It takes 15% to 50% off your
-worst habit and keeps the cravings away for an hour. Below the lightest addiction there is nothing to treat.
+worst habit and keeps the cravings away for an hour. Below the lightest addiction there is nothing to treat. With no
+medic about, a hospital's desk does the same for $5,000, and its **Your health** row shows how hooked you are on each
+drug.
 
 ## Overdose
 
@@ -66,11 +68,14 @@ wheel puts you out of the driver's seat.
 
 **No medic on duty?** Somebody with you can still save you:
 
-- **An Overdose Kit.** $500 at any 24/7, always on the counter. Anybody carrying one picks **Use Overdose Kit** from
-  the menu on you while you're down. A few seconds later you're brought round, whatever you took. The kit is used up.
-- **A hospital.** **Put In A Car**, from the menu on you, puts you in the passenger seat of an unlocked car right beside
-  them. Get you to a hospital's door before the clock runs out and they bring you round there, for a **$1,000** bill
-  out of your cash (never more than you have on you).
+- **An Overdose Kit.** $500 at any hospital's desk, or $2,500 at a 24/7, where it is always on the counter. Anybody
+  carrying one picks **Use Overdose Kit** from the menu on you while you're down and gives you a shot. A few seconds
+  later you're brought round, whatever you took. The kit is used up.
+- **A hospital.** They pick you up (**Lift Up**) and carry you to a car: at the car, <kbd>E</kbd> puts you in the back
+  seat and <kbd>Y</kbd> in the boot. While they carry you, or drive you, they see your clock too, and the nearest hospital
+  is put on their map. Get you to a hospital's door before the clock runs out and they bring you round there, for a
+  **$1,000** bill out of your cash (never more than you have on you). Whoever drove you in is paid **$500** and some XP
+  by the city, once for the same patient in half an hour and once a day for the same two people.
 
 Logging out doesn't get you out of it, and neither does a server restart: you come back still overdosing, with the time
 you had left. Once you're brought round, nothing will stay down for ten minutes.
