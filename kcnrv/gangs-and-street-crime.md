@@ -129,7 +129,7 @@ Walk up to a corner's dealer and press <kbd>E</kbd> on **Deal with the** gang.
 
 - **Selling crates and boxes.** Park the vehicle with them near him. Every corner buys boxes of product; a corner in
   the rough parts of town (Chamberlain Hills, the Rancho border and the Rancho underpass, the Ballas' three in Davis, El
-  Burro Heights, Cypress Flats, La Mesa, Grapeseed) also buys crates of guns and crates of rounds of any kind but flares,
+  Burro Heights, Cypress Flats, La Mesa, Grapeseed) and the Kkangpae's in Little Seoul and Alta also buy crates of guns and crates of rounds of any kind but flares,
   straight out of the boot, one load or all of it. Loose goods sell
   too, rounds, ammo boxes, guns or product lying in the boot, at three quarters of what they would fetch packed; bags,
   cases and large ammo boxes he will not open. The gang pays out of its own cash, and buys only as much as that
@@ -138,8 +138,8 @@ Walk up to a corner's dealer and press <kbd>E</kbd> on **Deal with the** gang.
   than the one before, and a corner pays less for a while after a big load. A big sale can get a tip to the police.
   `/sell`, on foot at the dealer's side, sells him everything he takes out of the vehicle beside him. A gang's own vans
   and cars are not yours to sell from.
-- **Buying guns.** At a corner in the rough parts of town, a gang that counts you a friend sells you its own guns and
-  rounds (the Kkangpae's corners are all in the city, so they sell none over a counter), cheaper than Ammu-Nation, in
+- **Buying guns.** At a corner that deals guns, a gang that counts you a friend sells you its own guns and rounds,
+  cheaper than Ammu-Nation, in
   cash: a **gun case** (one of its guns and a few magazines of rounds, carried at your side: **Take everything out** in your
   inventory, or <kbd>Y</kbd> on it where it lies, puts both in your pockets) or an **ammo box** of rounds (use it in your inventory to tip the rounds into your pockets). The money
   is the gang's, and the guns come off its own stock: a gang with none left has none to sell until somebody sells it

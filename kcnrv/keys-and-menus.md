@@ -35,6 +35,7 @@ FiveM keeps your old choice for that action, so a default that changes later won
 | <kbd>Middle mouse</kbd> while aiming | Moves the camera to your other shoulder. See [Aiming over either shoulder](#aiming-over-either-shoulder) |
 | <kbd>F9</kbd> | Emotes. <kbd>Numpad 1 2 3 7 8 9</kbd> are your six emote slots, <kbd>Numpad 0</kbd> cancels |
 | <kbd>J</kbd> | Cast a fishing line, or put the rod away. At the wheel of an emergency vehicle with its siren on, silence it |
+| <kbd>+</kbd> / <kbd>-</kbd>, <kbd>H</kbd>, <kbd>Backspace</kbd> | Working a street spot: your price up or down (between customers), a pose while you wait (again for the next, hold to stop), stop working. See [Street dealing](../street-dealing/) |
 | <kbd>-</kbd> / <kbd>=</kbd> | A boat's anchor (the numpad minus works too) / its fish finder |
 | <kbd>Numpad 4</kbd> / <kbd>Numpad 6</kbd>, <kbd>N</kbd> | Left and right indicators, hazards (not while a card with **Not now** is up) |
 | <kbd>Numpad 8</kbd> (hold) | Push a vehicle |

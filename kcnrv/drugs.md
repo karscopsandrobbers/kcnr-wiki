@@ -97,15 +97,16 @@ you had left. Once you're brought round, nothing will stay down for ten minutes.
 ## Buying
 
 **A gang's corner.** A drugs corner's dealer (<kbd>E</kbd> on him) sells a **bag of 3 doses** of each drug his gang
-deals, cut for the street. A friend of the gang pays a fifth less. He won't sell to an officer, or to somebody his
+deals, cut for the street. A friend of the gang pays far less, little enough to sell it on at a profit on the street
+(see [Street dealing](../street-dealing/)); anybody else would lose money doing that. He won't sell to an officer, or to somebody his
 gang is against. The bags come off the gang's own product, so a gang with none left has none to sell.
 
 | Drug | A bag of 3 | To a friend | Who deals it |
 | --- | --- | --- | --- |
-| Cocaine | $360 | $288 | Families, Ballas, Aztecas |
-| Meth | $270 | $216 | Vagos, the Lost |
-| Heroin | $450 | $360 | Ballas, Aztecas, Kkangpae |
-| Ecstasy | $90 | $72 | Vagos, Kkangpae |
+| Cocaine | $360 | $92 | Families, Ballas, Aztecas |
+| Meth | $270 | $69 | Vagos, the Lost |
+| Heroin | $450 | $115 | Ballas, Aztecas, Kkangpae |
+| Ecstasy | $90 | $23 | Vagos, Kkangpae |
 
 **Off a gang.** A gang's supply van running product carries boxes of it, and a few loose bags beside them. See
 [Gangs and street crime](../gangs-and-street-crime/).
