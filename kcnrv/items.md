@@ -186,7 +186,7 @@ From [Lester](../lester/), civilians only. All three are contraband. See [Hackin
 
 | Item | What it's for |
 | --- | --- |
-| Burner phone, smartphone | Using one takes out your own phone, the one everybody has (see [Your phone](../phone/)). Phones are what pickpockets and muggers go after |
+| Burner phone | Using one takes out your own phone, the one everybody has (see [Your phone](../phone/)). Phones are what pickpockets and muggers go after |
 | Lottery ticket | Use it to pick a number from 0 to 100 that nobody else has: see [Money](../money/) |
 
 ### Attaché Case
@@ -210,7 +210,7 @@ paintings, trophies, a guitar, a TV, a laptop or tablet, cash bundles) has no us
 
 | Shop | Sells |
 | --- | --- |
-| 24/7 and gas stations | Every food and drink, plus the counter: lottery ticket (a 24/7 always has them), burner phone, smartphone, walkie talkie, condom, binoculars, fake wallet, big rotary drill, blow torch. A gas station always has an empty jerrycan |
+| 24/7 and gas stations | Every food and drink, plus the counter: lottery ticket (a 24/7 always has them), burner phone, walkie talkie, condom, binoculars, fake wallet, big rotary drill, blow torch. A gas station always has an empty jerrycan |
 | Liquor stores, bars, clubs | Drinks |
 | Ammu-Nation | Guns and their rounds, parts, tints and armour: see below. It always has a blow torch and a gas mask |
 | Bait & Tackle | Fishing gear: see [Fishing](../fishing/) |

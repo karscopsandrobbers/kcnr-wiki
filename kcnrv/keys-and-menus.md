@@ -100,7 +100,7 @@ swapping in a plane. You can't swap onto a seat with a bag on it, and you're tol
 - **Amounts:** in a shop, hold <kbd>Left Shift</kbd> while you press left or right to change an amount ten at a time.
 - **Personal assistant** (<kbd>`</kbd>): Voice, Walking Styles, Moods, Clothing, Emotes, Scenes, Party, Walkie Talkie.
 - **Dashboard** (<kbd>F10</kbd>):
-  - Profile, Skills & ranks, Your goals, Personal vehicles, Achievements. Profile has a card for each team with your counts
+  - Profile, Skills & ranks, Your goals, Personal vehicles, Achievements. Profile shows your phone number, and has a card for each team with your counts
     on it; the Civilian card shows your repo jobs done (easy, medium, hard), failed, and your best time on each. A
     **Drugs** card shows any habit you have (see [Drugs](../drugs/));
   - **Your goals** also holds today's work board, above your first goals;
