@@ -135,7 +135,7 @@ complex, simple and off. See [Keys and menus](../keys-and-menus/).
 
 - Fuel burns only while the engine runs: by speed with your foot down, a trickle off the pedal. Big vehicles, a shot
   fuel tank and each passenger burn it faster. Flat out at about 110 km/h (67 mph) an ordinary car empties a full
-  tank in about 12 minutes, a big one in under 5.
+  tank in about 12 minutes, a big one in about 9.
 - A warning comes at 25%. At 0 the engine dies, and an empty car won't start.
 - Bicycles, boats, helicopters, planes and electric cars use no petrol. A street car's tank holds anything from 15%
   to full.
@@ -229,7 +229,8 @@ other car loses everything in it when the car goes. You turn to the lid and reac
 gets there; closing the boot pushes it down the same way. The **Doors** row of the <kbd>X</kbd> menu has a trunk that
 does the same. With your hands full, <kbd>E</kbd> at the boot puts what you hold straight in, and a bag-sized thing can also ride on a seat: see [Carrying things](../carrying-things/). You can't open a boot while the car is moving or on a job's car. A model the game doesn't place in a class gets
 40 kg (88 lb). A boat's hold depends on its hull instead, and your own boat's hold carries fish: see
-[Fishing](../fishing/).
+[Fishing](../fishing/). On a boat, <kbd>E</kbd> on the stern deck opens its storage; at the helm, open your inventory
+(<kbd>I</kbd>) and pick **Boat storage**.
 
 | Vehicle | Boot |
 | --- | --- |

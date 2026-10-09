@@ -28,7 +28,7 @@ FiveM keeps your old choice for that action, so a default that changes later won
 | <kbd>H</kbd> | The house menu, inside a house (in a car it's the headlights, and held on a convertible it moves the roof). A bag's contents, when you stand over one |
 | <kbd>G</kbd> | Get in at the nearest door, or swap seats |
 | <kbd>F</kbd> (hold) | Pay respects, next to a body |
-| <kbd>Right Alt</kbd> | Tap: mask on or off. Hold: a wheel of your masks and bags |
+| <kbd>Right Alt</kbd> | Tap: mask on or off. Hold: a wheel of your latest masks and bags, up to five of each; any other goes on from your inventory (**Wear**) and joins the wheel |
 | <kbd>Left Alt</kbd> | Put down what you're holding (in a car, a bag-sized thing goes on a seat), or get off somebody's back. See [Carrying things](../carrying-things/) |
 | <kbd>K</kbd> | Your personal vehicles |
 | <kbd>B</kbd> (hold) | Point |

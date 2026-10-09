@@ -71,7 +71,8 @@ paid out first: into your next paycheck, or the group bank for a group's slot.
 ## What a slot earns
 
 Every game day (48 real minutes) each slot gets the business's own earnings, scaled by its **condition** and **level**,
-plus an equal share of what players spent there: wash fees, club drinks, and at the yard a quarter of the metal value
+plus an equal share of what players spent there: wash fees, club drinks (every drink is on a club's bar, <kbd>Y</kbd> at
+its markers), and at the yard a quarter of the metal value
 of every car sold.
 
 - **Condition** (Supplies, Yard space or Popularity) runs 0 to 100, **starts at 60** and slowly drops as real time passes. A
@@ -123,8 +124,8 @@ three $2,667, four $2,500. You're paid in full if you were in it for a minute, h
 - **After the job** the vehicle is left to you like any car on the street: drive on in it if you like. It's cleared
   away once nobody is near it.
 - **While the place is smashed up** every other job is refused: Defend is the only one offered until it's put right.
-- **A won Defend** puts back less condition than other jobs and keeps the gang away for 3 game days, about 2.4 real
-  hours. The enemies carry pistols, micro SMGs, bats and machetes, and each shows as a red dot on the map.
+- **A won Defend** puts back less condition than other jobs and keeps the gang away for 3 game days to the hour, about
+  2.4 real hours. The enemies carry pistols, micro SMGs, bats and machetes, and each shows as a red dot on the map.
 - **On screen**, a job shows the next stop as a blip with a route and a marker on the ground, and bars for the time
   left, your pay, the crew (always the last bar) and, in a defence, the enemies left.
 
@@ -145,7 +146,8 @@ each safe collected. Reputation 1 to 5 come at Business levels 2, 4, 7, 11 and 1
 
 The Strawberry wash and the Vanilla Unicorn are on Families ground; the Little Seoul wash on Kkangpae ground. While
 the holders pay, **12% of each slot's day goes to the gang**, and a collector walks in each game day if somebody's
-near.
+near. A gang your group controls takes nothing from your group's slots and never comes round to a business your
+group holds a slot in.
 
 Each slot votes **Pay** or **Refuse**; more refusals than payers refuses the gang, and a tie pays. Killing the
 collector counts as refusing. **The collector** waits 15 seconds at the dollar sign for the cut. It's taken whether
