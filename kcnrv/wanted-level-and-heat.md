@@ -105,6 +105,8 @@ bandanas, a ski mask and a stocking mask. The wheel opens when you hold <kbd>Rig
 mask you own as clothing, and a bare face. Balaclavas turn up in parked cars, in dumpsters and off gang members; no
 shop sells them. The clothing store won't sell you a mask, and won't change your mask slot while you wear a mask item
 (take it off first). Wanted and masked outside your own circle, a passer-by nearby may phone you in now and then.
+Only a civilian is ever **Masked**: an officer, a medic or a firefighter keeps their name on their nametag whatever they
+wear, and on duty a gas mask is all they can put on.
 
 ## Cameras
 

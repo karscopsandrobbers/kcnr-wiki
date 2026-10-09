@@ -95,8 +95,8 @@ What you find is your choice: send it into evidence for a bounty, or keep it and
 **Booking what you carry.** Contraband in your own inventory, drugs you picked up or a crate in your arms, has **Book
 into evidence** on it: it goes, and the city pays its bounty as a frisk's booking does. Nobody is charged for it.
 
-**An arrest takes their weapons.** Arrest or take down a suspect and every weapon they carry is taken for good, booked
-to you as evidence. A flashlight, the extinguisher, a jerry can and the parachute stay with them.
+**An arrest takes some of their rounds.** Arrest or take down a suspect and a quarter of every kind of ammo they carry is
+taken, booked to you as evidence. They keep their guns.
 
 **Fishing pots.** At a pot's buoy, <kbd>G</kbd> reads it: how long it has been down, how many fish are in it, and its
 condition, and it says so when the pot is ghost gear that has been fishing itself for hours. <kbd>X</kbd> **seizes** it.

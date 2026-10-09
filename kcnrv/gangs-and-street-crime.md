@@ -139,7 +139,8 @@ Walk up to a corner's dealer and press <kbd>E</kbd> on **Deal with the** gang.
   `/sell`, on foot at the dealer's side, sells him everything he takes out of the vehicle beside him. A gang's own vans
   and cars are not yours to sell from.
 - **Buying guns.** At a corner that deals guns, a gang that counts you a friend sells you its own guns and rounds,
-  cheaper than Ammu-Nation, in
+  cheaper than Ammu-Nation; anybody else gets its drugs only, unless the gang is broke and needs the money, when it
+  sells its guns to anybody it has no quarrel with. In
   cash: a **gun case** (one of its guns and a few magazines of rounds, carried at your side: **Take everything out** in your
   inventory, or <kbd>Y</kbd> on it where it lies, puts both in your pockets) or an **ammo box** of rounds (use it in your inventory to tip the rounds into your pockets). The money
   is the gang's, and the guns come off its own stock: a gang with none left has none to sell until somebody sells it

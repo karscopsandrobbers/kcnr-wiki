@@ -72,6 +72,8 @@ and a tap of <kbd>E</kbd> takes all of it too. Hold <kbd>E</kbd> to choose how m
 - **<kbd>Right Alt</kbd>:** tap to put a mask on or take it off, hold for a wheel of your masks and bags.
 - **A balaclava** makes your nametag read "Masked" to everybody else, and a **gas mask** is for getting through gas.
 - **A mask you bought as clothing** stays in your wardrobe and keeps working across logins.
+- **Masks and bags are for civilians.** Joining the police, medics or firefighters takes off your mask and your bag (they
+  stay in your pockets), and on duty the only thing you can put on is a gas mask.
 - **A worn pile can't be given or traded**: take it off first.
 - **Clothing toggles:** the personal assistant (<kbd>`</kbd>) has a **Clothing** menu: hat, visor, glasses, earrings, hair,
   necklace, jacket, top, gloves, watch, bracelet, bag, trousers and shoes, each with a short clip and shown as "off"
