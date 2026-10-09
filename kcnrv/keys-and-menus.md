@@ -17,6 +17,7 @@ FiveM keeps your old choice for that action, so a default that changes later won
 | <kbd>F1</kbd> | Your cash and bank for 8 seconds with your rank bar; while wanted, how your heat is going |
 | <kbd>Z</kbd> | The same as <kbd>F1</kbd>, and it widens the map a step at a time: radar, radar zoomed out, big map. After 10 seconds it goes back to where it sits: the radar on foot, the radar zoomed out once you are in a vehicle |
 | <kbd>F2</kbd> | Scoreboard |
+| <kbd>Up</kbd> | Your phone: calls, texts, contacts, the camera and your photos. See [Your phone](../phone/) |
 | <kbd>T</kbd> | Chat. See [Chat and Discord](../chat-and-discord/) |
 | <kbd>I</kbd> | Your pockets. See [Items and your pockets](../items/) |
 | <kbd>X</kbd> | The menu for whatever is in the middle of your screen close by: a person, a car. In a boat, it sets a fishing pot |
@@ -117,9 +118,8 @@ swapping in a plane. You can't swap onto a seat with a bag on it, and you're tol
   - **Unit System**, which only shows what GTA's own setting says, because you change it in GTA (see Units below);
   - **Speedometer** (complex, simple or off), **FPS type**, and **Important Global Blips**, which keeps your own
     properties on the map at any distance.
-- **The phone** is a camera. Use it from your pockets: <kbd>Up</kbd> opens the camera, <kbd>Space</kbd> takes the
-  picture, <kbd>Left Ctrl</kbd> leaves it, <kbd>Backspace</kbd> puts it away. You can't call anyone, but job contacts
-  ring you.
+- **Your phone** comes out on <kbd>Up</kbd>: call and text other players, contacts, the camera and your photos. See
+  [Your phone](../phone/).
 
 **Units.** Weights, lengths, distances and speeds follow GTA's own **Settings > Display > Measurement System**: metric or
 imperial. **Two things are always in kilometres**: the mileage on your personal vehicles, and the distances on

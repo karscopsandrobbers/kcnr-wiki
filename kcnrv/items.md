@@ -186,7 +186,7 @@ From [Lester](../lester/), civilians only. All three are contraband. See [Hackin
 
 | Item | What it's for |
 | --- | --- |
-| Burner phone, smartphone | Take it out to hold it and use its camera. There are no calls or texts between players. Phones are what pickpockets and muggers go after |
+| Burner phone, smartphone | Using one takes out your own phone, the one everybody has (see [Your phone](../phone/)). Phones are what pickpockets and muggers go after |
 | Lottery ticket | Use it to pick a number from 0 to 100 that nobody else has: see [Money](../money/) |
 
 ### Attaché Case
