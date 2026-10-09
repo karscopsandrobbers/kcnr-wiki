@@ -60,6 +60,9 @@ level.
 
 ## Overdoses and addiction
 
+**A junkie overdosing** on the street comes as an overdose call too, when somebody nearby calls it in (see
+[Street dealing](../street-dealing/)): it goes to every medic driving a medic vehicle, and the first to take it gets it.
+
 **An overdose** comes as a call: what it looks like and a waypoint, and two minutes before the patient dies. Read the
 symptoms and pick the one treatment that works from the menu on them:
 

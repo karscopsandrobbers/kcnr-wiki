@@ -127,8 +127,10 @@ refusal is 2 stars and a fight. You wait 90 seconds before the next (20 after a 
 
 Walk up to a corner's dealer and press <kbd>E</kbd> on **Deal with the** gang.
 
-- **Selling crates and boxes.** Park the vehicle with them near him. A drugs corner buys boxes of product; a guns
-  corner buys crates of guns and crates of rounds of any kind but flares, straight out of the boot, one load or all of it. Loose goods sell
+- **Selling crates and boxes.** Park the vehicle with them near him. Every corner buys boxes of product; a corner in
+  the rough parts of town (Chamberlain Hills, the Rancho border and the Rancho underpass, the Ballas' three in Davis, El
+  Burro Heights, Cypress Flats, La Mesa, Grapeseed) also buys crates of guns and crates of rounds of any kind but flares,
+  straight out of the boot, one load or all of it. Loose goods sell
   too, rounds, ammo boxes, guns or product lying in the boot, at three quarters of what they would fetch packed; bags,
   cases and large ammo boxes he will not open. The gang pays out of its own cash, and buys only as much as that
   covers: the menu shows what it has to spend. The better the gang thinks of you, the better it pays, up to 15% more;
@@ -136,7 +138,8 @@ Walk up to a corner's dealer and press <kbd>E</kbd> on **Deal with the** gang.
   than the one before, and a corner pays less for a while after a big load. A big sale can get a tip to the police.
   `/sell`, on foot at the dealer's side, sells him everything he takes out of the vehicle beside him. A gang's own vans
   and cars are not yours to sell from.
-- **Buying guns.** A gang that counts you a friend sells you its own guns and rounds, cheaper than Ammu-Nation, in
+- **Buying guns.** At a corner in the rough parts of town, a gang that counts you a friend sells you its own guns and
+  rounds (the Kkangpae's corners are all in the city, so they sell none over a counter), cheaper than Ammu-Nation, in
   cash: a **gun case** (one of its guns and a few magazines of rounds, carried at your side: **Take everything out** in your
   inventory, or <kbd>Y</kbd> on it where it lies, puts both in your pockets) or an **ammo box** of rounds (use it in your inventory to tip the rounds into your pockets). The money
   is the gang's, and the guns come off its own stock: a gang with none left has none to sell until somebody sells it
@@ -253,8 +256,10 @@ Groups can't take a gang over for now.
 
 ## Drugs
 
-A drugs corner's dealer also sells bags of his gang's drugs, and buys doses out of your pockets on the street. Each gang
-deals its own: see [Drugs](../drugs/) for what each sells, the street's prices and the police.
+Every corner's dealer also sells bags of his gang's drugs, and buys doses out of your pockets. Each gang deals its own:
+see [Drugs](../drugs/) for what each sells, the street's prices and the police. To sell to the street yourself, work a
+spot: see [Street dealing](../street-dealing/). Dealing on a gang's ground, a friend of the gang pays it a cut, and
+anybody else loses a little standing with it each sale.
 
 **The gangs' size.** A gang's strength decides how big it runs. A weak gang sends one crate at a time and keeps thin
 corners. A strong one sends three or four crates with a car of its people behind the van, keeps fuller corners of

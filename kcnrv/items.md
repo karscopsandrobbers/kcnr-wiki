@@ -12,8 +12,9 @@ separate: see [Money](../money/).
 ## Your pockets
 
 - **Pockets have no weight limit and no slot limit.** Bags and car boots do. Two exceptions: fish, capped at 25 lb
-  (11.3 kg) in your pockets (see [Fishing](../fishing/)), and guns: at most **5 of one kind** loose in your pockets.
-  A boot or a bag takes more, as its weight allows.
+  (11.3 kg) in your pockets (see [Fishing](../fishing/)), and guns: only a few of one kind fit loose in your pockets,
+  **10 pistols, 6 SMGs, 4 shotguns, 3 rifles or sniper rifles, 1 machine gun or heavy weapon**. A boot or a bag takes
+  more, as its weight allows.
 - **Weights follow your measurement setting**, kilograms or pounds, like every other unit in the game.
 - **The menu is a shelf of categories**, in this order: Food & Drink, Weapons, Ammunition (loose rounds and ammo boxes),
   Fishing, Tools, Valuables, Drugs, Masks, Bags, Clothing, General. Each shows how many kinds you carry and how much they weigh, and the top line says what you

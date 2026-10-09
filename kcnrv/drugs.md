@@ -73,7 +73,8 @@ wheel puts you out of the driver's seat.
   later you're brought round, whatever you took. The kit is used up.
 - **A hospital.** They pick you up (**Lift Up**) and carry you to a car: at the car, <kbd>E</kbd> puts you in the back
   seat and <kbd>Y</kbd> in the boot. While they carry you, or drive you, they see your clock too, and the nearest hospital
-  is put on their map. Get you to a hospital's door before the clock runs out and they bring you round there, for a
+  is put on their map. You can get out of the car while you're down, but the nearer the end, the likelier you stumble
+  and fall as you do. Get you to a hospital's door before the clock runs out and they bring you round there, for a
   **$1,000** bill out of your cash (never more than you have on you). Whoever drove you in is paid **$500** and some XP
   by the city, once for the same patient in half an hour and once a day for the same two people.
 
@@ -88,7 +89,9 @@ you had left. Once you're brought round, nothing will stay down for ten minutes.
   Intoxication**. Each is 1 star.
 - **A search**: drugs an officer finds and books are **Drug Possession**, 1 star. More than 20 doses is **Drug
   Trafficking**, 2 stars.
-- **Dealing in sight of an officer** is **Drug Trafficking**, 2 stars: a sale on a corner, or drugs handed to somebody.
+- **Dealing in sight of an officer** is **Drug Trafficking**, 2 stars: a sale on a corner or a street spot, or drugs
+  handed to somebody. Working a spot, a passer-by who saw it can phone it in, and a customer may be an undercover
+  officer: see [Street dealing](../street-dealing/).
   Whoever took them gets Drug Possession.
 
 ## Buying
@@ -104,8 +107,6 @@ gang is against. The bags come off the gang's own product, so a gang with none l
 | Heroin | $450 | $360 | Ballas, Aztecas, Kkangpae |
 | Ecstasy | $90 | $72 | Vagos, Kkangpae |
 
-The Kkangpae hold no drugs corner of their own, so you won't find their product on a street.
-
 **Off a gang.** A gang's supply van running product carries boxes of it, and a few loose bags beside them. See
 [Gangs and street crime](../gangs-and-street-crime/).
 
@@ -115,13 +116,16 @@ opium paste at the Ballas' and Aztecas'. The Vagos and the Lost sell pseudoephed
 
 ## Selling
 
-**On the street.** A drugs corner buys doses out of your pockets: the dealer's menu lists what you have on you and
+**Working a spot.** Stand on a street corner and sell to the people who walk up, a few doses at a time, at the full
+street price: see [Street dealing](../street-dealing/).
+
+**At a corner.** Every gang corner buys doses out of your pockets: the dealer's menu lists what you have on you and
 what each dose fetches. It pays by purity, up to **25 doses a day** off you at each corner. Each corner wants one drug
 above the rest that day and pays **double** for it, so moving between corners pays. The gang pays out of its own cash:
 the menu shows what it has to spend. Talk to him on foot. He won't buy from an officer, or from somebody his gang is
 against.
 
-**By the box.** A lot of one drug packs into a box in a house you own (`/pack`). A drugs corner buys boxes and
+**By the box.** A lot of one drug packs into a box in a house you own (`/pack`). Every corner buys boxes and
 loose product out of a vehicle's boot: see [Dealing with a corner](../gangs-and-street-crime/). At the going rate, a
 full box of cocaine (2 kg) fetches $30,000, meth (2.5 kg) $26,000, heroin (1.5 kg) $32,000 and ecstasy (3,500 pills)
 $14,000. Purity and the corner's appetite move that: each box sold to a corner fetches a little less than the one
@@ -175,5 +179,5 @@ once per suspect in three hours. See [Achievements and leaderboards](../achievem
 - Amounts in grams follow your **Measurement System** setting, so they read in ounces and pounds if your game is set
   that way.
 
-Related: [Gangs and street crime](../gangs-and-street-crime/) · [Medic](../medic/) · [Police](../police/) ·
+Related: [Street dealing](../street-dealing/) · [Gangs and street crime](../gangs-and-street-crime/) · [Medic](../medic/) · [Police](../police/) ·
 [Jail and the law](../jail-and-the-law/) · [Items and your pockets](../items/) · [Trading](../trading/)
