@@ -153,9 +153,10 @@ or not anybody sees him, and he can't be robbed.
 
 After a refusal the gang comes a few minutes later, and **the holders are warned ahead**. With a
 player nearby, three of them walk in with bats and smash the place, and dropping all
-three in time stops it. If they win (or they're still fighting after a good while), if nobody's near, or if nobody gets to
-the place in time, the place is **smashed up**: condition drops sharply, the police are called, and it earns
-nothing of its own and gets no customers until **Defend** is run or the holders vote to pay. A smashed place also has
+three in time stops it. If they win (or they're still fighting after a good while), or if nobody's near, the place is
+**smashed up**: condition drops sharply, the police are called, and it earns nothing of its own and gets no customers
+until **Defend** is run or the holders vote to pay. If they can't show up in front of you (they never reach the place),
+they come back a game hour (2 real minutes) later instead. A holder who was away when it was smashed is told on logging in. A smashed place also has
 **wreckage** scattered round its dollar sign until it's put right, and that stays through a restart.
 
 ## Rivals

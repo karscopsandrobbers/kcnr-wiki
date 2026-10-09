@@ -6,7 +6,7 @@ order: 2
 opens: From the start; Premium Deluxe Motorsport at total level 10
 ---
 
-**Any street car can be driven** from your first minute. As a civilian, getting behind the wheel of a police car or an
+**Any street car can be driven** from your first minute; a parked one's engine is off, and <kbd>L</kbd> starts it. As a civilian, getting behind the wheel of a police car or an
 emergency vehicle is Theft, two stars. **Owning one** needs only the money, in cash, and your first pays the **Own a
 vehicle** goal: $1,000 and 150 XP.
 

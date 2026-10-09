@@ -43,7 +43,8 @@ The clock is **6 minutes**, or **12 at Pacific Standard**, from the moment the j
      <kbd>W</kbd> or the mouse (or the left stick) to push it in; <kbd>S</kbd> backs it off. Only a gentle push just past the
      hole cuts: push harder and the bit heats instead, and the faster it spins the less room you have. Ease off and it
      cools in a couple of seconds. Four pins give on the way through, each a jolt. A vault door is the hardest drill in
-     the game; overheat on it and **the drill is destroyed**. This is the only way through without a sound.
+     the game; overheat on it and **the drill is destroyed**. This is the only way through without a sound. <kbd>Esc</kbd>
+     gives up, and the job ending stops a drill that's still going.
    - **Hack the terminal** (<kbd>Y</kbd>, "Hack the vault"; see [Hacking](../hacking/)). The crew gets **two attempts** a job; every failure sets off
      the alarm, and walking away from the puzzle doesn't count as one. **A hacked-open vault sets off the alarm** unless
      you disabled it or cut the power first.
@@ -77,7 +78,8 @@ not once less than about a third of the clock is left. Dying, being jailed or ch
 | Every successful hack | 40 civilian XP and 46 Hacking XP |
 
 Vault cash is **split evenly at the end** between everyone still in the job; jewellery belongs to whoever bagged it.
-**You can rob one bank every 30 minutes**, whichever branch, and each bank has its own cooldown. `/rcd` lists them.
+**You can rob one bank every 30 minutes**, whichever branch, and each bank has its own cooldown. `/rcd` lists them,
+leaving out a bank's own while the 30 minutes run longer.
 
 **A clean job** (no alarm rang, nothing put a name to you, nobody in the bank saw it) gives no stars and no APB: you'll
 see a **[CLEAN]** message.

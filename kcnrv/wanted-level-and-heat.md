@@ -34,7 +34,7 @@ Only civilians carry stars; officers, medics and firefighters never do.
 
 ## The red circle: your crime scene
 
-Every crime that gives stars drops a circle where you were seen. **Inside it your stars never drop.** A mask halves its
+Every crime that gives stars drops a circle where it happened, whether or not anybody saw it yet. **Inside it your stars never drop.** A mask halves its
 size; a new crime close to it joins it, moves it to where you just were and grows it; you never have more than three. A circle
 closes after 10 minutes with no new crime in it, and they all go when your stars reach zero.
 
