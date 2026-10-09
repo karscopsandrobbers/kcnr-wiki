@@ -92,6 +92,12 @@ Trafficking for a dealer's amount. See [Drugs](../drugs/).
 **Frisking** is a contest: see [Jail and the law](../jail-and-the-law/) for how a search plays out from both sides.
 What you find is your choice: send it into evidence for a bounty, or keep it and take the risk. Something a suspect holds in their hands, like a briefcase, falls to the ground when you frisk them, and you pick it up from there: see [Carrying things](../carrying-things/).
 
+**Booking what you carry.** Contraband in your own inventory, drugs you picked up or a crate in your arms, has **Book
+into evidence** on it: it goes, and the city pays its bounty as a frisk's booking does. Nobody is charged for it.
+
+**An arrest takes their weapons.** Arrest or take down a suspect and every weapon they carry is taken for good, booked
+to you as evidence. A flashlight, the extinguisher, a jerry can and the parachute stay with them.
+
 **Fishing pots.** At a pot's buoy, <kbd>G</kbd> reads it: how long it has been down, how many fish are in it, and its
 condition, and it says so when the pot is ghost gear that has been fishing itself for hours. <kbd>X</kbd> **seizes** it.
 The pot and its catch are destroyed, and the city pays you **$150** in cash. See [Fishing](../fishing/).
@@ -143,7 +149,7 @@ are cash on the spot.
 | ...holding them in the spotlight | +$75 |
 | A ticket collected | The whole fine |
 | A fine collected while the city is in deficit | +25% of the fine, in cash, to you |
-| An item booked into evidence | $250 cash. Loose drugs: a quarter of what a corner sells them for, with no minimum. A crate, or a box of drugs: half its price, at least $250. Gruppe Sechs cargo: a tenth of its worth, at least $250 |
+| An item booked into evidence | Drugs, loose or in a box: half what a box of them is worth, by purity (a street bag is a few dollars). A crate of guns or rounds: half its price. A gun, booked from a frisk or taken on an arrest: half what a corner pays for one. Anything else: a quarter of its price, or $250 for something that has none. Gruppe Sechs cargo: a tenth of its worth, at least $250 |
 | A Gruppe Sechs escort | $400 a leg, $1,200 for seeing the run to the depot |
 | A fishing pot seized | $150 cash |
 

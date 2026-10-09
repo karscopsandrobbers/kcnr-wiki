@@ -213,9 +213,11 @@ A 24/7's menu has Food and Drinks submenus. Press <kbd>Y</kbd> at a counter to o
 **Anybody can buy a gun here**: no licence, no level, only the cash.
 
 - **A gun comes empty, and its rounds are bought right after**: its menu moves on to its ammo, where you choose how many
-  magazines, or **Fill up**, and they go straight into the gun. A thrown weapon comes with the one you bought, and a melee
-  weapon or a jerrycan with none. Buy more than one gun and the rest go in your pockets, empty; **Withdraw** in the
-  inventory puts one on you.
+  magazines, or **Fill up**, and they go straight into the gun. Fill up stops at what the game lets you carry, which
+  grows with your shooting skill. A melee weapon or a jerrycan comes with nothing, and a fire extinguisher comes full.
+  Buy more than one gun and the rest go in your pockets, empty; **Withdraw** in the inventory puts one on you.
+- **Thrown weapons** (grenades, molotovs and the like) all go into your hand, as many as you can carry; you are not
+  charged for any that would not fit. Ones in your pockets join the ones in your hand when you take them out.
 - **A gun you already carry** is listed as its rounds, such as **Carbine Rifle Ammo**, at every Ammu-Nation, whether
   that store stocks the gun or not: the row says which ammo it takes, which other guns that fills, and how many rounds
   you carry. Its menu sells its rounds, and its Mods where the store stocks it.
@@ -286,16 +288,20 @@ Ammo and every assault rifle and carbine you carry has it.
 | SMG Ammo | every SMG, the Combat PDW and the Machine Pistol |
 | Rifle Ammo | every assault rifle and carbine |
 | Shotgun Ammo | every shotgun and the Musket |
-| MG Ammo | the MG, the Combat MG and the Gusenberg Sweeper |
+| MG Ammo | the MG, both Combat MGs, the Gusenberg Sweeper and the Unholy Hellbringer |
 | Sniper Ammo | every sniper and marksman rifle |
 | Flare Gun Ammo | the Flare Gun |
 
 Aim an empty gun and your hand shows the rounds it takes; <kbd>R</kbd> loads every round you carry for that gun, up to
 what the game lets it hold, and the rest stays in your pockets. Loading from the inventory goes into the gun that takes
-them, the one in your hand first. Your **weapon wheel is your loadout**: guns you've put on aren't in your pockets, and a
-gun taken out of your inventory comes out empty.
+them, the one in your hand first, and only as many as it has room for: the rest stay in your pockets. Your **weapon
+wheel is your loadout**: guns you've put on aren't in your pockets, and a gun taken out of your inventory comes out
+empty. Arrested, you lose what is on it (see [Jail and the law](../jail-and-the-law/)).
 
-Loose rounds in your pockets are what you trade. They come from the gangs, or out of a crate of rounds, in **ammo
+**A gun off a body** is the one that person was carrying, with up to three magazines of rounds.
+
+Loose rounds in your pockets are what you trade: a guns corner buys any kind but flares, loose or by the crate. They
+come from the gangs, or out of a crate of rounds, in **ammo
 boxes** of one kind: 50 Pistol or SMG Ammo, 25 shells or 20 Rifle Ammo. Use a box in your inventory to tip its rounds into your pockets. Once in a long while a
 gang's supply van carries a **large ammo box**, dozens of ammo boxes in one, carried in both arms; open it to take
 them out. It holds ammo boxes and nothing else.

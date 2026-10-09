@@ -14,7 +14,8 @@ Open your inventory, pick the drug and press **Use**. One dose goes in, a gram o
 a line of cocaine, a pipe of meth, a needle of heroin, a pill of ecstasy with a drink. Stop before it is done and the
 dose goes back in your pocket.
 
-**Purity matters.** A purer dose hits harder. A weak one you barely feel.
+**Purity matters.** A purer dose hits harder. A weak one you barely feel. Put two piles of the same drug together and
+they mix to a purity in between, by how much of each there was.
 
 **Tolerance builds.** Each dose of the same drug does a little less than the last, and it wears off again over hours.
 
@@ -52,6 +53,9 @@ Too much in too short a time, and you overdose. Heroin takes the least to do it.
 cocaine or meth, or ecstasy with either. A tolerance lets you take more before it happens, and running flat out on
 ecstasy can bring it on.
 
+**You get a warning.** Once you're getting close, an **OD RISK** bar shows how near you are, amber and then red, and
+you're told twice as it climbs. On ecstasy it means you're overheating: stop running and cool down.
+
 You go down where you stand, and every medic on duty is called with what it looks like. You have **two minutes**: a
 countdown, your heartbeat getting faster, and a line saying whether a medic is on duty and how far away the nearest one
 is. Only the right treatment brings you round. If nobody gives it in time, you die.
@@ -60,8 +64,16 @@ Which one depends on the drug: cocaine and meth stop the heart (**CPR**), heroin
 and ecstasy overheats you (**Medication**). Brought round, you get up with some of your health back. Overdosing at the
 wheel puts you out of the driver's seat.
 
-Logging out doesn't get you out of it: you come back still overdosing, with the time you had left. Once a medic brings
-you round, nothing will stay down for ten minutes.
+**No medic on duty?** Somebody with you can still save you:
+
+- **An Overdose Kit.** $500 at any 24/7, always on the counter. Anybody carrying one picks **Use Overdose Kit** from
+  the menu on you while you're down. A few seconds later you're brought round, whatever you took. The kit is used up.
+- **A hospital.** **Put In A Car**, from the menu on you, puts you in the passenger seat of an unlocked car right beside
+  them. Get you to a hospital's door before the clock runs out and they bring you round there, for a **$1,000** bill
+  out of your cash (never more than you have on you).
+
+Logging out doesn't get you out of it, and neither does a server restart: you come back still overdosing, with the time
+you had left. Once you're brought round, nothing will stay down for ten minutes.
 
 ## The police
 
@@ -107,8 +119,9 @@ against.
 **By the box.** A lot of one drug packs into a box in a house you own (`/pack`). A drugs corner buys boxes and
 loose product out of a vehicle's boot: see [Dealing with a corner](../gangs-and-street-crime/). At the going rate, a
 full box of cocaine (2 kg) fetches $30,000, meth (2.5 kg) $26,000, heroin (1.5 kg) $32,000 and ecstasy (3,500 pills)
-$14,000. Purity and the corner's appetite move that. A big sale can get the police tipped off. `/unpack` in the
-house turns a box back into loose product in the stash.
+$14,000. Purity and the corner's appetite move that: each box sold to a corner fetches a little less than the one
+before. A big sale can get the police tipped off. `/unpack` and what is in it (`/unpack cocaine`) in the house opens a
+box back into loose product in the stash; `/unpack` on its own lists the boxes there.
 
 **To other players**, with a trade (see [Trading](../trading/)). In an officer's sight it is trafficking.
 
@@ -127,16 +140,16 @@ $75,000 and a **Press** $25,000. You need the inputs in the house's stash.
 | Cut and Brick | Press | 1,000 g of cocaine, 400 baking soda | 1,400 g of cocaine, weaker | 15 minutes |
 
 The Laboratory's cooks come out much purer than the Kitchen's. Cut and Brick starts at once; every other cook is done
-by hand first.
+by hand first. Cutting stops at **20% purity**: Cut and Brick won't run if it would take the cocaine under that.
 
 **By hand:** water first, then the drug's own steps in the right order, picked off a shelf that holds every drug's
-steps. A step out of turn is wasted and makes it weaker. Get three wrong, or start without water, and it goes up. The
+steps. Each recipe in `/lab` lists its steps in order. A step out of turn is wasted and makes it weaker. Get three wrong, or start without water, and it goes up. The
 fumes hurt without a gas mask. Stay in the house and finish within **five minutes**: walk out, or take too long, and the
 batch is lost.
 
 **Additives** are on the same shelf: alcohol, colouring, coatings, flavours, lubricants and sugar. Added after the
 drug's last step, each changes how much the batch yields, up for some drugs and down for others. Added before it, they
-are wasted.
+are wasted. You pay for one as you pour it, and get the money back if you stop the pour or the batch is lost.
 
 Once the steps are done, it cooks on the clock whether you stay or not; `/lab` again to collect it.
 

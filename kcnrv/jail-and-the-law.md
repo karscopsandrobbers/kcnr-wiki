@@ -47,8 +47,9 @@ You can't be searched again for 45 seconds.
   or when five officers have you in sight at once.
 - After the sentence, a **$1,000 bail** counts down by $50 or $100 a second; at zero you walk free. `/bail` pays what's
   left, and `/bail [name]` pays somebody else's.
-- You serve it in a prison outfit in a cell at Mission Row, and walk out on its front steps. Your weapons are taken
-  and handed back when you leave.
+- You serve it in a prison outfit in a cell at Mission Row, and walk out on its front steps.
+- **Arrested or taken down, you lose your weapons**: every gun and weapon you carry is taken for good and booked into
+  evidence. A flashlight, the extinguisher, a jerry can and the parachute are left with you.
 - Dying while jailed puts you back in a cell, with no hospital bill.
 - Dying while cuffed takes the cuffs off before you respawn.
 

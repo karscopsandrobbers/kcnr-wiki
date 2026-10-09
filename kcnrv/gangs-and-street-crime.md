@@ -108,9 +108,10 @@ dealers after 5 minutes, crew after 10.
 
 ## Shaking down a dealer
 
-Aim a weapon at a dealer, a knife or a crowbar as much as a gun (fists don't count): his hands go up for 10 seconds.
-Keep your weapon on him and he pays or refuses and fights.
-He pays $400 to $1,200 at the low tier, 35% more for each tier above. A shakedown that pays is **4 stars** and 30 XP; a
+Aim a weapon at a dealer, a knife or a crowbar as much as a gun (fists, a flashlight or a phone don't count): his hands
+go up for 10 seconds. Keep your weapon on him and he pays or refuses and fights.
+He pays $400 to $1,200 at the low tier, 35% more for each tier above. It is his gang's money: a dealer whose gang is
+broke has nothing on him. A shakedown that pays is **4 stars** and 30 XP; a
 refusal is 2 stars and a fight. You wait 90 seconds before the next (20 after a refusal).
 
 ## Dealing with a corner
@@ -118,12 +119,14 @@ refusal is 2 stars and a fight. You wait 90 seconds before the next (20 after a 
 Walk up to a corner's dealer and press <kbd>E</kbd> on **Deal with the** gang.
 
 - **Selling crates and boxes.** Park the vehicle with them near him. A drugs corner buys boxes of product; a guns
-  corner buys crates of guns and crates of rounds, straight out of the boot, one load or all of it. Loose goods sell
+  corner buys crates of guns and crates of rounds of any kind but flares, straight out of the boot, one load or all of it. Loose goods sell
   too, rounds, ammo boxes, guns or product lying in the boot, at three quarters of what they would fetch packed; bags,
   cases and large ammo boxes he will not open. The gang pays out of its own cash, and buys only as much as that
-  covers: the menu shows what it has to spend. The more you have sold to a gang, the better it pays, and a corner pays
-  less for a while after a big load. A big sale can get a tip to the police. `/sell` from the driver's seat still
-  works too.
+  covers: the menu shows what it has to spend. The better the gang thinks of you, the better it pays, up to 15% more;
+  one that thinks nothing of you, or worse, pays you what it pays anybody. Each crate in a load fetches a little less
+  than the one before, and a corner pays less for a while after a big load. A big sale can get a tip to the police.
+  `/sell`, on foot at the dealer's side, sells him everything he takes out of the vehicle beside him. A gang's own vans
+  and cars are not yours to sell from.
 - **Buying guns.** A gang that counts you a friend sells you its own guns and rounds, cheaper than Ammu-Nation, in
   cash: a **gun case** (one of its guns and a few magazines of rounds, carried at your side: **Take everything out** in your
   inventory, or <kbd>Y</kbd> on it where it lies, puts both in your pockets) or an **ammo box** of rounds (use it in your inventory to tip the rounds into your pockets). The money
@@ -160,15 +163,15 @@ their own ground:
 - **A mugging.** Somebody held up in the street, or at an ATM, by one of a gang: they hold the wallet out. Officers
   are told. Nobody steps in and he either runs with it or shoots them first. Go for him and he fights; drop him and the wallet is on the ground, and the victim shows
   **Give the wallet back** the same way.
-- **A supply run.** One of a gang carries crates of its guns and rounds (or boxes of its product, for a drugs corner)
-  into a van, then they drive them to one of their corners, where he carries each to the dealer, who takes it inside a little later. The van also has a gun
+- **A supply run.** One of a gang carries crates of its guns, of their rounds, or of both (or boxes of its product, for a
+  drugs corner) into a van, then they drive them to one of their corners, where he carries each to the dealer, who takes it inside a little later. The van also has a gun
   case and a few ammo boxes in the back, and once in a long while a large ammo box full of them. Stop it and they fight; with them down,
   what is in the back is in the back for whoever opens it. A crate grabbed off the ground while they load, out of
   the van or from the dealer's feet is yours, and the gang knows who took it. A crate or box set down on the ground
   shows a prompt of its own: pick it up, or break it open with a blade or a crowbar, and what was in it spills out beside it.
 
 - **A weapons deal.** Two gangs meeting out of the way, two cars parked side by side. The two in charge meet behind
-  the cars and talk; one of the sellers carries the crates (the sellers' own guns, or rounds for them) across to the buyers' car
+  the cars and talk; one of the sellers carries the crates (the sellers' own guns, rounds for them, or both) across to the buyers' car
   one at a time, and one of the
   buyers brings a case of cash over. Officers get a tip. Left alone they shake on it, get in and drive off, one car after the other; some deals go
   wrong on their own, and then the two sides shoot it out and the money lies where they stood. Shoot the man carrying
@@ -210,7 +213,8 @@ guns.
 ## Gang wars
 
 Gangs get on with each other, or they don't: a truce, tension or a war between each pair, shown in `/gangs`. A deal gone
-wrong or a raid pushes two gangs towards war; a deal done and quiet days calm them down.
+wrong or a raid pushes two gangs towards war; a deal done and quiet days calm them down. A war lasts while it is fought:
+every raid on the streets keeps it going, and only a quiet day calms it a step.
 
 A gang at war **raids** the other: its people drive up to one of the other gang's corners or its hideout, get out and
 shoot it out with whoever is there. You can stay out of it, or pick a side. If the raiders win they take part of the
@@ -224,7 +228,7 @@ killing its people, shaking down its dealers and taking its crates turn it again
 wears off slowly. `/gangs` shows where you stand with each gang:
 
 - **Friendly**: its people at a job or a hideout leave you alone, however close you come, and its corners sell you
-  its guns.
+  its guns. The better it thinks of you, the more its corners pay you for what you sell them.
 - **Neutral**: you are warned off, as above.
 - **Hostile**: its people come for you when they see you with a weapon out, at a job, at its hideout and on its
   corners. Empty-handed, you are warned off like anybody else.

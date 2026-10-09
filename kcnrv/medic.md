@@ -56,7 +56,10 @@ symptoms and pick the one treatment that works from the menu on them:
 | Burning up, fitting | **Give Medication** |
 
 The wrong one does nothing, and you can try again while there is time. Bringing somebody round pays **$2,000** in
-cash and 25 XP, once for the same patient in half an hour.
+cash and 25 XP, once for the same patient in half an hour, and once a day for the same medic and patient.
+
+With no medic on duty, a patient can still be saved by anybody with an **Overdose Kit**, or driven to a hospital: see
+[Drugs](../drugs/).
 
 **An addiction** is treated from **Treat Addiction** in the menu on a civilian: they pay $2,500 and you get half. See
 [Drugs](../drugs/).
