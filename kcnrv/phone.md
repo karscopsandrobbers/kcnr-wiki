@@ -39,7 +39,8 @@ Open **Messages** to text a number or a contact, up to 160 characters, with emoj
 - **A photo** from your Photos (the camera button in a conversation).
 - **A pin on the map** where you're standing (the pin button). Whoever gets it taps it to set a waypoint there.
 
-A text that comes in while your phone is away shows on screen with a tone. Texts wait for somebody who isn't on. A
+A text that comes in shows at the top of your phone with a tone; if your phone is away, it peeks up from the bottom
+of the screen to show it and goes back down. Click one with your phone out to open the conversation. Texts wait for somebody who isn't on. A
 text from **KCNR Staff** is from the server's admins; you can't reply to it, so answer with `/report` if you need to.
 
 ## Contacts
@@ -51,7 +52,7 @@ call, or **Block** them: a blocked number can't ring or text you, and they aren'
 ## Camera and Photos
 
 **Camera** takes real photos, with its keys on screen: <kbd>Enter</kbd>, <kbd>Space</kbd> or the left mouse button
-takes one, <kbd>E</kbd> turns the camera round for a selfie (rebind it in FiveM's key bindings), the scroll wheel zooms,
+takes one, the middle mouse button turns the camera round for a selfie (rebind it in FiveM's key bindings), the scroll wheel zooms,
 and <kbd>Backspace</kbd>, <kbd>Esc</kbd> or the right mouse button puts it away and brings your phone back. The rest are
 GTA's own phone camera keys, so they follow whatever you've bound them to in its settings. Your photos
 are in **Photos**: look at one, send it in a message, or delete it. Your phone keeps your 40 newest.

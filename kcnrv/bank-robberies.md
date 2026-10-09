@@ -55,7 +55,8 @@ The clock is **6 minutes**, or **12 at Pacific Standard**, from the moment the j
      one and a half times as fast. You can't move or crouch until the bag is zipped. Right-click to stop and step away
      with what you've bagged: whoever grabs that trolley next, you or a crewmate, carries on from where you stopped.
    - **Deposit boxes** (Fleeca): <kbd>G</kbd> at a box with the drill, a worn duffel bag and free arms. Six of the nine
-     are worth drilling, different ones every job; about one in ten is empty, the rest hold a piece of jewellery.
+     are worth drilling, different ones every job; about one in ten is empty, the rest hold a piece of jewellery. A
+     piece your bag has no room for lands on the floor at your feet.
 5. **Get out.** Once the vault's open, the job ends when the whole crew is out of the building, or on the clock. If
    anything noticed you, each robber gets **2 stars and an APB**.
 

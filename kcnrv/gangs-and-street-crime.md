@@ -65,7 +65,7 @@ them for 2 minutes either, and they can't rob anyone themselves in that time.
 ## Taking somebody away
 
 Somebody with their hands up, surrendering or held up at gunpoint, can be picked up (**Lift Up**) and carried to a
-car: at the car, <kbd>E</kbd> puts them in the back seat and <kbd>Y</kbd> in the boot. Picking up somebody you are
+car: over the car, <kbd>E</kbd> puts them in the back seat, and at its boot, <kbd>Y</kbd> puts them in the boot. Picking up somebody you are
 holding up ends the hold-up. Anybody else won't go quietly. Putting somebody in a car is **Kidnapping**, 4 stars.
 
 They can't get out until you let them out (<kbd>G</kbd> at the car), an officer does, the car is wrecked, or you leave

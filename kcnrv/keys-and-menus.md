@@ -82,7 +82,9 @@ swapping in a plane. You can't swap onto a seat with a bag on it, and you're tol
 
 - <kbd>X</kbd> on anybody alive right next to you, a player or a passer-by, offers **Lift Up** (over your shoulder) and
   **Piggyback** (you climb on their back). It isn't offered while you are already carrying, in an animation or attached,
-  or on somebody cuffed or being frisked. <kbd>Left Alt</kbd> puts them down, or gets you off.
+  or on somebody cuffed or being frisked. <kbd>Left Alt</kbd> puts them down, or gets you off. Carrying a passer-by or a
+  body to a car, <kbd>E</kbd> over the car puts them in a back seat and <kbd>Y</kbd> at the boot puts them in the boot;
+  anybody can take them out of the boot again with <kbd>G</kbd> at the boot.
 - Stand next to a body, a player's too, and a prompt offers **Hold to pay respects**: hold <kbd>F</kbd> for a second.
   A quick tap of <kbd>F</kbd> still gets you into a car. You can pay once per body. What happens to a player who dies is on [Death and respawn](../death-and-respawn/).
 

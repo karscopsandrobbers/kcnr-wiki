@@ -76,7 +76,7 @@ own.
 
 ## Keys and locks
 
-Your account is the key. <kbd>X</kbd> on your personal vehicle, on foot: Toggle Lock, Toggle Engine, Doors (hood and trunk too)
+Your account is the key. <kbd>X</kbd> on your personal vehicle, on foot: Toggle Lock, Toggle Engine (a bicycle has none), Doors (hood and trunk too)
 and Windows; on anyone else's, just Doors and Windows while it's unlocked. `/lock` and `/unlock` work on the car you're
 in, your personal vehicle within 4 m, or the last car you drove. Locked, nobody else can open its doors or boot, and the lock
 stays through logouts. You can lock a street car that's nobody's, and then only you can unlock it. `/engine` switches

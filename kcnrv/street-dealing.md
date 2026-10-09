@@ -35,7 +35,7 @@ While you work, bars at the bottom right show:
 The keys show at the bottom right, and work anywhere around the spot: <kbd>+</kbd> and <kbd>-</kbd> move your price,
 <kbd>H</kbd> strikes a pose while you wait and changes it on the next press (smoking, hanging out, leaning, wary and more),
 held it stops posing, and <kbd>Backspace</kbd> stops working. All of them can be changed in your FiveM key bindings. Stay close to the spot, on foot.
-Walk off, get in a vehicle, run out of things to sell, or let the spot run dry, and you stop.
+Walk off, get in a vehicle, run out of things to sell, or let the spot run dry, and you stop, and so does your pose.
 
 ## Customers
 

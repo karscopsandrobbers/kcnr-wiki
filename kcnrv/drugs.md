@@ -71,8 +71,8 @@ wheel puts you out of the driver's seat.
 - **An Overdose Kit.** $500 at any hospital's desk, or $2,500 at a 24/7, where it is always on the counter. Anybody
   carrying one picks **Use Overdose Kit** from the menu on you while you're down and gives you a shot. A few seconds
   later you're brought round, whatever you took. The kit is used up.
-- **A hospital.** They pick you up (**Lift Up**) and carry you to a car: at the car, <kbd>E</kbd> puts you in the back
-  seat and <kbd>Y</kbd> in the boot. While they carry you, or drive you, they see your clock too, and the nearest hospital
+- **A hospital.** They pick you up (**Lift Up**) and carry you to a car: over the car, <kbd>E</kbd> puts you in the back
+  seat, and at its boot, <kbd>Y</kbd> puts you in the boot. While they carry you, or drive you, they see your clock too, and the nearest hospital
   is put on their map. You can get out of the car while you're down, but the nearer the end, the likelier you stumble
   and fall as you do. Get you to a hospital's door before the clock runs out and they bring you round there, for a
   **$1,000** bill out of your cash (never more than you have on you). Whoever drove you in is paid **$500** and some XP

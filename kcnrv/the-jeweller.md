@@ -29,8 +29,8 @@ cutting the power (below) is the only way to unlock them.
 2. **Start.** Point a weapon at the shop assistant to empty the till, or start on a case. Either way, everyone who
    joins is in the same job.
 3. **The cases.** There are 20, each holding one piece that goes into your bag. One robber works a case at a time, and a smashed case stays gone until
-   the shutters come back up and the glass returns. If your bag leaves you between claiming a case and opening it, the
-   piece lands on the floor at your feet. **The first case you smash sets off the
+   the shutters come back up and the glass returns. If your bag leaves you between claiming a case and opening it, or
+   has no room for the piece, the piece lands on the floor at your feet. **The first case you smash sets off the
    alarm**, unless you disabled it or cut the power; gas doesn't stop the glass sensors.
 4. **The guards.** Two guards draw on robbers, shooters and whoever set off the alarm, unless they're gassed. A guard you
    shoot fights back. One who sees you with a weapon out warns you and covers you, and draws for real if you keep it
