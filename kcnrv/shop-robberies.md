@@ -101,7 +101,9 @@ A gun in your hand makes the ones who would have a go rarer. Point it at one who
 
 - A hold-up anybody noticed is **1 star**, and 1 more if somebody reports it. The panic button means an ordinary shop
   always notices. A statement from somebody who only saw a mask gives the police a description of the mask, not a name. See [Wanted level and heat](../wanted-level-and-heat/).
-- The shop shuts for **10 minutes**, and you can't rob it again for 10 minutes; every other shop is fair game. `/rcd`
+- The shop shuts for **10 minutes**, and you can't rob it again for 10 minutes; every other shop is fair game. A 24/7,
+  a gas station's shop or a Rob's Liquor locks its front doors for that long, once nobody is inside or standing at
+  them. `/rcd`
   lists your cooldowns. Walk in meanwhile and a wanted customer is turned away ("I can't help you if the cops are after
   you!"); anybody else is told how many minutes until it reopens, or, after a scare that never became a robbery, that
   there was a situation here.

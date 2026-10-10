@@ -226,10 +226,11 @@ Krieger and $249,500 on an Emerus.
 | Custom plate text | $5,000 |
 
 - **Every part your car has is on the menu**, by the name GTA Online gives it on that car, door parts on Benny's
-  cars included.
+  cars included, with GTA Online's line about what it does underneath.
 - **A roof** for the cars whose roof comes off (Banshee, Banshee 900R, Stinger, the Coquettes, Chino, Voltic and
   others), under Bodyparts. Your car keeps the roof you chose, and the hardtop no longer comes and goes between
-  spawns. A personal car also keeps the bits it came with (its extras) from the first time you drive it.
+  spawns. A personal car also keeps the bits it came with (its extras) and its own horn from the first time you drive
+  it.
 - **Liveries, roof liveries and the interior colour** are there for the cars that have them.
 - **Plate text** is 1 to 8 letters, numbers and spaces, and no other car may be wearing it.
 - **Rims** with several designs (Benny's, Bespoke, Track, Street) are one row: press left and right to preview each

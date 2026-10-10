@@ -26,6 +26,10 @@ opens: Total level 3
 
 The clock is **6 minutes**, or **12 at Pacific Standard**, from the moment the job starts.
 
+Three Fleeca branches keep banking hours on the game clock: Great Ocean Highway **07:00 to 19:00**, and East Hawick
+and Hawick Avenue (Burton) **07:00 to 18:00**. Outside them, and after a job there, their front doors lock once nobody
+is inside or standing at them; cutting the power unlocks them. The other banks never lock their front doors.
+
 ## How it works
 
 1. **Prepare (optional).**
