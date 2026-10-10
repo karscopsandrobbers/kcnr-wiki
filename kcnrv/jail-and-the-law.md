@@ -17,15 +17,24 @@ Pay it at any police station desk. You can't join the police while one is unpaid
 ## Arrest (4 stars or more)
 
 The officer has to be within 4.5 m of you (more if you're in the same vehicle, less indoors). Cuffing takes 5.5
-seconds, and the arrest completes about 4 seconds later. `/breakcuffs` (`/bc`) gives you a 5 in 16 chance of breaking
-free, every 10 seconds; a failed try is **Escape**, 1 star, and the whole server hears about it.
+seconds, a little longer with an APB, when you're tackled; the arrest completes about 4 seconds later, and you're held
+still until it does. `/breakcuffs` (`/bc`) gives you a 5 in 16 chance of breaking free, every 10 seconds; a failed try
+is **Escape**, 1 star, and the whole server hears about it.
 
-**Takedown:** killed by an officer while you have 4 or more stars, you go to a cell just as if you'd been arrested.
+The arrest is off if you break free, or the officer goes down, goes off duty, leaves or walks away from you. **Quitting
+is not a way out**: quit mid-arrest and you're arrested as you go, and you log back in to your cell. Quitting in jail
+doesn't end your sentence either.
+
+**In cuffs** you can walk, but you can't run, jump, fight, aim, shoot, switch weapons, take cover or get in or out of a
+vehicle. Only somebody wanted can be cuffed.
+
+**Takedown:** killed by an officer while you have 4 or more stars, you go to a cell just as if you'd been arrested. Not
+while you're already being arrested: dying then just ends the arrest.
 
 ## Stopping when told
 
 An officer's megaphone reaches you within 30 m. You have 5 seconds to pull over, or on foot to kneel (`/kneel`) or
-surrender (`/surrender`, `/handsup`); <kbd>G</kbd> stops kneeling or surrendering. Ignoring it is Evading Police, one
+surrender (`/surrender`, `/handsup`); <kbd>G</kbd> gets you back on your feet. Ignoring it is Evading Police, one
 more star.
 
 ## Being searched

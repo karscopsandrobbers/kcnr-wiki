@@ -62,19 +62,21 @@ The middle mouse button does whichever applies; `/ticket` (`/tk`) and `/arrest` 
 their stars. The fine depends on their recent crimes. If they don't pay, it becomes **Unpaid Ticket**, 4 stars, and
 they're arrestable.
 
-**An arrest**: the cuffs go on and the arrest completes about 9.5 seconds later. A cuffed suspect can try
-`/breakcuffs`. They serve 30 seconds in a cell, 60 with an APB, and their personal vehicle, if it's nearby, goes to the impound. If a tow driver of rank 3 is on duty nearby, the car
+**An arrest**: the cuffs go on and the arrest completes about 9.5 seconds later; a suspect with an APB is tackled, which
+takes a second or so longer. They're held still while you do it, and can try `/breakcuffs`. Stay with them: if they
+break free, or you go down, go off duty, leave or walk away from them, the arrest is off. A suspect who quits while
+you're arresting them is arrested anyway, and you're paid for it. They serve 30 seconds in a cell, 60 with an APB, and their personal vehicle, if it's nearby, goes to the impound. If a tow driver of rank 3 is on duty nearby, the car
 waits at the kerb for up to 2 minutes as a live tow call, and you're told a tow has been called. Nobody can drive it
 away meanwhile. If no driver comes, the lot sends its own truck. See [Tow dispatch](../tow-dispatch/).
 
 **A takedown**: killing a civilian with 4 or more stars counts as an arrest. It pays the full arrest money but only
-three quarters of the XP.
+three quarters of the XP. A suspect killed while you're already arresting them is neither: the arrest is off.
 
 ## Your tools
 
 | Key | Tool | |
 | --- | --- | --- |
-| <kbd>X</kbd> | The interaction menu on a civilian | Frisk (within 1.5 m), Handcuff, Remove Handcuffs, Grab someone who's given up, Check Licence on somebody fishing (no licence is 1 star) |
+| <kbd>X</kbd> | The interaction menu on a civilian | Frisk (within 1.5 m), Handcuff somebody wanted, Remove Handcuffs, Grab someone who's given up, Check Licence on somebody fishing (no licence is 1 star) |
 | <kbd>M</kbd> | Megaphone | A stop order to a pursued suspect within 30 m: 5 seconds to pull over, or kneel or surrender on foot; ignoring it is Evading Police, one more star. Once a minute per suspect. If they comply, your arrest pays 25% more |
 | <kbd>Left Alt</kbd> | Police tech | Cones, flares, barriers, stingers or an oil slick, on foot or from a police vehicle on all four wheels. How long it stays down grows with your rank; up to 15 of yours can be down at once |
 | <kbd>1</kbd> | Plate reader | In a police vehicle, reads cars up to 40 m ahead. A car flagged at a crime scene names its driver, gives you contact on them and goes out on dispatch |
