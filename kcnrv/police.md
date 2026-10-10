@@ -114,6 +114,8 @@ dose, sell on a corner or hand drugs over charges them, and drugs you book in a 
 Trafficking for a dealer's amount. See [Drugs](../drugs/).
 
 **Frisking** is a contest: see [Jail and the law](../jail-and-the-law/) for how a frisk plays out from both sides.
+It finds the guns they carry as well as their pockets: a registered one is legal and stays with them; an unregistered one
+booked is Illegal Firearm Possession, 1 star.
 <kbd>Backspace</kbd> stops it before you've looked: nothing is found, and they're let go.
 What you find is your choice, one find at a time or all of them: send it into evidence for a bounty, or keep it and take the risk. They're told what you found on them, and what you did with it. Something a suspect holds in their hands, like a briefcase, falls to the ground when you frisk them, and you pick it up from there: see [Carrying things](../carrying-things/).
 

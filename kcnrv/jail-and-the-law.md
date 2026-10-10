@@ -50,7 +50,9 @@ An officer can frisk a civilian within 1.5 m, and for three and a half seconds y
 - **The officer** sees nothing for those seconds, and can <kbd>Backspace</kbd> to stop, then a list: contraband in red, legal items in white. Each illegal
   find goes into evidence, or the officer keeps it and takes the risk, one at a time or all at once. You're told what
   they found on you, and what became of it. Drugs sent into evidence charge you: Drug Possession,
-  1 star, or Drug Trafficking, 2 stars, for more than 20 doses (see [Drugs](../drugs/)).
+  1 star, or Drug Trafficking, 2 stars, for more than 20 doses (see [Drugs](../drugs/)). The frisk finds the guns you
+  carry too: one with a registered serial (Ammu-Nation's, or your team's) is left with you; an unregistered one booked
+  into evidence is **Illegal Firearm Possession**, 1 star.
 
 Resist and you can't be frisked again for 45 seconds.
 

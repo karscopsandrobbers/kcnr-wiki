@@ -224,7 +224,8 @@ A 24/7's menu has Food and Drinks submenus. Press <kbd>Y</kbd> at a counter to o
 - **A gun comes empty, and its rounds are bought right after**: its menu moves on to its ammo, where you choose how many
   magazines, or **Fill up**, and they go straight into the gun. Fill up stops at what the game lets you carry, which
   grows with your shooting skill. A melee weapon or a jerrycan comes with nothing, and a fire extinguisher comes full.
-  Buy more than one gun and the rest go in your pockets, empty; **Withdraw** in the inventory puts one on you.
+  Buy more than one gun and the rest go in your pockets, empty; **Withdraw** in the inventory puts one on you. Every gun
+  bought here has a **registered serial**, so a frisk leaves it with you.
 - **Thrown weapons** (grenades, molotovs and the like) all go into your hand, as many as you can carry; you are not
   charged for any that would not fit. Ones in your pockets join the ones in your hand when you take them out.
 - **A gun you already carry** is listed as its rounds, such as **Carbine Rifle Ammo**, at every Ammu-Nation, whether
@@ -370,11 +371,11 @@ An item is either legal or **contraband**, and a police search separates the two
 
 | Contraband | Legal |
 | --- | --- |
-| Guns and rifles, explosives (grenades, sticky bombs, pipe bombs, proximity mines) and molotovs, drugs, seeds, sealed G6 cargo, crates, a blow torch, a big rotary drill, a slim jim, coca leaves, opium paste, a hacking laptop and a USB hacking drive | Melee weapons, tear gas, BZ gas, flares, baseballs and snowballs, a stun gun and a fire extinguisher, rounds and ammo boxes, armour, valuables, bags, food and drink, phones, masks |
+| Guns and rifles with no registered serial, explosives (grenades, sticky bombs, pipe bombs, proximity mines) and molotovs, drugs, seeds, sealed G6 cargo, crates, a blow torch, a big rotary drill, a slim jim, coca leaves, opium paste, a hacking laptop and a USB hacking drive | A gun with a registered serial (one bought at Ammu-Nation or issued to your team), melee weapons, tear gas, BZ gas, flares, baseballs and snowballs, a stun gun and a fire extinguisher, rounds and ammo boxes, armour, valuables, bags, food and drink, phones, masks |
 
-A frisk goes through **your pockets**, which is why a spare gun in them shows up and the guns on your weapon wheel
-don't. For six seconds you can bury up to three piles (contraband first, six taps of <kbd>E</kbd> each), and a worn
-duffel bag costs you two of those three. The officer then sees what's left, contraband in red, and either **books it
+A frisk goes through **your pockets and the guns you carry**: a gun with a registered serial is legal and left with you;
+one without is contraband. For three and a half seconds you can bury up to three things (contraband first, six taps of
+<kbd>E</kbd> each), and a worn duffel bag costs you two of those three. The officer then sees what's left, contraband in red, and either **books it
 into evidence** (it's destroyed and the city pays a bounty) or **pockets it**, which is dirty and the suspect sees. A
 frisk ends if either of you dies. See [Jail and the law](../jail-and-the-law/) and [Police](../police/).
 

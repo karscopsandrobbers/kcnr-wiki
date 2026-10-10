@@ -145,7 +145,10 @@ Walk up to a corner's dealer and press <kbd>E</kbd> on **Deal with the** gang.
   cheaper than Ammu-Nation; anybody else gets its drugs only, unless the gang is broke and needs the money, when it
   sells its guns to anybody it has no quarrel with. In
   cash: a **gun case** (one of its guns and a few magazines of rounds, carried at your side: **Take everything out** in your
-  inventory, or <kbd>Y</kbd> on it where it lies, puts both in your pockets) or an **ammo box** of rounds (use it in your inventory to tip the rounds into your pockets). The money
+  inventory, or <kbd>Y</kbd> on it where it lies, puts both in your pockets) or an **ammo box** of rounds (use it in your inventory to tip the rounds into your pockets). About
+  one gang gun in four has a clean registered serial (stolen from a legal owner) and passes a frisk; the rest are
+  unregistered, and an officer who finds one can book it and charge you. The same goes for the guns in a gang's crates
+  and the gun off a dead gang member. The money
   is the gang's, and the guns come off its own stock: a gang with none left has none to sell until somebody sells it
   more. A gang only sells what it carries itself:
 
