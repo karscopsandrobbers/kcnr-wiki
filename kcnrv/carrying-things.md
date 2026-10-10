@@ -104,8 +104,9 @@ things go in the boot.
 - **At the door,** <kbd>E</kbd> on the seat says **Put the (thing) on the seat** when you hold one and the seat is free,
   or **Take the (thing)** when something is on it.
 - **Who can:** anybody who could get into the car: it is unlocked, or yours, or its window is smashed, or its roof is
-  down. **Taking something off from outside** only works through a window with the glass out, or with the roof down.
-  With the glass in, the prompt just says what is on the seat, or that it is locked.
+  down. **Taking something off from outside** only works through a window with the glass out, with the roof down, or
+  with that seat's door open (the <kbd>X</kbd> menu's Doors open them). With the glass in and the door shut, the prompt
+  just says what is on the seat, or that it is locked.
 - **Nobody can sit on a loaded seat.** You're told there's something on it. One thing to a seat, and two people can't
   load the same seat at once.
 - **A personal vehicle keeps what's on its seats** through a relog. In any other vehicle, whatever's on a seat goes when the

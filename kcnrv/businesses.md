@@ -65,8 +65,10 @@ same business again within 30 days of your last lease there ending counts as the
 last 7 days of a term (the last half of a 7-day lease), and the new days go on the end. **Selling back** (Sell Back,
 twice) returns half your unused days, at your lease's own daily rate, into your bank (or the group bank for a group's
 slot). **You're warned when a lease is running out**: at 7, 3 and 1 days left, but only the marks shorter than the
-term, so a 7-day lease warns at 3 and 1. When a lease runs out or is sold back, what's left in the safe, less 6%, is
-paid out first: into your next paycheck, or the group bank for a group's slot.
+term, so a 7-day lease warns at 3 and 1. A warning you were away for comes when you're back on. When a lease runs out
+or is sold back, what's left in the safe, less 6%, is paid out first: into your next paycheck, or the group bank for a
+group's slot. If the group bank is full, or the group is gone, it goes into the paycheck of whoever signed the lease.
+**A lease that ends while you're offline** is told to you when you log in (for a group's slot, to the first member on).
 
 ## What a slot earns
 
@@ -125,7 +127,8 @@ three $2,667, four $2,500. You're paid in full if you were in it for a minute, h
   away once nobody is near it.
 - **While the place is smashed up** every other job is refused: Defend is the only one offered until it's put right.
 - **A won Defend** puts back less condition than other jobs and keeps the gang away for 3 game days to the hour, about
-  2.4 real hours. The enemies carry pistols, micro SMGs, bats and machetes, and each shows as a red dot on the map.
+  2.4 real hours. The enemies walk in from out of sight on the streets round the business, carrying pistols, micro
+  SMGs, bats and machetes, and each shows as a red dot on the map.
 - **On screen**, a job shows the next stop as a blip with a route and a marker on the ground, and bars for the time
   left, your pay, the crew (always the last bar) and, in a defence, the enemies left.
 
@@ -155,11 +158,12 @@ or not anybody sees him, and he can't be robbed.
 
 After a refusal the gang comes a few minutes later, and **the holders are warned ahead**. **They only come while a
 holder is online**: with every holder away they wait, and whoever logs in first is warned before they turn up. With a
-player nearby, three of them walk in with bats and smash the place, and dropping all
-three in time stops it. If they win (or they're still fighting after a good while), or if nobody's near, the place is
+player nearby, three of them walk in with bats and smash the place. **Point a gun at them**, hit one or kill one and
+they all turn on you; dropping all three in time stops it. The smashing only gets done while they're at the place, so
+drawing them away buys time. If they win (or they're still fighting after a good while), or if nobody's near, the place is
 **smashed up**: condition drops sharply, the police are called, and it earns nothing of its own and gets no customers
-until **Defend** is run or the holders vote to pay. If they can't show up in front of you (they never reach the place),
-they come back a game hour (2 real minutes) later instead. A holder who was away when it was smashed is told on logging in. A smashed place also has
+until **Defend** is run or the holders vote to pay. If they can't show up in front of you (they never reach the place,
+or they're kept away from it too long), they come back a game hour (2 real minutes) later instead. A holder who was away when it was smashed is told on logging in. A smashed place also has
 **wreckage** scattered round its dollar sign until it's put right, and that stays through a restart.
 
 ## Rivals

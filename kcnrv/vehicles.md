@@ -23,7 +23,9 @@ vehicle** goal: $1,000 and 150 XP.
 | Higgin's Docktease | Boats | $4,200 to $530,000 |
 
 No dealership sells helicopters, planes, lorries, or the armed and military specials, and the Kosatka submarine isn't
-for sale either.
+for sale either. Nor are the **drift versions** of cars (the Drift Yosemite and the rest): in GTA Online those are a
+tune put on the car, not a car of their own. A convertible a dealership already sells in its own class isn't listed a
+second time under Convertibles.
 
 **How a price is set:** by how fast the vehicle is, lap time counting three quarters and top speed a quarter. A
 motorbike costs a tenth of a car that's just as fast; boats and bicycles cost a quarter of their GTA Online price.
