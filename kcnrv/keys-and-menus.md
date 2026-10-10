@@ -80,6 +80,8 @@ swapping in a plane. You can't swap onto a seat with a bag on it, and you're tol
 
 ### People
 
+- A player who can't stop you, or is lying down (overdosing, surrendering, held up, knocked down or prone), shows
+  <kbd>G</kbd> **Lift up** over them as you walk up.
 - <kbd>X</kbd> on anybody alive right next to you, a player or a passer-by, offers **Lift Up** (over your shoulder) and
   **Piggyback** (you climb on their back). It isn't offered while you are already carrying, in an animation or attached,
   or on somebody cuffed or being frisked. <kbd>Left Alt</kbd> puts them down, or gets you off. Carrying a passer-by or a

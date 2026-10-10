@@ -16,9 +16,9 @@ Pay it at any police station desk. You can't join the police while one is unpaid
 
 ## Arrest (4 stars or more)
 
-The officer has to be within 4.5 m of you (more if you're in the same vehicle, less indoors). You put your hands up and
-kneel, and you're cuffed on the ground; with an APB you're tackled where you stand instead. Then you're stood up and
-walked into the back of a police car (any emergency vehicle, or the officer's own car) if one is near, and the arrest completes once you're in it; with none near, a few
+The officer has to be within 4.5 m of you (more if you're in the same vehicle, less indoors). You're taken where you stand
+and cuffed, then walked, hands behind your back, into the back of a police car (any emergency vehicle, or the officer's own car; the
+passenger seat of a two-seater) if one is near, and the arrest completes once you're in it; with none near, a few
 seconds after the cuffs. You're held still until it does. `/breakcuffs` (`/bc`) gives you a 5 in 16 chance of breaking free, every 10 seconds; a failed try
 is **Escape**, 1 star, and the whole server hears about it.
 
@@ -27,8 +27,8 @@ is not a way out**: quit mid-arrest and you're arrested as you go, and you log b
 doesn't end your sentence either.
 
 **In cuffs** you walk like a prisoner, hands behind your back. You can't run, jump, fight, aim, shoot, switch weapons,
-take cover or get in or out of a vehicle. Only somebody wanted can be cuffed, and an officer cuffs you the same way, on
-your knees first, even when it isn't an arrest.
+take cover, or get in or out of a vehicle or change seats; an officer walks you into a police car, and takes you out. Only somebody wanted can be cuffed, and an officer cuffs you the same way even
+when it isn't an arrest.
 
 **Takedown:** killed by an officer while you have 4 or more stars, you go to a cell just as if you'd been arrested. Not
 while you're already being arrested: dying then just ends the arrest.
@@ -39,18 +39,20 @@ An officer's megaphone reaches you within 30 m. You have 5 seconds to pull over,
 surrender (`/surrender`, `/handsup`); <kbd>G</kbd> gets you back on your feet. Ignoring it is Evading Police, one
 more star.
 
-## Being searched
+## Being frisked
 
 An officer can frisk a civilian within 1.5 m, and for six seconds you're playing different games:
 
-- **You** see a clock and a key. Every six taps of <kbd>E</kbd> hides one whole pile where the search won't reach it,
+- **You** see the frisk's bar counting down, **HIDDEN** with a circle for each thing you could hide, and **NEXT** filling
+  as you tap. Every six taps of <kbd>E</kbd> hides one whole pile where the frisk won't reach it,
   up to three (contraband first). A worn duffel bag costs two of the three. <kbd>Backspace</kbd> pulls away instead,
-  which ends the search and is Escape, 1 star; so is walking more than 3 m off. Cuffs take that option away.
-- **The officer** sees nothing for those six seconds, then a list: contraband in red, legal items in white. Contraband
-  goes into evidence, or the officer keeps it and takes the risk. Drugs sent into evidence charge you: Drug Possession,
+  which ends the frisk and is Escape, 1 star; so is walking more than 3 m off. Cuffs take that option away.
+- **The officer** sees nothing for those six seconds, then a list: contraband in red, legal items in white. Each illegal
+  find goes into evidence, or the officer keeps it and takes the risk, one at a time or all at once. You're told what
+  they found on you, and what became of it. Drugs sent into evidence charge you: Drug Possession,
   1 star, or Drug Trafficking, 2 stars, for more than 20 doses (see [Drugs](../drugs/)).
 
-You can't be searched again for 45 seconds.
+You can't be frisked again for 45 seconds.
 
 ## Jail
 

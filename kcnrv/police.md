@@ -58,13 +58,22 @@ The suspect sees the same clock: see [Wanted level and heat](../wanted-level-and
 
 The middle mouse button does whichever applies; `/ticket` (`/tk`) and `/arrest` (`/ar`) work too.
 
+**Prompts on the person.** Walk up to a civilian and what you can do floats over them, no menu needed: the middle mouse's
+**Arrest** or **Ticket**, <kbd>E</kbd> **Handcuff** on somebody wanted, and once they're cuffed <kbd>E</kbd> **Frisk** and
+<kbd>G</kbd> **Grab**, and <kbd>Y</kbd> **Put in the car** when a police car or your own is near them: they're walked into it
+and stay cuffed in the seat. You're walked up to them first. <kbd>X</kbd> still opens the full list.
+
+**Spotting the wanted.** With somebody wanted in sight and not yet in contact, a help line offers the middle mouse for
+**visual contact** (that starts the chase) and <kbd>M</kbd> for the megaphone. It's only a hint: leave them be if you
+like. Once you're in contact and within the megaphone's reach, it offers <kbd>M</kbd> to order them to stop.
+
 **A ticket**: the driver has 30 seconds to pay it to an officer within 15 m with `/payticket` (`/pay`), which clears
 their stars. The fine depends on their recent crimes. If they don't pay, it becomes **Unpaid Ticket**, 4 stars, and
 they're arrestable.
 
-**An arrest**: you walk up to them while they put their hands up and kneel, and you cuff them there on the ground; a
-suspect with an APB is tackled where they stand instead. Then they're stood up and walked into the back of an emergency
-vehicle near them, or your own last car, and the arrest completes once they're in. With no car near, it completes a few seconds after the
+**An arrest**: you walk up to them and take them where they stand, and the cuffs go on. Then they're walked, hands behind their back, into the back of
+an emergency vehicle near them or your own last car (the passenger seat of a two-seater), and the arrest completes once
+they're in. With no car near, it completes a few seconds after the
 cuffs. They're held still the whole way, and can try `/breakcuffs`. Stay with them: walk with them to the car. If they
 break free, or you go down, go off duty, leave or walk away from them, the arrest is off. A suspect who quits while
 you're arresting them is arrested anyway, and you're paid for it. They serve 30 seconds in a cell, 60 with an APB, and their personal vehicle, if it's nearby, goes to the impound. If a tow driver of rank 3 is on duty nearby, the car
@@ -78,7 +87,8 @@ three quarters of the XP. A suspect killed while you're already arresting them i
 
 | Key | Tool | |
 | --- | --- | --- |
-| <kbd>X</kbd> | The interaction menu on a civilian | Frisk (within 1.5 m), Handcuff somebody wanted, Remove Handcuffs, Grab someone who's given up (<kbd>Left Alt</kbd> lets go), Check Licence on somebody fishing (no licence is 1 star) |
+| <kbd>X</kbd> | The interaction menu on a civilian | Frisk (within 1.5 m), Handcuff somebody wanted, Remove Handcuffs, Put In Car somebody cuffed, Grab someone who's given up (<kbd>Left Alt</kbd> lets go), Check Licence on somebody fishing (no licence is 1 star) |
+| <kbd>G</kbd> | Take them out | At a car somebody in cuffs is sitting in: takes them out. Cuffed, they can't get out on their own |
 | <kbd>M</kbd> | Megaphone | A stop order to a pursued suspect within 30 m: 5 seconds to pull over, or kneel or surrender on foot; ignoring it is Evading Police, one more star. Once a minute per suspect. If they comply, your arrest pays 25% more |
 | <kbd>Left Alt</kbd> | Police tech | Cones, flares, barriers, stingers or an oil slick, on foot or from a police vehicle on all four wheels. How long it stays down grows with your rank; up to 15 of yours can be down at once |
 | <kbd>1</kbd> | Plate reader | In a police vehicle, reads cars up to 40 m ahead. A car flagged at a crime scene names its driver, gives you contact on them and goes out on dispatch |
@@ -93,8 +103,8 @@ positive at the wheel is Driving Under the Influence, plainly high on foot Publi
 dose, sell on a corner or hand drugs over charges them, and drugs you book in a frisk charge Drug Possession, or Drug
 Trafficking for a dealer's amount. See [Drugs](../drugs/).
 
-**Frisking** is a contest: see [Jail and the law](../jail-and-the-law/) for how a search plays out from both sides.
-What you find is your choice: send it into evidence for a bounty, or keep it and take the risk. Something a suspect holds in their hands, like a briefcase, falls to the ground when you frisk them, and you pick it up from there: see [Carrying things](../carrying-things/).
+**Frisking** is a contest: see [Jail and the law](../jail-and-the-law/) for how a frisk plays out from both sides.
+What you find is your choice, one find at a time or all of them: send it into evidence for a bounty, or keep it and take the risk. They're told what you found on them, and what you did with it. Something a suspect holds in their hands, like a briefcase, falls to the ground when you frisk them, and you pick it up from there: see [Carrying things](../carrying-things/).
 
 **Booking what you carry.** Contraband in your own inventory, drugs you picked up or a crate in your arms, has **Book
 into evidence** on it: it goes, and the city pays its bounty as a frisk's booking does. Nobody is charged for it.
