@@ -55,6 +55,7 @@ The clock is **6 minutes**, or **12 at Pacific Standard**, from the moment the j
    - **Trolleys**: <kbd>E</kbd> at one (**Grab**, on the trolley). It takes about 37 seconds and brings its own bag. Hold <kbd>E</kbd> to grab
      one and a half times as fast. You can't move or crouch until the bag is zipped. Right-click to stop and step away
      with what you've bagged: whoever grabs that trolley next, you or a crewmate, carries on from where you stopped.
+     The job ending stops a grab the same way.
    - **Deposit boxes** (Fleeca): <kbd>G</kbd> at a box with the drill, a worn duffel bag and free arms. Six of the nine
      are worth drilling, different ones every job; about one in ten is empty, the rest hold a piece of jewellery. A
      piece your bag has no room for lands on the floor at your feet.

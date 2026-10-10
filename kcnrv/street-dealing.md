@@ -22,7 +22,7 @@ in how quickly they come. A bust burns it:
 sell to an undercover officer there, get seen selling there by an officer, or get arrested working it, and nobody buys
 there for a week. Its prompt says so.
 
-**Hot spots.** Four spots a day are on everybody's map, two in the city and two out in Blaine County, all well apart.
+**Hot spots.** Four spots a day are on everybody's map as a light red drugs icon, two in the city and two out in Blaine County, all well apart.
 They pay more. A new four every day at midnight UTC.
 
 While you work, bars at the bottom right show:

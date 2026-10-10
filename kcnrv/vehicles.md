@@ -133,16 +133,20 @@ complex, simple and off. See [Keys and menus](../keys-and-menus/).
 
 ## Fuel
 
-- Fuel burns only while the engine runs: by speed with your foot down, a trickle off the pedal. Big vehicles, a shot
-  fuel tank and each passenger burn it faster. Flat out at about 110 km/h (67 mph) an ordinary car empties a full
-  tank in about 12 minutes, a big one in about 9.
+- Fuel burns only while the engine runs: by speed with your foot down, a trickle off the pedal. A shot fuel tank and
+  each passenger burn it faster. Flat out at about 110 km/h (67 mph) an ordinary car empties a full tank in about 15
+  minutes.
+- **Big vehicles run on diesel** (trucks, buses, fire trucks, ambulances, box vans, campers, tow trucks) and go further
+  on a tank: about 20 minutes flat out. **A semi truck** (one that pulls trailers) goes four times as far as a car, about
+  an hour. A dealership's description says what each vehicle runs on.
 - A warning comes at 25%. At 0 the engine dies, and an empty car won't start.
 - Bicycles, boats, helicopters, planes and electric cars use no petrol. A street car's tank holds anything from 15%
   to full.
 
 **At the pump:** from the driver's seat, <kbd>E</kbd> at a pump. On foot, <kbd>E</kbd> at the pump takes the nozzle,
 <kbd>E</kbd> at the filler cap fills, and <kbd>E</kbd> at the pump hangs it back. You pay for what went in, **$8 for
-every 1%, $800 a full tank**, plus tax, from your cash; the pump stops when your cash does.
+every 1%, $800 a full tank**, plus tax, from your cash; the pump stops when your cash does. **Diesel is $2 more for
+every 1%**, $1,000 a full tank.
 
 | At the pump | |
 | --- | --- |
@@ -184,7 +188,10 @@ garage takes bicycles, boats, helicopters or emergency vehicles. You buy only wh
 - **Performance parts** cost a fixed price plus a share of the car's dealership price, so a hypercar's parts are dear
   and a cheap car's are never free. Each level costs more than the one before; prices are rounded to $50.
 - **Everything else** costs the same on any car: see the table.
-- Armour and nitro aren't for sale, putting a part back to stock is free, and 6% tax goes on top.
+- Armour (the armour plating and window armour some newer cars take too), Imani Tech (the remote control unit and
+  missile lock-on jammer), nitro and vehicle weapons aren't for sale,
+  putting a part back to stock is free, and 6% tax goes on top.
+- Parts are named the way GTA Online names them, in your game's language.
 - **Only personal vehicles keep their mods.** Work on any other car is lost when the car goes.
 
 | Part | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Plus a share of the car's price |
@@ -204,8 +211,9 @@ Krieger and $249,500 on an Emerus.
 | A small part (trims, dash, dials, doors, seats, plaques, speakers, aerials and the like) | $500 |
 | Hydraulics | $2,500 |
 | Drift tyres | $3,000 |
-| Horn, headlight colour, wheel colour, dashboard colour, neon colour, plate style | $500 each |
-| Rims, tyre design, tyre smoke, livery, xenons | $1,500 each |
+| Horn, headlight colour, wheel colour, dashboard colour, interior colour, neon colour, plate style | $500 each |
+| A roof (on the cars whose roof comes off) | $1,000, the car's own roof free |
+| Rims, tyre design, tyre smoke, livery, roof livery, xenons | $1,500 each |
 | Neon layout | $750 a strip: $750 for front or back, $1,500 for sides or front and back, $2,250 for three, $3,000 for all four |
 | Paint: classic or metallic | $500 |
 | Paint: pearlescent | $1,500 |
@@ -217,6 +225,12 @@ Krieger and $249,500 on an Emerus.
 | Window tint: Limo or Pure Black | $5,000 |
 | Custom plate text | $5,000 |
 
+- **Every part your car has is on the menu**, by the name GTA Online gives it on that car, door parts on Benny's
+  cars included.
+- **A roof** for the cars whose roof comes off (Banshee, Banshee 900R, Stinger, the Coquettes, Chino, Voltic and
+  others), under Bodyparts. Your car keeps the roof you chose, and the hardtop no longer comes and goes between
+  spawns. A personal car also keeps the bits it came with (its extras) from the first time you drive it.
+- **Liveries, roof liveries and the interior colour** are there for the cars that have them.
 - **Plate text** is 1 to 8 letters, numbers and spaces, and no other car may be wearing it.
 - **Rims** with several designs (Benny's, Bespoke, Track, Street) are one row: press left and right to preview each
   design, and <kbd>Enter</kbd> buys the one showing, unless it's marked `(installed)`.

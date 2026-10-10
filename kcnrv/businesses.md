@@ -71,8 +71,8 @@ paid out first: into your next paycheck, or the group bank for a group's slot.
 ## What a slot earns
 
 Every game day (48 real minutes) each slot gets the business's own earnings, scaled by its **condition** and **level**,
-plus an equal share of what players spent there: wash fees, club drinks (every drink is on a club's bar, <kbd>Y</kbd> at
-its markers), and at the yard a quarter of the metal value
+plus an equal share of what players spent there: wash fees, club drinks (every drink is on a club's bar: stand on one of its markers and the
+button shows, <kbd>Y</kbd>), and at the yard a quarter of the metal value
 of every car sold.
 
 - **Condition** (Supplies, Yard space or Popularity) runs 0 to 100, **starts at 60** and slowly drops as real time passes. A
@@ -153,7 +153,8 @@ Each slot votes **Pay** or **Refuse**; more refusals than payers refuses the gan
 collector counts as refusing. **The collector** waits 15 seconds at the dollar sign for the cut. It's taken whether
 or not anybody sees him, and he can't be robbed.
 
-After a refusal the gang comes a few minutes later, and **the holders are warned ahead**. With a
+After a refusal the gang comes a few minutes later, and **the holders are warned ahead**. **They only come while a
+holder is online**: with every holder away they wait, and whoever logs in first is warned before they turn up. With a
 player nearby, three of them walk in with bats and smash the place, and dropping all
 three in time stops it. If they win (or they're still fighting after a good while), or if nobody's near, the place is
 **smashed up**: condition drops sharply, the police are called, and it earns nothing of its own and gets no customers
