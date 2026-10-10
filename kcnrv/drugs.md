@@ -63,7 +63,8 @@ countdown, your heartbeat getting faster, and a line saying whether a medic is o
 is. Only the right treatment brings you round. If nobody gives it in time, you die.
 
 Which one depends on the drug: cocaine and meth stop the heart (**CPR**), heroin stops the breathing (**Naloxone**),
-and ecstasy overheats you (**Medication**). Brought round, you get up with some of your health back. Overdosing at the
+and ecstasy overheats you (**Medication**). The medic comes to you and kneels beside you, or gives CPR over you, and
+you're laid out for it. Brought round, you get up with some of your health back. Overdosing at the
 wheel puts you out of the driver's seat.
 
 **No medic on duty?** Somebody with you can still save you:

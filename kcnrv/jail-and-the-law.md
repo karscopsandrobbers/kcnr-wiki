@@ -16,17 +16,19 @@ Pay it at any police station desk. You can't join the police while one is unpaid
 
 ## Arrest (4 stars or more)
 
-The officer has to be within 4.5 m of you (more if you're in the same vehicle, less indoors). Cuffing takes 5.5
-seconds, a little longer with an APB, when you're tackled; the arrest completes about 4 seconds later, and you're held
-still until it does. `/breakcuffs` (`/bc`) gives you a 5 in 16 chance of breaking free, every 10 seconds; a failed try
+The officer has to be within 4.5 m of you (more if you're in the same vehicle, less indoors). You put your hands up and
+kneel, and you're cuffed on the ground; with an APB you're tackled where you stand instead. Then you're stood up and
+walked into the back of a police car (any emergency vehicle, or the officer's own car) if one is near, and the arrest completes once you're in it; with none near, a few
+seconds after the cuffs. You're held still until it does. `/breakcuffs` (`/bc`) gives you a 5 in 16 chance of breaking free, every 10 seconds; a failed try
 is **Escape**, 1 star, and the whole server hears about it.
 
 The arrest is off if you break free, or the officer goes down, goes off duty, leaves or walks away from you. **Quitting
 is not a way out**: quit mid-arrest and you're arrested as you go, and you log back in to your cell. Quitting in jail
 doesn't end your sentence either.
 
-**In cuffs** you can walk, but you can't run, jump, fight, aim, shoot, switch weapons, take cover or get in or out of a
-vehicle. Only somebody wanted can be cuffed.
+**In cuffs** you walk like a prisoner, hands behind your back. You can't run, jump, fight, aim, shoot, switch weapons,
+take cover or get in or out of a vehicle. Only somebody wanted can be cuffed, and an officer cuffs you the same way, on
+your knees first, even when it isn't an arrest.
 
 **Takedown:** killed by an officer while you have 4 or more stars, you go to a cell just as if you'd been arrested. Not
 while you're already being arrested: dying then just ends the arrest.

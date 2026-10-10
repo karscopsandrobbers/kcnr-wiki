@@ -30,7 +30,8 @@ your last one away once nobody is in it, and it goes when you leave the medics. 
    district and the distance: an Ambulance gets calls on land, the Lifeguard truck on the beaches.
 2. **Press <kbd>Y</kbd> within 35 seconds** to take it, or <kbd>N</kbd> (**Not now**) to turn it down. A patient blip and a
    waypoint appear.
-3. **Get out at the scene.** The patient menu offers the one treatment they need:
+3. **Get out at the scene.** The patient menu offers the one treatment they need, and you walk up to them and kneel
+   beside them, or give CPR over them:
 
    | Patient | Treatment |
    | --- | --- |
