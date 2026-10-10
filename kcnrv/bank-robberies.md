@@ -90,6 +90,10 @@ leaving out a bank's own while the 30 minutes run longer.
 **A clean job** (no alarm rang, nothing put a name to you, nobody in the bank saw it) gives no stars and no APB: you'll
 see a **[CLEAN]** message.
 
+**Seen by the police.** An officer who sees you while the job is running (until the whole crew is out of the building)
+can take visual contact on you there and then: you're at 4 stars for Robbery, arrestable, and the chase is on. Walls hide you; the mask
+keeps your name out of it, not the stars. Each robber they see is caught on their own.
+
 ## Hacking
 
 The terminal's puzzles, how your Hacking skill and Lester's gear make them easier, and what a lost attempt costs are

@@ -122,7 +122,8 @@ opium paste at the Ballas' and Aztecas'. The Vagos and the Lost sell pseudoephed
 street price: see [Street dealing](../street-dealing/).
 
 **At a corner.** Every gang corner buys doses out of your pockets: the dealer's menu lists what you have on you and
-what each dose fetches. It pays by purity, up to **25 doses a day** off you at each corner. Each corner wants one drug
+what each dose fetches. It pays by purity, up to **250 doses a day** off you at each corner, and more of the drugs its own
+gang deals: up to three times as much of a gang's only drug (the menu lists them). Each corner wants one drug
 above the rest that day and pays **double** for it, so moving between corners pays. The gang pays out of its own cash:
 the menu shows what it has to spend. Talk to him on foot. He won't buy from an officer, or from somebody his gang is
 against.

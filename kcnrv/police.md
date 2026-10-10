@@ -12,7 +12,8 @@ Only **Mission Row** has the rest of the station; **La Mesa** has a garage too:
 - **Locker**: a police outfit, or one of the cop, sheriff, ranger, highway patrol, marine, SWAT or FIB characters.
 - **Armoury**: free weapons with full ammo. Which ones you can take depends on your police rank.
 - **Garage**: police cars, bikes and the Police Maverick helicopter, free, one at a time: taking another takes your
-  last one away once nobody is in it, and it goes when you leave the police. Ten seconds between two.
+  last one away once nobody is in it, and it goes when you leave the police. Ten seconds between two. A marker
+  only you can see hangs over the one you took until you get in.
 
 Every police desk also has **Crime scenes** and **Tickets**, and for officers **Armoured runs**.
 
@@ -33,7 +34,13 @@ Every police desk also has **Crime scenes** and **Tickets**, and for officers **
 
 Press the middle mouse button or <kbd>B</kbd>, or type `/vc [name]`, to take visual contact of a suspect you can see:
 120 m by day, 80 m at night, 50 m more from the air. It starts a pursuit. When five officers are in range of the same
-suspect, they're put on an all-points bulletin (APB).
+suspect, they're put on an all-points bulletin (APB). Somebody already in contact (a plate reader hit gives contact by
+itself) isn't taken again: you're told they're already in contact.
+
+**Caught in the act.** Somebody robbing a shop, a bank or the jeweller, while the job is still running, can be taken in
+visual contact even with no stars, as long as you can actually see them: walls stop it. Seeing it puts them at **4 stars
+for Robbery** there and then, arrestable, and the pursuit starts. Masked, they stay a masked suspect: you see what they
+did, not who they are. The middle mouse never tickets somebody in the middle of a robbery.
 
 **While you're on them:**
 
@@ -63,9 +70,11 @@ The middle mouse button does whichever applies; `/ticket` (`/tk`) and `/arrest` 
 <kbd>G</kbd> **Grab**, and <kbd>Y</kbd> **Put in the car** when a police car or your own is near them: they're walked into it
 and stay cuffed in the seat. You're walked up to them first. <kbd>X</kbd> still opens the full list.
 
-**Spotting the wanted.** With somebody wanted in sight and not yet in contact, a help line offers the middle mouse for
-**visual contact** (that starts the chase) and <kbd>M</kbd> for the megaphone. It's only a hint: leave them be if you
-like. Once you're in contact and within the megaphone's reach, it offers <kbd>M</kbd> to order them to stop.
+**Spotting the wanted.** With somebody wanted or robbing in sight and not yet in contact, a help line offers the middle
+mouse to **visual contact the suspect** (or **the masked suspect**; that starts the chase) and <kbd>M</kbd> for the
+megaphone. It's only a hint: leave them be if you like. Once you're in contact and within the megaphone's reach, it
+offers <kbd>M</kbd> to order them to stop. In a police car the line sits on the car's own buttons, beside the plate
+reader, and also says when the middle mouse would arrest or ticket somebody near you.
 
 **A ticket**: the driver has 30 seconds to pay it to an officer within 15 m with `/payticket` (`/pay`), which clears
 their stars. The fine depends on their recent crimes. If they don't pay, it becomes **Unpaid Ticket**, 4 stars, and
@@ -89,6 +98,7 @@ three quarters of the XP. A suspect killed while you're already arresting them i
 | --- | --- | --- |
 | <kbd>X</kbd> | The interaction menu on a civilian | Frisk (within 1.5 m), Handcuff somebody wanted, Remove Handcuffs, Put In Car somebody cuffed, Grab someone who's given up (<kbd>Left Alt</kbd> lets go), Check Licence on somebody fishing (no licence is 1 star) |
 | <kbd>G</kbd> | Take them out | At a car somebody in cuffs is sitting in: takes them out. Cuffed, they can't get out on their own |
+| <kbd>Y</kbd> | Intimidation | Hold on foot: you stand with a hand on your holstered gun until you let go. Any uniform. A prompt in reach on <kbd>Y</kbd> comes first |
 | <kbd>M</kbd> | Megaphone | A stop order to a pursued suspect within 30 m: 5 seconds to pull over, or kneel or surrender on foot; ignoring it is Evading Police, one more star. Once a minute per suspect. If they comply, your arrest pays 25% more |
 | <kbd>Left Alt</kbd> | Police tech | Cones, flares, barriers, stingers or an oil slick, on foot or from a police vehicle on all four wheels. How long it stays down grows with your rank; up to 15 of yours can be down at once |
 | <kbd>1</kbd> | Plate reader | In a police vehicle, reads cars up to 40 m ahead. A car flagged at a crime scene names its driver, gives you contact on them and goes out on dispatch |
@@ -104,6 +114,7 @@ dose, sell on a corner or hand drugs over charges them, and drugs you book in a 
 Trafficking for a dealer's amount. See [Drugs](../drugs/).
 
 **Frisking** is a contest: see [Jail and the law](../jail-and-the-law/) for how a frisk plays out from both sides.
+<kbd>Backspace</kbd> stops it before you've looked: nothing is found, and they're let go.
 What you find is your choice, one find at a time or all of them: send it into evidence for a bounty, or keep it and take the risk. They're told what you found on them, and what you did with it. Something a suspect holds in their hands, like a briefcase, falls to the ground when you frisk them, and you pick it up from there: see [Carrying things](../carrying-things/).
 
 **Booking what you carry.** Contraband in your own inventory, drugs you picked up or a crate in your arms, has **Book
@@ -126,7 +137,8 @@ The pot and its catch are destroyed, and the city pays you **$150** in cash. See
   A witness who saw a face names the robber. A witness who saw only a mask gives you a description of the mask.
 
 **Gruppe Sechs escorts.** Sign up at the desk under **Armoured runs**, or `/escort` next to a truck
-(`/escort off` stands you down). Up to three officers escort a run, and you can be on one run at a time.
+(`/escort off` stands you down). Up to three officers escort a run, and you can be on one run at a time. A truck that
+comes into view close enough, on a run with room for you, reminds you of `/escort` while you're not on one.
 
 - **The desk's menu** lists every run on the road: where it's heading, how many officers are on it out of three, and
   which one is yours. If no truck is within reach of `/escort`, you're told so, and the desk lists them all.
@@ -134,8 +146,12 @@ The pot and its catch are destroyed, and the city pays you **$150** in cash. See
   from the truck (green when you're close enough, red when you're too far) and how far through the leg and the whole run you are.
   The bars turn green once you've been near enough to be paid.
 - **You're paid for a leg** if you stayed close to the truck for most of it, and it goes into your paycheck. The
-  clock for a leg starts when the leg does, whoever has signed up, so joining late gets you less of it. You're told what a
-  leg paid, or that it didn't and how much of it you were there for.
+  clock for a leg starts when the leg does (the first as the truck leaves the depot), whoever has signed up, so joining
+  late gets you less of it. You're told what a leg paid, or that it didn't and how much of it you were there for.
+- **Seeing the run through** pays once more at the depot, 3% of what the truck brings home and never under $1,200, if
+  you were close for most of the whole run. A run with three
+  stops is four legs, so a full one pays four legs and the finish. When the run is in, you're told what it put into your
+  paycheck in all, or why the finish didn't pay.
 - **Officers can't hurt a run.** Its guards, and its truck and escorts while Gruppe Sechs has them, take no damage from
   you, and you can't fire on them. Nothing you do to a run counts as an attack.
 - **Cargo.** Cargo you find in a frisk goes the frisk's way. Using a piece of G6 cargo from your inventory asks whether
@@ -164,7 +180,7 @@ are cash on the spot.
 | A ticket collected | The whole fine |
 | A fine collected while the city is in deficit | +25% of the fine, in cash, to you |
 | An item booked into evidence | Drugs, loose or in a box: half what a box of them is worth, by purity (a street bag is a few dollars). A crate of guns or rounds: half its price. A gun, booked from a frisk or taken on an arrest: half what a corner pays for one. Anything else: a quarter of its price, or $250 for something that has none. Gruppe Sechs cargo: a tenth of its worth, at least $250 |
-| A Gruppe Sechs escort | $400 a leg, $1,200 for seeing the run to the depot |
+| A Gruppe Sechs escort | $400 a leg, and 3% of what the truck brings home for seeing the run to the depot (never under $1,200) |
 | A fishing pot seized | $150 cash |
 
 | Work | XP |
@@ -193,7 +209,7 @@ from.
 
 ## Tips
 
-- **Cuff before you search**: a cuffed suspect can't pull away from the frisk.
+- **Cuff before you search**: a cuffed suspect can't resist the frisk.
 - **Bring them in alive**: a takedown pays only three quarters of the XP.
 - **Search before you arrest**: it's worth $50 and 10 XP on top.
 - **Free guns are only at Mission Row.** The other stations just have a desk.

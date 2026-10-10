@@ -41,18 +41,18 @@ more star.
 
 ## Being frisked
 
-An officer can frisk a civilian within 1.5 m, and for six seconds you're playing different games:
+An officer can frisk a civilian within 1.5 m, and for three and a half seconds you're playing different games:
 
-- **You** see the frisk's bar counting down, **HIDDEN** with a circle for each thing you could hide, and **NEXT** filling
+- **You** see the frisk's ring filling, **HIDDEN** with a circle for each thing you could hide, and **NEXT** filling
   as you tap. Every six taps of <kbd>E</kbd> hides one whole pile where the frisk won't reach it,
-  up to three (contraband first). A worn duffel bag costs two of the three. <kbd>Backspace</kbd> pulls away instead,
+  up to three (contraband first). A worn duffel bag costs two of the three. <kbd>Backspace</kbd> **resists** instead,
   which ends the frisk and is Escape, 1 star; so is walking more than 3 m off. Cuffs take that option away.
-- **The officer** sees nothing for those six seconds, then a list: contraband in red, legal items in white. Each illegal
+- **The officer** sees nothing for those seconds, and can <kbd>Backspace</kbd> to stop, then a list: contraband in red, legal items in white. Each illegal
   find goes into evidence, or the officer keeps it and takes the risk, one at a time or all at once. You're told what
   they found on you, and what became of it. Drugs sent into evidence charge you: Drug Possession,
   1 star, or Drug Trafficking, 2 stars, for more than 20 doses (see [Drugs](../drugs/)).
 
-You can't be frisked again for 45 seconds.
+Resist and you can't be frisked again for 45 seconds.
 
 ## Jail
 
@@ -77,6 +77,6 @@ You can't be frisked again for 45 seconds.
 ## Tips
 
 - At 1 to 3 stars, paying the ticket straight away is usually cheapest.
-- Cuffs stop you pulling away from a search, so break them before the officer starts one.
+- Cuffs stop you resisting a frisk, so break them before the officer starts one.
 
 Related: [Wanted level and heat](../wanted-level-and-heat/) · [Police](../police/) · [Shop robberies](../shop-robberies/)

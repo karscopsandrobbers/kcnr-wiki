@@ -86,7 +86,9 @@ behind one unseen and nothing starts.
 - **A mask**: once they have seen it they keep watching you, and the others near them look too. Take it off in front
   of them and they have seen your face.
 - **A weapon out**: you are warned, and a gun comes up on you. Put it away or walk on and they go back to what they
-  were doing; keep it out, or come into their faces, and it's a fight.
+  were doing; keep it out, or come into their faces, and it's a fight. A gang that counts you **hostile** fights at once. They can see a
+  weapon from a long way off in daylight. Getting out of a car puts your weapon away, unless you were aiming or in a
+  drive-by as you got out.
 - **Aiming at them, shooting at them, hitting one, or killing somebody where they can see**: a fight, and the others
   nearby join in.
 - **A sound they can't place, or a body**: one of them walks over to look, kneels by a body, and goes back.
@@ -135,7 +137,8 @@ Walk up to a corner's dealer and press <kbd>E</kbd> on **Deal with the** gang.
   cases and large ammo boxes he will not open. The gang pays out of its own cash, and buys only as much as that
   covers: the menu shows what it has to spend. The better the gang thinks of you, the better it pays, up to 15% more;
   one that thinks nothing of you, or worse, pays you what it pays anybody. Each crate in a load fetches a little less
-  than the one before, and a corner pays less for a while after a big load. A big sale can get a tip to the police.
+  than the one before, and a corner pays less for a while after a big load; less so for what its own gang deals, its own
+  drugs and its own guns and their rounds, which it keeps paying well for. A big sale can get a tip to the police.
   `/sell`, on foot at the dealer's side, sells him everything he takes out of the vehicle beside him. A gang's own vans
   and cars are not yours to sell from.
 - **Buying guns.** At a corner that deals guns, a gang that counts you a friend sells you its own guns and rounds,

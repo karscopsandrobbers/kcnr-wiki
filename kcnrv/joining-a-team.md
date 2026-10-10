@@ -81,6 +81,9 @@ Income tax comes off the whole paycheck in bands:
 | $30,000 to $75,000 | 15% |
 | Above $75,000 | 22% |
 
+**`/paycheck`** shows what is in your next paycheck so far, team by team, how long until payday, and the share of wages
+the city is paying right now.
+
 **When the week turns** you get a chat line with your gross pay, the income tax taken and what you keep, and a Maze Bank
 notification. If the city couldn't pay in full, a second line says how much of what you earned it paid, and why. The
 whole server is told too: the week that closed, what the city collected and paid out, and what the treasury now holds.

@@ -99,6 +99,8 @@ A gun in your hand makes the ones who would have a go rarer. Point it at one who
 
 ## Afterwards
 
+- **Seen by the police:** an officer who sees you while the job is running can take visual contact on you there and
+  then: you're at 4 stars for Robbery, arrestable, and chased. Masked, they still don't know who you are.
 - A hold-up anybody noticed is **1 star**, and 1 more if somebody reports it. The panic button means an ordinary shop
   always notices. A statement from somebody who only saw a mask gives the police a description of the mask, not a name. See [Wanted level and heat](../wanted-level-and-heat/).
 - The shop shuts for **10 minutes**, and you can't rob it again for 10 minutes; every other shop is fair game. A 24/7,
