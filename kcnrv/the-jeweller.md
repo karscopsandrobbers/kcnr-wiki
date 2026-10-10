@@ -13,7 +13,8 @@ one the cases won't open) and something to smash glass with: any gun, or a bat, 
 wrench, golf club, knuckle duster or battle axe. Up to six robbers.
 
 Vangelico opens at **09:00** and closes at **21:00** on the game clock. Outside those hours its doors are locked (they
-lock once nobody is inside or near them), and cutting the power (below) is the only way to unlock them.
+lock once nobody is inside or near them), and cutting the power (below) is the only way in. Anybody inside can always
+get out.
 
 ## How it works
 
