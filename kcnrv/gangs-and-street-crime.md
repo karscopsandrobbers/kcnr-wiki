@@ -201,7 +201,9 @@ their own ground:
   kept or traded. Go for them and both sides
   fight you.
 - **A car theft.** Somebody's car taken from under them by one of a gang and driven off to the gang's place. Stop the
-  thief, get in the car and bring it back to its owner, stopped beside them, and they pay you for it.
+  thief, get in the car and bring it back to its owner, stopped beside them, and they pay you for it. Once you're at the
+  wheel the owner is a white dot on your map, with a waypoint; if a fight breaks out they get out of the way and then
+  walk back to where it was taken to wait. Drive off the other way with it and the owner gives up on you.
 
 A fight with any of them belongs to where it started. Get well clear of that spot and stay away, and they give up and
 go back to what they were doing: a car thief gets back in the car and carries on. Stash-house guards walk back to the

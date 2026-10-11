@@ -22,7 +22,7 @@ The depot's four roller doors stay down. One goes up for a **Bugstars van** driv
 overalls, at any hour, and stays up while anybody is in the depot; a van stolen from the depot doesn't open them. On
 foot, the **keypad** by the east doors: <kbd>E</kbd> to hack it, one person at a time, and beaten, its door is up for
 60 seconds. Fail it, or walk away from it, while the depot is shut or has no crew on the floor, and the alarm goes off.
-From inside, a door goes up for anybody who walks or drives up to it.
+From inside, a door goes up for anybody who walks or drives up to it. Sound your horn at the doors without the overalls and the guard, then one of the crew, will tell you to clear off. Bugstars vans aren't sold at the dealership.
 
 Three Bugstars vans stand inside. Load one and drive it out, and the doors go up for you, but taking a van is **Grand
 Theft Auto**, 2 stars, if the crew sees it, and sets the alarm off when there is no crew to see it. A van taken is

@@ -14,7 +14,7 @@ painting, a flat-screen TV. Those you carry **in your hands**, and you only have
 | Size | Examples | Where it can go |
 | --- | --- | --- |
 | Pocket-sized | Almost everything: cash, jewellery, tools, drinks | Your pockets, anywhere |
-| Bag-sized | A G6 cash box, gold bag or duffel; a laptop; a painting or canvas; a trophy; a vase | A bag you're wearing (if it has room), else your hands, a boot, a car seat or the ground. **Never loose in your pockets** |
+| Bag-sized | A G6 cash box, gold bag or duffel; a laptop; a painting or canvas; a trophy; a vase | A bag you're wearing (if it has room), else your hands, a boot, a car seat or the ground. **Never loose in your pockets.** A G6 cash box and a G6 cash duffel never go in a bag: they're only ever carried in your hand |
 | Arms-sized | A guitar, a flat-screen TV | Your hands, a boot or the ground. Never a pocket, a bag or a car seat |
 
 A bag-sized thing that you get goes **into your worn bag first, if it has room**. If you have no bag, or it is full, it
