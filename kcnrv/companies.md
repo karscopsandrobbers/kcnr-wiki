@@ -18,10 +18,11 @@ round the clock.
 
 ### Getting in
 
-The depot's four roller doors stay down. One goes up for a **Bugstars van** driven up to it, at any hour, and stays up
-while anybody is in the depot. On foot, the **keypad** by the east doors: <kbd>E</kbd> to hack it, and beaten,
-its door is up for 60 seconds. Fail it, or walk away from it, while the depot is shut or has no crew on the floor, and
-the alarm goes off.
+The depot's four roller doors stay down. One goes up for a **Bugstars van** driven up to it by someone in the Bugstars
+overalls, at any hour, and stays up while anybody is in the depot; a van stolen from the depot doesn't open them. On
+foot, the **keypad** by the east doors: <kbd>E</kbd> to hack it, one person at a time, and beaten, its door is up for
+60 seconds. Fail it, or walk away from it, while the depot is shut or has no crew on the floor, and the alarm goes off.
+From inside, a door goes up for anybody who walks or drives up to it.
 
 Three Bugstars vans stand inside. Load one and drive it out, and the doors go up for you, but taking a van is **Grand
 Theft Auto**, 2 stars, if the crew sees it, and sets the alarm off when there is no crew to see it. A van taken is
@@ -72,9 +73,22 @@ to a burglary. It is set the same way in working hours when there is no crew lef
 
 ### Afterwards
 
-Any gang corner buys a drum out of your boot for its cooks, on what the gang can pay and how it stands with you, or
-break it open for your own [lab](../drugs/). Drums don't count as dealing: selling them doesn't raise your standing
-with a gang or make it stronger. A drum is contraband: a frisk or a police dog turns it up. The equipment
+Take drums to a gang's **stash house** and sell them to the man at the door, <kbd>E</kbd>: everything in your arms and in
+the boot of the vehicle you came in goes, as far as the gang's cash stretches. A gang that hasn't had drums for a while
+pays the most, and less with each one you sell. Corners don't buy drums, and selling them doesn't raise your standing
+with a gang. Walk up with empty hands and the guards leave you be; a gun out, or a gang that hates you, is another
+matter. Ring ahead and they expect you, even if they don't like you, and the door goes on your map:
+
+| Gang | Number |
+| --- | --- |
+| Families | 555-0131 |
+| Ballas | 555-0132 |
+| Aztecas | 555-0133 |
+| Vagos | 555-0134 |
+| Kkangpae | 555-0135 |
+| Lost MC | 555-0136 |
+
+Or break a drum open for your own [lab](../drugs/). A drum is contraband: a frisk or a police dog turns it up. The equipment
 and canisters are hot for half an hour, like any job's pieces: see [Selling stolen goods](../selling-stolen-goods/).
 
 A stolen Bugstars van is called in by its plate when the crew saw it go or the alarm went, and every police plate
