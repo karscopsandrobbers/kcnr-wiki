@@ -19,8 +19,9 @@ Pay it at any police station desk. You can't join the police while one is unpaid
 The officer has to be within 4.5 m of you (more if you're in the same vehicle, less indoors). You're taken where you stand
 and cuffed, then walked, hands behind your back, into the back of a police car (any emergency vehicle, or the officer's own car; the
 passenger seat of a two-seater) if one is near, and the arrest completes once you're in it; with none near, a few
-seconds after the cuffs. You're held still until it does. `/breakcuffs` (`/bc`) gives you a 5 in 16 chance of breaking free, every 10 seconds; a failed try
-is **Escape**, 1 star, and the whole server hears about it.
+seconds after the cuffs. You're held still until it does. `/breakcuffs` (`/bc`) gives you a 5 in 16 chance of breaking free, every 10 seconds; either way
+it's **Escape**, 1 star on top of what you had, and the whole server hears about it. Breaking free doesn't clear your
+stars: it's a head start, and for 5 seconds nobody can cuff or arrest you again.
 
 The arrest is off if you break free, or the officer goes down, goes off duty, leaves or walks away from you. **Quitting
 is not a way out**: quit mid-arrest and you're arrested as you go, and you log back in to your cell. Quitting in jail

@@ -26,7 +26,7 @@ Only civilians carry stars; officers, medics and firefighters never do.
 | Aiming at an officer within 60 m on foot | 2 | Domestic Violence |
 | Firing a gun, with no stars, where an officer can see | 2 | Disturbing The Peace |
 | Ignoring a megaphone stop order | 1 | Evading Police |
-| Pulling away from a search, or failing to break cuffs | 1 | Escape |
+| Pulling away from a search, or trying to break cuffs (broken or not) | 1 | Escape |
 | Not paying a ticket within 30 seconds | 4 | Unpaid Ticket |
 | Three reported incidents in an hour | 1 | Disturbing The Peace |
 

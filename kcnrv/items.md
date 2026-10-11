@@ -76,9 +76,15 @@ and a tap of <kbd>E</kbd> takes all of it too. Hold <kbd>E</kbd> to choose how m
   stay in your pockets), and on duty the only thing you can put on is a gas mask.
 - **A worn pile can't be given or traded**: take it off first.
 - **Clothing toggles:** the personal assistant (<kbd>`</kbd>) has a **Clothing** menu: hat, visor, glasses, earrings, hair,
-  necklace, jacket, top, gloves, watch, bracelet, bag, trousers and shoes, each with a short clip and shown as "off"
-  while it is. Nothing is saved: the next time your outfit is put on whole (a spawn, a clothes shop, the creator) it
-  all comes back.
+  necklace, jacket, top, gloves, watch, bracelet, bag, trousers and shoes, each with a short clip. Each row says what
+  that piece is doing: **Worn** (select to take it off), **Off** (select to put it back), **Change** (a visor, jacket or
+  bag worn another way), or greyed out when you have nothing there. Hair says **Down** or **Up**: it ties up, and a style
+  that doesn't is greyed out. Nothing is saved: the next time your outfit is put
+  on whole (a spawn, a clothes shop, the creator) it all comes back.
+- **Saved outfits** (civilians): ten outfits a character, in the **Outfits** menu of any clothing store, and at your
+  house's wardrobe (an <kbd>E</kbd> prompt inside it). Save what you are wearing into a slot under a name, or put a saved
+  one on, for free; rename or delete one there too (select Delete twice). Your hair, and a mask or bag you wear as an
+  item, stay as they are.
 
 ## Food and drink
 

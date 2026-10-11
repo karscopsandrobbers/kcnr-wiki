@@ -68,8 +68,8 @@ own.
 - **It appears when you log in** where you last used `/park`, and goes away when you log out. It keeps its fuel,
   mileage, dirt, lock, paint, parts and boot; only `/park` saves where it stands. `/park` works from the driver's
   seat with the car stopped.
-- **Finding it:** your cars show on the map as "Personal Vehicle", from anywhere on it. Every other car is only a
-  dot on the minimap while it's near, under its model's name, and the map never says whose it is. <kbd>K</kbd> lists
+- **Finding it:** your cars show on the map as "Personal Vehicle", from anywhere on it. Other players' own cars
+  have no dot at all; any other car with one is only a dot on the minimap while it's near, under its model's name. <kbd>K</kbd> lists
   your cars: **Information** shows lock, fuel and mileage (and the car's condition when you're close), and **Track**
   sets a waypoint.
 - **Wrecked?** It comes back at once, free and repaired, at the spot it appeared at when you logged in, with its parts

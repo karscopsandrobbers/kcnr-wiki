@@ -169,7 +169,8 @@ or they're kept away from it too long), they come back a game hour (2 real minut
 ## Rivals
 
 The two washes are rivals, and so are the three clubs; the yard has none. A hit is a job you start at your own dollar
-sign, against a business you don't hold a slot in; a business that's been hit is left alone for 6 real hours.
+sign, against a business you don't hold a slot in; a business that's been hit is left alone for 6 real hours. The one
+exception is Hijack a Delivery, which starts when you take a rival's van (below).
 
 | Hit | Against | What you do | They lose | Crime | Time | Pay |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -177,7 +178,7 @@ sign, against a business you don't hold a slot in; a business that's been hit is
 | Smash the Bar | An open club | 8 s at its till | Popularity, and it shuts for a while | Vandalism, 1 star | 15 min | $7,000 |
 | Arson | A wash or club | Douse the marked spots from a jerrycan, light them with a molotov or flare | Condition while it burns, and no customers | Arson, 2 stars | 15 min | $10,000 |
 | Rob a Rival | An open club | Hold up its till | Popularity | The hold-up's own | 20 min | $6,000 plus the till |
-| Hijack a Delivery | A wash or club with its Resupply van out | Take the van and drive it home | Their delivery; yours gets a boost | Grand Theft Auto, 1 star | 15 min | $8,000 |
+| Hijack a Delivery | A rival wash's or club's Resupply van on the road | Take its wheel and drive it to your business | Their delivery; yours gets a boost | Grand Theft Auto, 1 star | 15 min | $8,000 |
 
 A hit business's holders are told what happened, never who did it.
 
@@ -189,8 +190,11 @@ A hit business's holders are told what happened, never who did it.
   [Items and your pockets](../items/). The fire brigade is called and paid, a burning club shuts, nobody can pay for a
   wash while it burns, and the holders get a phone call from the manager when it's lit and when it's out. Each crew
   member who poured gets the 2 stars.
-- **Hijack a Delivery** is only offered while a rival's Resupply van is on the road. Its holders are told when it sets
-  off, your crew's map follows the van, and the rival crew can still wreck it.
+- **Hijack a Delivery** isn't started from the menu: you just go after the van. When a rival's Resupply van sets off,
+  you're told and it shows on your map as a red dot. Take its wheel and the job is yours: drive it to your business for
+  its load, and your party is offered the job. Anybody can steal the van and the delivery is lost, but only a rival's
+  holder gets the load. If you're already on a mission, your next business job isn't ready yet, or your business is
+  running a job or smashed up, it's just a stolen van. Their crew can still wreck it, and then the hijack fails.
 
 ## The scrapyard
 
