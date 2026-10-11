@@ -78,6 +78,21 @@ into the driver's seat on their own, so to swap seats press <kbd>G</kbd>. The fr
 driver's seat when it's empty, and the two rear seats swap with each other; a driver can't swap, and there's no
 swapping in a plane. You can't swap onto a seat with a bag on it, and you're told what is there.
 
+### Sitting down
+
+- Any chair, bench or sofa in the city shows **Sit** on <kbd>E</kbd>, which sits you on the free seat nearest you.
+  On a bench or a sofa, <kbd>A</kbd> and <kbd>D</kbd> move you along to the next free seat, and <kbd>E</kbd> gets you up.
+- **One to a seat:** you can't sit where somebody already is, player or not.
+- While you're sitting, the other prompts around you stay hidden, so <kbd>E</kbd> only gets you up. The sofa in a house
+  works its TV too: see [Houses](../houses/).
+
+### Telescopes
+
+- A telescope shows **Use the telescope** on <kbd>E</kbd>. You walk up and look through it: the mouse turns it, the zoom
+  key shows at the bottom of the screen, and <kbd>E</kbd> or <kbd>Esc</kbd> steps you back.
+- A **public telescope** takes **$1** in cash for a minute's look, and another look within that minute is free. A
+  sound warns you ten seconds before the time is up. A telescope in a home is free, for as long as you like.
+
 ### People
 
 - A player who can't stop you, or is lying down (overdosing, surrendering, held up, knocked down or prone), shows

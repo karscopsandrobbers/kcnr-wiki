@@ -62,10 +62,12 @@ can use them, guests too, and the drinks are free.
   Sing into your microphone in there and the **SINGING** bar fills.
 - **The TV:** <kbd>E</kbd> turns it on or off and <kbd>G</kbd> changes channel, CNT or Weazel News. Everybody in the house
   watches the same.
-- **The sofa:** <kbd>E</kbd> at a seat sits you down. <kbd>A</kbd> and <kbd>D</kbd> move you along to the next seat, the TV
-  is worked from the sofa (<kbd>E</kbd> on or off, <kbd>G</kbd> the channel, <kbd>W</kbd> and <kbd>S</kbd> the volume), and
-  <kbd>Backspace</kbd> gets you up. The TV sounds quieter from the other rooms.
-- **Any other chair**, here or anywhere in the city, is a **Sit** on <kbd>E</kbd>, and <kbd>E</kbd> again stands you up.
+- **The sofa:** <kbd>E</kbd> at a seat sits you down. <kbd>A</kbd> and <kbd>D</kbd> move you along to the next free seat,
+  the TV is worked from the sofa (<kbd>E</kbd> on or off; while it's on, <kbd>G</kbd> the channel and <kbd>W</kbd> and
+  <kbd>S</kbd> the volume), and <kbd>Backspace</kbd> gets you up. The TV sounds quieter from the other rooms.
+- **Any other chair, bench or sofa**, here or anywhere in the city, is a **Sit** on <kbd>E</kbd>, and <kbd>E</kbd> again
+  stands you up. On a bench or a sofa, <kbd>A</kbd> and <kbd>D</kbd> move you along to the next free seat.
+- **One to a seat:** you can't sit where somebody already is, player or not.
 - **A lap dance:** in a high-end apartment, stilt house or penthouse suite of your own, ring the **Vanilla Unicorn** on
   **555-0169**. A visit is **$1,000** in cash, and a dancer buzzes at the door a minute later: <kbd>E</kbd> at the door
   lets her in. If nobody answers within 45 seconds, she lets herself in. At the lap dance spot anybody inside can
