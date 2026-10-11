@@ -30,7 +30,8 @@ phone, and you're told if you have any when you log in.
 A job's contact ringing you and a call between players are the same line: on one, you can't be rung for the other. A
 contact who rings while you're talking to a player waits, and rings once you hang up.
 
-**911** on the keypad goes to the police: say what is happening, and they're told where you are.
+**911** on the keypad goes to the police: say what is happening, and they're told where you are. The **Vanilla
+Unicorn** is on **555-0169**: rung from your own high-end home, it sends a dancer (see [Houses](../houses/)).
 
 ## Messages
 

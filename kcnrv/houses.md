@@ -39,8 +39,38 @@ You can own **5 houses**. A new one is named "*your name*'s new house".
 - **Pets.**
 - **Settings:** lock or unlock it, **Spawn in house**, change the name, set or remove an access password.
 
-**Spawn in house** puts you inside it when you log in; after a death you still wake at a hospital. The exit marker
-inside takes you out. Houses don't store items yet: a personal vehicle's boot is the place to keep things.
+**Spawn in house** puts you inside it when you log in, waking up in its bed or its shower; after a death you still wake
+at a hospital. The exit marker inside takes you out. Houses don't store items yet: a personal vehicle's boot is the
+place to keep things.
+
+## Things to do at home
+
+Inside a house, walk up to something and an <kbd>E</kbd> prompt floats over it, as in GTA Online's homes. Anybody inside
+can use them, guests too, and the drinks are free.
+
+| Home | What's there |
+| --- | --- |
+| Low-end | A beer, the bong, the bed, the shower, the TV |
+| Medium | A beer, a whiskey, the bed, the shower, the TV |
+| High-end apartments, stilt houses and penthouse suites | A whiskey, a glass of wine, a wheatgrass, the bong, the bed (either side), the shower, the TV, a lap dance |
+
+- **A drink** makes you a little drunker each time, and there's no more once you've had plenty.
+- **The wheatgrass** takes the edge off being drunk.
+- **The bong** smokes a gram of weed from your pockets, and you get its high. No weed, no bong.
+- **The bed:** lie down, and <kbd>E</kbd> to get up.
+- **The shower** washes the blood and dirt off you. <kbd>E</kbd> gets you out, or it ends by itself after two minutes.
+  Sing into your microphone in there and the **SINGING** bar fills.
+- **The TV:** <kbd>E</kbd> turns it on or off and <kbd>G</kbd> changes channel, CNT or Weazel News. Everybody in the house
+  watches the same.
+- **The sofa:** <kbd>E</kbd> at a seat sits you down. <kbd>A</kbd> and <kbd>D</kbd> move you along to the next seat, the TV
+  is worked from the sofa (<kbd>E</kbd> on or off, <kbd>G</kbd> the channel, <kbd>W</kbd> and <kbd>S</kbd> the volume), and
+  <kbd>Backspace</kbd> gets you up. The TV sounds quieter from the other rooms.
+- **Any other chair**, here or anywhere in the city, is a **Sit** on <kbd>E</kbd>, and <kbd>E</kbd> again stands you up.
+- **A lap dance:** in a high-end apartment, stilt house or penthouse suite of your own, ring the **Vanilla Unicorn** on
+  **555-0169**. A visit is **$1,000** in cash, and a dancer buzzes at the door a minute later: <kbd>E</kbd> at the door
+  lets her in. If nobody answers within 45 seconds, she lets herself in. At the lap dance spot anybody inside can
+  have a dance: <kbd>V</kbd> changes the camera, <kbd>E</kbd> asks for another, <kbd>Backspace</kbd> says no more. Left
+  alone for a minute and a half, she goes.
 
 ## Selling it back
 
