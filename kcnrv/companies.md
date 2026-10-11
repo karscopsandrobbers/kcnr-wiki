@@ -16,6 +16,16 @@ Bugstars, the pest control firm, keeps its depot on the Port of Los Santos. Its 
 **21:00** on the game clock, a foreman with his clipboard and the men at the front, and a security guard walks the yard
 round the clock.
 
+### Getting in
+
+The depot's four roller doors stay down. One goes up for a **Bugstars van** driven up to it, at any hour, and comes
+down once the van has gone through. On foot, the **keypad** by the east doors: <kbd>E</kbd> to hack it, and beaten,
+its door is up for 60 seconds. Fail it while the depot is shut and the alarm goes off.
+
+Three Bugstars vans stand inside. Load one and drive it out, and the doors go up for you, but taking a van is **Grand
+Theft Auto**, 2 stars, if the crew sees it, and sets the alarm off when the depot is shut. A van taken is replaced
+later.
+
 ### What there is to take
 
 | Where | What you carry out | What it's for |
