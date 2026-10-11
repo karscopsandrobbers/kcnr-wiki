@@ -90,4 +90,4 @@ Rob Bugstars **15 times** and take **$50,000** of their stock over those robberi
 market price) and you earn their overalls. Only one robbery each half hour counts toward the 15. They show under
 **Outfits** at any clothing store or your house's wardrobe, with how far you are until then, and once earned they go on
 for nothing. In them the crew take you for one of their own: they don't stop you carrying stock out or driving off in a
-van. A weapon out still sets them off. The same pieces bought at a store don't fool them: only overalls you earned do.
+van. A weapon out still sets them off. No clothing store sells them.
