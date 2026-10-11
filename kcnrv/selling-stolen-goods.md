@@ -10,6 +10,10 @@ order: 9
 Press <kbd>Y</kbd> at a pawn shop's counter: opening the menu tips out of your bag everything the shop would buy, and it buys what you are holding in your hands as well as what is in your pockets (see [Carrying things](../carrying-things/)). Guns, grenades and the like stay in the bag. A pawn shop never buys a bag itself, only what's in it, and it skips the
 phone the walkthrough gives you. The menu lists what the shop pays most for first, so your valuables are at the top.
 
+Park the vehicle you came in outside and the shop buys out of its boot too: what's in it is on the counter with the
+rest, so a van full of boxes doesn't have to be carried in one at a time. It has to be the one you last drove, or your
+own: not just any car parked at the door.
+
 | Item | Price |
 | --- | --- |
 | Valuables (jewellery, watches, gold bars and so on) | 60% of market price |
