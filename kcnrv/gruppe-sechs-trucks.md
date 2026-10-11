@@ -9,7 +9,7 @@ opens: From the start, as a civilian
 ## The runs
 
 A truck goes out every 12 real minutes at most: one at a time, or two at once with 4 or more players online. It leaves
-the Union Depository with one or two cash duffels and calls at banks and Vangelico. At each stop the **courier** (the
+the Union Depository (the faded Gruppe Sechs sign on the map) with one or two cash duffels and calls at banks and Vangelico. At each stop the **courier** (the
 guard in the front passenger seat) walks in and comes back with a green Gruppe Sechs **cash box**. Pacific Standard, Blaine
 County and Vangelico fill theirs the most. Pacific Standard sometimes sends a bag of gold instead.
 

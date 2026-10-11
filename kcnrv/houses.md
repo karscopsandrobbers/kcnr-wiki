@@ -64,7 +64,8 @@ can use them, guests too, and the drinks are free.
   watches the same.
 - **The sofa:** <kbd>E</kbd> at a seat sits you down. <kbd>A</kbd> and <kbd>D</kbd> move you along to the next free seat,
   the TV is worked from the sofa (<kbd>E</kbd> on or off; while it's on, <kbd>G</kbd> the channel and <kbd>W</kbd> and
-  <kbd>S</kbd> the volume), and <kbd>Backspace</kbd> gets you up. The TV sounds quieter from the other rooms.
+  <kbd>S</kbd> the volume), <kbd>V</kbd> changes the camera, and <kbd>Backspace</kbd> gets you up. The TV sounds quieter
+  from the other rooms.
 - **Any other chair, bench or sofa**, here or anywhere in the city, is a **Sit** on <kbd>E</kbd>, and <kbd>E</kbd> again
   stands you up. On a bench or a sofa, <kbd>A</kbd> and <kbd>D</kbd> move you along to the next free seat.
 - **One to a seat:** you can't sit where somebody already is, player or not.

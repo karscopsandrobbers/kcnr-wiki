@@ -28,7 +28,8 @@ is not a way out**: quit mid-arrest and you're arrested as you go, and you log b
 doesn't end your sentence either.
 
 **In cuffs** you walk like a prisoner, hands behind your back. You can't run, jump, fight, aim, shoot, switch weapons,
-take cover, or get in or out of a vehicle or change seats; an officer walks you into a police car, and takes you out. Only somebody wanted can be cuffed, and an officer cuffs you the same way even
+take cover, use anything from your pockets (no dose, no food, no drink), or get in or out of a vehicle or change seats;
+an officer walks you into a police car, and takes you out. Only somebody wanted can be cuffed, and an officer cuffs you the same way even
 when it isn't an arrest.
 
 **Takedown:** killed by an officer while you have 4 or more stars, you go to a cell just as if you'd been arrested. Not

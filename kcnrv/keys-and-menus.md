@@ -82,7 +82,8 @@ swapping in a plane. You can't swap onto a seat with a bag on it, and you're tol
 
 - Any chair, bench or sofa in the city shows **Sit** on <kbd>E</kbd>, which sits you on the free seat nearest you.
   On a bench or a sofa, <kbd>A</kbd> and <kbd>D</kbd> move you along to the next free seat, and <kbd>E</kbd> gets you up.
-  A chair that's part of a home's own furniture shows its **Sit** when you look at it.
+  A chair that's part of a home's own furniture shows its **Sit** when you look at it. <kbd>V</kbd> changes the camera
+  while you sit, round a few views and back to your own.
 - **One to a seat:** you can't sit where somebody already is, player or not.
 - While you're sitting, the other prompts around you stay hidden, so <kbd>E</kbd> only gets you up. The sofa in a house
   works its TV too: see [Houses](../houses/).
