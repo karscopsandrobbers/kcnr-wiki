@@ -88,9 +88,10 @@ and a tap of <kbd>E</kbd> takes all of it too. Hold <kbd>E</kbd> to choose how m
 
 ## Food and drink
 
-Use one from your pockets. You eat or drink **one at a time**: drinking takes 3 seconds, eating 4, and you heal at the
-end. <kbd>Backspace</kbd>, being knocked down or being hurt cancels it and gives it back, and you can't start another
-while one is going.
+Health doesn't come back on its own (unless staff have switched on regeneration, and then only to half), so food and
+drink are how you heal out in the city. Use one from your pockets. You eat or drink **one at a time**: drinking takes 3
+seconds, eating 4, and you heal at the end. <kbd>Backspace</kbd>, being knocked down or being hurt cancels it and gives
+it back, and you can't start another while one is going.
 
 | Item | Heals | Price |
 | --- | --- | --- |
@@ -326,8 +327,13 @@ them out. It holds ammo boxes and nothing else.
 
 A **Mods** row appears on a stocked gun you own: suppressors, scopes, grips, flashlights, magazines, muzzle brakes,
 barrels and finishes, then tints. **One part per slot**, and **taking a part off refunds nothing**. The gun hangs on the
-wall behind the counter so you can see it. Special rounds (tracer, incendiary, hollow point, FMJ, armour piercing and
-explosive) are never sold.
+wall behind the counter so you can see it, finish and all. Special rounds (tracer, incendiary, hollow point, FMJ, armour
+piercing and explosive) are never sold.
+
+**A tint or a finish, not both.** On most guns a finish is a whole new look for the gun, as in GTA Online: buying one
+takes the tint off, buying a tint takes the finish off, and taking a finish off puts the gun back on its plain tint.
+You're told when one came off for the other. The camos on the Mk II guns and the Heavy Rifle are laid over the gun
+instead, so they keep their tint.
 
 | Part | Price on a pistol |
 | --- | --- |

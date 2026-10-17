@@ -15,7 +15,7 @@ bank for 8 seconds.
   tickets.
 - **The tax on top** comes from your cash first, then your bank. If the two together can't cover the price and the
   tax, the purchase is refused and you're told the full amount.
-- **Your bank can't be taken from you.** Cash can: a hospital bill, a stick-up, a drop at a robbery.
+- **Your bank can't be taken from you.** Cash can: a hospital bill, a drop at a robbery.
 
 | | Where | What you can do |
 | --- | --- | --- |
@@ -104,7 +104,9 @@ money the city took this game week and a **Spent** row for every kind it paid ou
 ## What clothes cost
 
 At a clothing store every piece on a rail costs the same, and the menu shows it on each one. Taking something off is
-free, and it stays off: your legs go back to bare, not to the jeans the game starts everybody in.
+free, and it stays off: your legs go back to bare, not to the jeans the game starts everybody in. Trying things on is
+free too: back out of a rail, or walk out of the store, and you're in your own clothes again, arms and all, plus
+whatever you bought.
 
 | Rail | Price |
 | --- | --- |
@@ -123,7 +125,7 @@ Vangelico's jewellery has its own prices.
 
 ## Tips
 
-- Bank big amounts. Cash is what a hospital bill, a stick-up or a robbery drop takes.
+- Bank big amounts. Cash is what a hospital bill or a robbery drop takes.
 - Withdraw before a big purchase: the price has to be cash, only the tax can come from the bank.
 - Sending money needs the other player online, and a bank counter, not an ATM.
 - Stay online for the lottery draw: your number doesn't survive logging out.

@@ -1,6 +1,6 @@
 ---
 title: Welcome to KCNR
-summary: What the server is, how to join, register and recover an account, and what you start with.
+summary: What the server is, how to join, register and recover an account, make your character, and what you start with.
 section: start
 order: 1
 ---
@@ -53,12 +53,40 @@ Add an email when you register: it is what recovery depends on.
 
 ### Your character
 
-Each account has **one character**. You make it in the character creator: gender, parents, features, hair. Nothing is
-saved until you press Save, and you can't leave without saving.
+Each account has **one character**. You make it in the character creator, which is GTA Online's own: the same pages,
+names, cameras and colour swatches, with a few more choices on top. Nothing is saved until you save, and you can't
+leave without saving.
 
-**The creator is a one-time visit.** You can't reopen it, so the character you build is final unless staff reset it. What you can
-change is what you wear, at a clothing store. When you step out of the creator with nothing on yet, you
-are dressed in one of GTA's own complete outfits, picked at random, with no jewellery, mask, bag, armour or hat.
+**The creator is a one-time visit.** You can't reopen it, so the character you build is final unless staff open it for
+you again. What you can change later is what you wear, at a clothing store, and your hair, at a [barber](../barbers/).
+
+### The character creator
+
+| Page | What you choose |
+| --- | --- |
+| Sex | Male or female. Switching keeps each body's look while you're in the creator, so you can go back and forth without losing either |
+| Heritage | Your mother (22 to choose from) and father (24), by GTA Online's names, with both their portraits above the list; **Resemblance** (which parent your face takes after) and **Skin Tone** (whose skin), 0 to 100% |
+| Features | Twelve parts of the face. Eight are a grid that moves two ways at once (the nose: narrow to wide, and up to down); the eyes, cheeks, lips and neck are a single bar |
+| Appearance | Eyebrows, facial hair, blemishes, ageing, complexion, moles and freckles, sun damage, makeup, blush, lipstick and chest hair, each with how strong it is. One that takes a colour has its colour row right under it, drawn as swatches. Every row is there for both sexes |
+| Hair & Colors | Any haircut the barber sells, its colour and highlight (64 each, as swatches), and your eye colour (32) |
+| Apparel | A **style** (Street, Flashy, Party, Beach, Smart, Sporty, Eccentric or Casual), one of its **8 outfits**, and a hat and glasses if you want them |
+
+Every page ends with **Randomize** and **Reset** for that page. On the main menu, **Angle** turns your character round,
+and for a new character the last row, **Reset to default**, starts the whole character over.
+
+| Key | In the creator |
+| --- | --- |
+| <kbd>Space</kbd> | Randomise the row you're on. On the main menu it randomises the whole character: parents, face, appearance, hair, a natural eye colour and an outfit, with a hat or glasses now and then |
+| <kbd>Q</kbd> / <kbd>E</kbd> (held) | Turn your face to show its profile, left or right. Holding the left mouse button to one side of your character does the same |
+| <kbd>A</kbd> / <kbd>D</kbd> (held) | Turn your character round, inside any page |
+| <kbd>←</kbd> <kbd>→</kbd>, <kbd>W</kbd> <kbd>S</kbd> | On a Features grid: across, and up and down. Hold <kbd>Left Shift</kbd> to move three times as fast, or drag inside the grid with the mouse |
+
+**You always leave dressed.** A new character starts in one of the Apparel page's outfits, picked at random, and can
+change it before saving. If staff open the creator for a character you already have, the first choice on each Apparel
+row is **current**, the clothes you already wear, and **Cancel** leaves without changing anything.
+
+**Saving asks you to confirm first.** Then the camera turns to the booking board with your name on it and takes your
+mugshot, and you're out.
 
 ## Where you start
 

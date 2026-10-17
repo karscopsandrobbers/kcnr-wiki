@@ -71,6 +71,12 @@ menu where you choose how many, starting at all of them. A bag shows <kbd>H</kbd
 inside" to see what it holds, and <kbd>Y</kbd> "Take everything out" to empty it into your pockets. With several things underfoot, the last one you reached is offered first, then the next once
 it's gone.
 
+**Already in reach, you don't walk.** Pressing a prompt usually walks you up to the thing first. If you're already
+within arm's reach of it (0.7 m from its side, on the same level) and facing it within 60 degrees, you reach for it
+where you stand; facing further round, you turn to it quickly first. That goes for things on the ground, dumpsters,
+bins, vending machines and anything else you use from its side, and a firm's stock piles. Something that has to be used from one exact spot (an ATM, a
+terminal, a drill on a door, a safe) still walks you onto it.
+
 ### Getting in and swapping seats
 
 <kbd>G</kbd> gets you in at the nearest door only when the vehicle is nearly stopped, is on the ground, and has a seat free. A front passenger no longer slides
@@ -164,14 +170,16 @@ imperial. **Two things are always in kilometres**: the mileage on your personal 
 
 ## When staff change the world
 
-Two settings can be switched on for a while, and both are off normally:
+Three settings can be switched on for a while, and all are off normally:
 
 - **No nametags.** Nobody has a name over their head, and the voice icons go too, so you know people by their car and
   their voice.
 - **No player blips on weekends.** On a real-world Saturday or Sunday (server time, London) every player blip leaves the
   map, the police's included, so weekend chases are harder to follow.
+- **Health regeneration.** Normally health never comes back on its own. Switched on, it works as in GTA Online: out of
+  a fight, your health creeps back up to half by itself. See [Death and respawn](../death-and-respawn/).
 
-The Purge is its own event; see [The Purge](../the-purge/). Both situations hold for every player on the server until staff switch them off.
+The Purge is its own event; see [The Purge](../the-purge/). Each setting holds for every player on the server until staff switch it off.
 
 ## Tips
 

@@ -52,6 +52,10 @@ and never more than you have**. It comes out of your cash only, never your bank,
 
 Alive and hurt, a hospital's desk heals you to full for the same bill: see [Medic](../medic/).
 
+**Health doesn't come back on its own.** Food and drink from your pockets (see [Items and your pockets](../items/)) and
+a hospital's desk are how you heal. Staff can switch on GTA Online's own regeneration: then, out of
+a fight, your health creeps back up to half by itself, and no further.
+
 The bill is the same in a Purge. It goes to the city's treasury: see [Money](../money/).
 
 ## What you lose
@@ -89,7 +93,7 @@ takedown, which counts as an arrest and pays three quarters of the arrest XP.
 
 ## Tips
 
-- **Bank your cash before a fight.** The bill, a stick-up and a robbery drop all take cash, never your bank.
+- **Bank your cash before a fight.** The bill and a robbery drop take cash, never your bank.
 - **Wear a bag only when you must.** A worn bag is the one thing a death can take, and only while you're wanted.
 
 Related: [Money](../money/) · [Items and your pockets](../items/) · [Jail and the law](../jail-and-the-law/) ·

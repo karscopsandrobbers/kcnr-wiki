@@ -10,15 +10,19 @@ order: 2
 It starts the moment you register, and it's six short steps. Each one puts a marker or a waypoint on the thing to do:
 
 1. **Welcome.** Chat says to follow the prompts, or leave with `/skipwalkthrough`.
-2. **Steal the bag on the curb** (<kbd>E</kbd>). A marker shows the bag. Inside: $250, a pistol with no rounds, a knife or
-   a dagger, and a candy bar.
-3. **Open your inventory** (<kbd>I</kbd>). The candy bar heals you; the weapons are in your weapon wheel.
+2. **Steal the bag on the curb.** A marker shows the bag, and within 2.5 m of it **Steal the bag** floats over the bag
+   itself: press <kbd>E</kbd> and you reach down for it. Inside: $250, a pistol with no rounds, a knife or a dagger, and a
+   candy bar.
+3. **Open your inventory** (<kbd>I</kbd>). The candy bar heals you, and the hint tells you how much health comes back
+   on its own: normally none (see [Death and respawn](../death-and-respawn/)). The weapons are in your weapon wheel.
 4. **Take a car.** A car with nobody in it nearby is marked, and a waypoint points to it. It is never your
    personal vehicle, a police or emergency car, or a job's car. Any car you find yourself counts just the same.
 5. **Buy something at a shop** (<kbd>Y</kbd> at the counter). The nearest 24/7 or gas station selling something you can
-   afford is marked. If none has anything at your price, one is stocked for you.
-6. **Hold the shop up.** The nearest open 24/7 or gas-station store with a clerk is marked: not one you own, and not one
-   you robbed lately. Point your weapon at the clerk. The knife or dagger is enough.
+   afford is marked, on its counter rather than out at the pumps, and the <kbd>Y</kbd> key shows on the hint once
+   you're within 4 m of it. If none has anything at your price, one is stocked for you.
+6. **Hold the shop up.** The nearest open 24/7 or gas-station store with a clerk is marked on its counter: not one you
+   own, and not one you robbed lately. Point your weapon at the clerk; the hint's key shows once you're within 20 m.
+   The knife or dagger is enough.
 
 For your first 15 minutes nobody can hurt you and you can't hurt anybody. **The hold-up step turns that off**, and you
 are told so: "Passive mode is off. This one is real: the police can come for you." If the 15 minutes run out while the
@@ -135,8 +139,7 @@ points you to it.
 
 ## Keep in mind
 
-- **Cash in your pocket is at risk.** It's what a stick-up takes and what the hospital bills when you die. Money in
-  the bank is safe from both.
+- **Cash in your pocket is at risk.** It's what the hospital bills when you die. Money in the bank is safe from it.
 - **A pistol** at Ammu-Nation is $2,500 plus tax, and you don't need a licence or a level to buy one. It comes empty:
   the same menu then sells its rounds, $4 each plus tax. Buying a weapon is legal; carrying it where the police can see it is not. You don't need a gun to start
   robbing: the walkthrough's blade holds a clerk up.

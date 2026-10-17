@@ -22,6 +22,9 @@ The depot's four roller doors stay down. One goes up for a **Bugstars van** driv
 overalls, at any hour, and stays up while anybody is in the depot; a van stolen from the depot doesn't open them. On
 foot, the **keypad** by the east doors: <kbd>E</kbd> to hack it, one person at a time, and beaten, its door is up for
 60 seconds. Fail it, or walk away from it, while the depot is shut or has no crew on the floor, and the alarm goes off.
+It's GTA Online's Casino keypad hack, four patterns to repeat, and [Lester's](../lester/) gear and your Hacking skill
+each take patterns off, as they ease any hack; a laptop with a USB drive in it covers a wrong code that would have set
+the alarm off. See [Hacking](../hacking/).
 From inside, a door goes up for anybody who walks or drives up to it. Sound your horn at the doors without the overalls and the guard, then one of the crew, will tell you to clear off. Bugstars vans aren't sold at the dealership.
 
 Three Bugstars vans stand inside. Load one and drive it out, and the doors go up for you, but taking a van is **Grand
@@ -36,7 +39,8 @@ replaced later, once it is empty and nobody is around it.
 | The box piles | A box of **pest control equipment** | The [pawn shop](../selling-stolen-goods/) |
 | The gas bottles | A **fumigant canister** | The pawn shop |
 
-Now and then a canister or a box is left lying in the open corners on the east side as well.
+Now and then a canister or a box is left lying in the open corners on the east side as well. A drum knocked off its
+spot can still be taken where it ended up, as long as it hasn't rolled more than 3 metres.
 
 <kbd>E</kbd> over a pile takes one. A drum or a box takes both arms: you walk, and you can't run or get into a car with
 it. Load it into a vehicle's boot with <kbd>E</kbd> at the boot (see [Carrying things](../carrying-things/)), so bring
@@ -70,6 +74,25 @@ to a burglary. It is set the same way in working hours when there is no crew lef
   minutes. The police are told somebody tampered with it.
 - **Gas it from the roof.** A BZ gas grenade on the big air-conditioning unit puts everybody inside down for 45
   seconds (tear gas, 15), you too without a gas mask.
+
+### Call-outs
+
+While the depot is open, Bugstars sends its vans out on jobs. Every 12 to 25 minutes one of the vans leaves with a crew
+of four exterminators, and no more than two are out at once. It goes to a house in **Mirror Park**, **Pacific Bluffs**
+or **Richman**, or, one call in two, to a house in the city's own listings, a player's included, where the crew set up
+round the front door. They work there 8 to 15 minutes, then climb back in and drive home to the depot.
+
+A van out on a call is easier pickings than the depot:
+
+- **Its boot** holds 3 boxes of pest control equipment and 2 fumigant canisters, the firm's stock like what is on the
+  shelves, and taking it starts your robbery the same way. Taken where the crew can see you (within 30 m), it is
+  **Robbery**, 2 stars; out of their sight, nobody knows.
+- **The van** can be driven off. If the crew see it go, it is **Grand Theft Auto**, 2 stars, and the police are told the
+  van, its plate and where it was taken.
+- **The crew** are unarmed. A weapon out in front of them, a gun on one of them, shots or a hit sets them off, 1 star:
+  the first of them squares up with his fists, the rest fight or run, and the call is over.
+
+In the Bugstars overalls the crew take you for one of their own here too.
 
 ### Afterwards
 

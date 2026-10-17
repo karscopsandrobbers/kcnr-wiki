@@ -50,17 +50,8 @@ reported incident: a strike.
 
 ## Robbing a player
 
-Hold a **gun** (not a blade) on them within 4 m and press <kbd>E</kbd>; they can't be in a vehicle or cuffed.
-
-- **Your keys:** <kbd>E</kbd> cash, <kbd>G</kbd> valuables, <kbd>Y</kbd> phone, <kbd>R</kbd> leans on a refusal,
-  <kbd>H</kbd> lets them go.
-- **Their keys:** <kbd>E</kbd> hands it over, <kbd>G</kbd> refuses, <kbd>X</kbd> goes for your gun: a 7-second struggle
-  that costs whoever loses some health. If you're the robber and you lose, you can't draw on anybody for 45 seconds.
-
-Each cash demand takes 7 to 15% of what they carry, never more than about $25,000 to $35,000 at once. It lasts at most
-90 seconds. It's only a crime if an officer is within 60 m: 5 stars, or 4 if you took nothing. 40 XP if you took
-something. Afterwards you wait 4 minutes to rob anyone, and can't rob that person again for 30 minutes. Nobody else can rob
-them for 2 minutes either, and they can't rob anyone themselves in that time.
+**Switched off for now.** You can't hold up another player, and no prompt for it shows. Hold-ups are for the
+city's people, out on the street (above) and behind a shop's counter (see [Shop robberies](../shop-robberies/)).
 
 ## Taking somebody away
 
@@ -92,6 +83,11 @@ behind one unseen and nothing starts.
 - **Aiming at them, shooting at them, hitting one, or killing somebody where they can see**: a fight, and the others
   nearby join in.
 - **A sound they can't place, or a body**: one of them walks over to look, kneels by a body, and goes back.
+
+**Anybody attacking you is a red dot.** Whoever of the city's people comes for you, a gang's man, a guard, a job's
+crew, a passer-by swinging back at you or an animal, shows on your map as a red **Enemy** dot while they're at it. It
+stays on the edge of the minimap however far off they are, so you can tell where they're coming from. Once they stop,
+the dot goes, or turns back into whatever dot they had before.
 
 ## Gang corners
 

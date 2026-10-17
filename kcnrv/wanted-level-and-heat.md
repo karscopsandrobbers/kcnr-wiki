@@ -20,7 +20,6 @@ Only civilians carry stars; officers, medics and firefighters never do.
 | Holding up a pedestrian | 2 | Robbery |
 | Pickpocketing, when they notice and the call gets through | 1 | Robbery |
 | Shaking down a dealer who pays / who refuses | 4 / 2 | Robbery |
-| Robbing a player with an officer within 60 m | 5 (4 if you took nothing) | Robbery |
 | Killing a player | 4, or 5 with an officer nearby | Murder |
 | Driving off in a police or emergency vehicle | 2 | Theft |
 | Aiming at an officer within 60 m on foot | 2 | Domestic Violence |

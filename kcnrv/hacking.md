@@ -1,6 +1,6 @@
 ---
 title: Hacking
-summary: Beat the puzzle on an alarm panel or a vault terminal to switch the alarm off or open the vault. Lester's gear and your Hacking skill make it easier.
+summary: Beat the puzzle on an alarm panel, a vault terminal or a door keypad to switch the alarm off, open the vault or get the door up. Lester's gear and your Hacking skill make it easier.
 section: crime
 order: 7
 opens: From the start at Vangelico; total level 3 at the banks
@@ -17,6 +17,7 @@ the vault opens; lose it and the alarm goes off.
 | A bank's terminal, before the job | <kbd>G</kbd>, **Disable the alarm** | The alarm and cameras are off for 1 minute (10 at Pacific Standard) | The alarm goes off |
 | A bank's terminal, during the job | <kbd>Y</kbd>, **Hack the vault** | The vault door opens, and the alarm with it unless you disabled it or cut the power first | The alarm goes off |
 | Vangelico's counter computer | <kbd>G</kbd>, **Disable the alarm** | The alarm and cameras are off for 3 minutes | The alarm goes off |
+| The keypad by the [Bugstars](../companies/) depot's east doors | <kbd>E</kbd> | That door goes up for 60 seconds | The alarm goes off if the depot is shut or has no crew on the floor |
 
 - **The vault hack gets two attempts a job**, shared by the crew. Walking away from the puzzle doesn't count as one.
 - **You can't disable an alarm once the job has started.** Do it first.
@@ -35,9 +36,14 @@ How a bank job runs around the hack is on [Bank robberies](../bank-robberies/), 
 | Brute force | Click the right letters as they roll past, against a one-minute clock. The columns slow a little the longer it goes |
 | Fingerprint clone (Pacific Standard) | Cayo Perico's green screen. Pick a strip with <kbd>↑</kbd> <kbd>↓</kbd> and turn it with <kbd>←</kbd> <kbd>→</kbd> until all eight make the print, then the next print. Every so often the panel scrambles the one you're on, and there's a five-minute clock |
 | Password terminal (Pacific Standard) | Find the password among the noise; each miss tells you how close you were |
+| Keypad (Bugstars) | The panel flashes a pattern, one node in each of six columns: repeat it column by column with <kbd>↑</kbd> <kbd>↓</kbd> and <kbd>Enter</kbd>, or the mouse. A wrong node costs one of six lives. Each pattern lights a digit of the door code, four patterns in all; 30 seconds after a flash, what you haven't done of it is scrambled and flashed again. Five minutes on the clock |
 
 While a puzzle is up, chat is hidden, your gun is holstered and nothing fires or swings. One pair of hands: you can't
 start another hack, a door, a deposit box or a trolley until the one you're on ends.
+
+**<kbd>Esc</kbd> walks away from a puzzle**, and doesn't open the pause menu behind it (nor does it when it stops the
+drill, the shop safe's dial or the blow torch). The right mouse button doesn't give up a puzzle, so a stray click
+never throws one away.
 
 ## Getting better at it
 
@@ -45,12 +51,13 @@ With nothing, every puzzle asks the most of you. Two things make them
 easier, in steps, and they add up:
 
 - **Your Hacking skill.** It's a skill of its own, levelling up as you hack, separately from your total level: level 2
-  comes at 3 successful hacks, 3 at 6, 10 at 42 and 20 at 188. At **Hacking 10** every hack gets one step easier (an easier circuit board, then a slower trace on it, a slower data crack, more wrong letters, one print fewer on the fingerprint clone), and at
+  comes at 3 successful hacks, 3 at 6, 10 at 42 and 20 at 188. At **Hacking 10** every hack gets one step easier (an easier circuit board, then a slower trace on it, a slower data crack, more wrong letters, one print fewer on the fingerprint clone, one pattern fewer on the keypad), and at
   **Hacking 20** another. The password terminal works differently: it gets a little easier with every Hacking level.
 - **Gear from [Lester](../lester/)**:
   - **the hacking device**: one step easier, until it burns out (it does, now and then, in a shower of sparks);
   - **the laptop**: two steps, and it never breaks. Carry the device as well and only the laptop counts;
-  - **USB drives**, in the laptop: each one covers a failed attempt, then it's spent.
+  - **USB drives**, in the laptop: each one covers a failed attempt, then it's spent. On the Bugstars keypad it covers a
+    wrong code that would have set off the alarm of a shut depot.
 
 The alarm panel tells you what helped. Gear and skill don't help the drill or a shop safe's dial.
 All of Lester's gear is contraband, so a police search takes it.

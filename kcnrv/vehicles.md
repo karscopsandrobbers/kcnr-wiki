@@ -233,7 +233,11 @@ Krieger and $249,500 on an Emerus.
   others), under Bodyparts. Your car keeps the roof you chose, and the hardtop no longer comes and goes between
   spawns. A personal car also keeps the bits it came with (its extras) and its own horn from the first time you drive
   it.
-- **Liveries, roof liveries and the interior colour** are there for the cars that have them.
+- **Liveries and roof liveries** are there for the cars that have them. **Interior colour and dashboard colour** are
+  offered only on the cars GTA Online offers them on.
+- **The car opens up for the part you're looking at**, as in GTA Online: the bonnet for the engine block, air filter
+  and struts, the boot for the trunk and hydraulics, and the driver's door for the doors, except on the cars GTA Online
+  keeps shut.
 - **Plate text** is 1 to 8 letters, numbers and spaces, and no other car may be wearing it.
 - **Rims** with several designs (Benny's, Bespoke, Track, Street) are one row: press left and right to preview each
   design, and <kbd>Enter</kbd> buys the one showing, unless it's marked `(installed)`.
