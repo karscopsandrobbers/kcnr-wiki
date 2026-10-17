@@ -20,8 +20,16 @@ own: not just any car parked at the door.
 | Ordinary second-hand goods | 25% |
 | Contraband, bags, fish, bait, sealed G6 cargo, anything with no market price | Not bought |
 
-**Hot pieces.** For half an hour after a job, a piece from it is hot: it sells for 55% of the usual offer, and about
-one time in three the shop tips off the police, with your name if your face was showing.
+**Hot pieces.** For half an hour after it is taken, anything stolen is hot: jewellery from a case or a deposit box,
+gold bars out of a G6 bag, a firm's stock. Your inventory marks it **Stolen** and keeps it in a pile of its own, apart
+from any of the same thing you came by honestly. The heat is on the goods, not on you, so it goes wherever they go:
+hand them to a friend, drop them, put them in a boot or log off, and they are still hot for whoever has them. After the
+half hour they are ordinary goods again and join the rest of the pile.
+
+A hot piece sells for 55% of the usual offer, and when you sell one, about one time in three the shop tips off the
+police, with your name if your face was showing. Only the stolen pieces are marked down: sell four of something with
+one off a job, and the other three fetch the full price. An officer who finds hot pieces on you in a frisk can book them
+into evidence, and an arrest mid-robbery takes a firm's stolen stock straight off you.
 
 **Haggling.** One try per item: your chance is 45%, plus 2% per Robbing level, up to 80%. Win and the price goes up 10
 to 25%; lose and he drops his price 15%, or now and then refuses that item for the visit.
