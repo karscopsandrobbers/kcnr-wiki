@@ -54,7 +54,8 @@ An officer can frisk a civilian within 1.5 m, and for three and a half seconds y
   they found on you, and what became of it. Drugs sent into evidence charge you: Drug Possession,
   1 star, or Drug Trafficking, 2 stars, for more than 20 doses (see [Drugs](../drugs/)). The frisk finds the guns you
   carry too: one with a registered serial (Ammu-Nation's, or your team's) is left with you; an unregistered one booked
-  into evidence is **Illegal Firearm Possession**, 1 star.
+  into evidence is **Illegal Firearm Possession**, 1 star. Stolen goods you robbed in the last half hour (a shop's loot,
+  a firm's stock) count as illegal finds too, and can go into evidence the same way.
 
 Resist and you can't be frisked again for 45 seconds.
 

@@ -27,7 +27,8 @@ wrench at 3, a jerry can at 5.
    | Any store: a 24/7, gas station, liquor store, Ammu-Nation, clothing store, barber, tattoo parlour, bar, club or the pawn shop | A few where it started, then more across the floor once the first firefighter gets there |
 
    Businesses that rivals set alight are called in the same way. A new city fire breaks out a couple of minutes after
-   the last one is out. Fires never burn out on their own.
+   the last one is out. A city fire never burns out on its own; a business a rival set alight burns out after 10
+   minutes if nobody puts it out.
 3. **Use the hose.** At your Fire Truck, press <kbd>X</kbd> and choose **Add Fire Hose**. Left click turns the water on
    and off. You have to aim at the flames, and walls block it. While you hold the hose you can't switch weapons or
    fight. Getting into a vehicle, or dying, drops it.

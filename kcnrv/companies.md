@@ -61,7 +61,11 @@ shots, a body, or stock taken in front of them. Then one or more of them square 
 the alarm goes off and the police are called. The guard joins in.
 
 - Taking stock in front of them is **Robbery**, 2 stars.
-- A weapon out in front of them is **Brandishing**, 1 star.
+- A weapon out in front of them is **Brandishing**, 1 star; hitting or shooting at one of them, 1 star too.
+
+The police see for themselves as well. An officer within 30 m of you sees a take or a van driven off, overalls or not,
+and an officer who spots you mid-robbery catches you in the act: **Robbery**, 2 stars, and you can be pursued and
+arrested on the spot. Logging off in the middle of a robbery with something taken is still the robbery.
 
 After a while with nobody around, a fresh crew is on the floor.
 
@@ -87,12 +91,15 @@ A van out on a call is easier pickings than the depot:
 - **Its boot** holds 3 boxes of pest control equipment and 2 fumigant canisters, the firm's stock like what is on the
   shelves, and taking it starts your robbery the same way. Taken where the crew can see you (within 30 m), it is
   **Robbery**, 2 stars; out of their sight, nobody knows.
-- **The van** can be driven off. If the crew see it go, it is **Grand Theft Auto**, 2 stars, and the police are told the
-  van, its plate and where it was taken.
+- **The van** can be driven off, with whatever is still in its boot counting as your take. If the crew see it go, it
+  is **Grand Theft Auto**, 2 stars, and the police are told the van, its plate and where it was taken. A stolen
+  Bugstars van is flagged to every police plate reader until it is back at the depot, and a reader that catches you at
+  its wheel makes you wanted for it.
 - **The crew** are unarmed. A weapon out in front of them, a gun on one of them, shots or a hit sets them off, 1 star:
   the first of them squares up with his fists, the rest fight or run, and the call is over.
 
-In the Bugstars overalls the crew take you for one of their own here too.
+In the Bugstars overalls the crew take you for one of their own here too. Putting the firm's stock back into one of its
+own vans is giving it back, not loading a take: only your own vehicle counts.
 
 ### Afterwards
 
