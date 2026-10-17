@@ -20,7 +20,7 @@ Open **Phone** and dial a number on the keypad (clicking it or typing the digits
 from **Recents** or **Contacts**. Their phone rings out loud,
 so people near them hear it too, and they answer on the card that comes up (<kbd>Y</kbd>) or on their phone. If
 another card is already up (a job's call, an invite), answer on the phone; the call's own card comes once that one has
-gone. Somebody already on a call gives you the engaged tone.
+gone.
 
 Put your phone away during a call and it stays peeking up from the bottom of the screen, with who you're talking to and
 for how long; take it out again to hang up.
@@ -29,8 +29,12 @@ Once they answer you hear each other over voice chat however far apart you are, 
 Push-to-talk works as it always does. Either of you can hang up. A call nobody answers is a **missed call** on their
 phone, and you're told if you have any when you log in.
 
-A job's contact ringing you and a call between players are the same line: on one, you can't be rung for the other. A
-contact who rings while you're talking to a player waits, and rings once you hang up.
+**One call at a time.** A job's contact and a call between players share one line, and nothing cuts a call off:
+- Somebody ringing you while you're on a call gets the engaged tone; you're told they called, and it's a missed call in
+  **Recents**.
+- A job's contact who rings while you're on a call waits: your phone says they'll ring back, and they ring a moment
+  after you hang up, one after another if more than one tried. A business of yours texts you instead.
+- You can't dial out while a contact is talking to you.
 
 **911** on the keypad goes to the police: say what is happening, and they're told where you are. The **Vanilla
 Unicorn** is on **555-0169**: rung from your own high-end home, it sends a dancer (see [Houses](../houses/)).
