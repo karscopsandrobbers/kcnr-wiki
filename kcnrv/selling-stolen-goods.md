@@ -20,11 +20,19 @@ own: not just any car parked at the door.
 | Ordinary second-hand goods | 25% |
 | Contraband, bags, fish, bait, sealed G6 cargo, anything with no market price | Not bought |
 
-**Hot pieces.** For half an hour after it is taken, anything stolen is hot: jewellery from a case or a deposit box,
-gold bars out of a G6 bag, a firm's stock. Your inventory marks it **Stolen** and keeps it in a pile of its own, apart
-from any of the same thing you came by honestly. The heat is on the goods, not on you, so it goes wherever they go:
-hand them to a friend, drop them, put them in a boot or log off, and they are still hot for whoever has them. After the
-half hour they are ordinary goods again and join the rest of the pile.
+**Hot pieces.** Anything stolen is hot for a while after it is taken: jewellery from a case or a deposit box, gold bars
+out of a G6 bag, a firm's stock, and whatever you take in a stick-up or lift from a pocket. Your inventory marks it
+**Stolen** and keeps it in a pile of its own, apart from any of the same thing you came by honestly. The heat is on the
+goods, not on you, so it goes wherever they go: hand them to a friend, drop them, put them in a boot or log off, and they
+are still hot for whoever has them. Once it wears off they are ordinary goods again and join the rest of the pile.
+
+How long depends on how easily the piece is recognised:
+
+| Stolen | Hot for |
+| --- | --- |
+| Everyday things: a phone, a wallet, sunglasses, a silver chain, a steel or digital watch, a gold ring, a laptop or TV, a firm's stock | 1 hour |
+| Fine things: gold, diamonds and the other stones, pearls, the gold, luxury and platinum watches, coins and bonds, collector's pieces, art and trophies | 4 hours |
+| One of a kind: the rare painting, the rare trophy | For good. No pawn shop will buy it |
 
 A hot piece sells for 55% of the usual offer, and when you sell one, about one time in three the shop tips off the
 police, with your name if your face was showing. Only the stolen pieces are marked down: sell four of something with
@@ -53,7 +61,7 @@ too.
 
 | You have | Best place | Why |
 | --- | --- | --- |
-| Jewellery from a case or a deposit box | A pawn shop | Wait half an hour if you can: full price, no tip-off |
+| Jewellery from a case or a deposit box | A pawn shop | Wait out the heat if you can (an hour, or four for the fine pieces): full price, no tip-off |
 | A sealed cash box, bag or duffel | The G6 insider | Full worth, never less than opening it yourself, plus Robbing XP |
 | A sealed gold bag | The G6 insider | Its full worth; opened, each bar fetches only 60% at a pawn shop |
 | Till or vault cash | Nothing to sell | It's already money |

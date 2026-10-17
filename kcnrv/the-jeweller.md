@@ -65,7 +65,8 @@ Each case holds one piece, picked by chance, in a varying condition.
 - No bag, no case. Arms full, no case. A full bag loses the piece, and the case is still smashed.
 - Killing the assistant loses you the till, not the job.
 - **Your bag drops where you fall** if you die while wanted or inside your own crime scene with police online.
-- Pieces stay **hot** for half an hour after the job. Sell them later for the full price, with no risk of a tip-off.
+- Pieces stay **hot** after the job: an hour for the everyday ones, four for gold, diamonds, stones and the dearer
+  watches. Sell them later for the full price, with no risk of a tip-off.
 
 Related: [Carrying things](../carrying-things/) · [Selling stolen goods](../selling-stolen-goods/) · [Bank robberies](../bank-robberies/) · [Hacking](../hacking/) ·
 [Shop robberies](../shop-robberies/) · [Simeon's Repo Jobs](../repo-jobs/) (where a bag comes from)

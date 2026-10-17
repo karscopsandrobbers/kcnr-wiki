@@ -18,7 +18,9 @@ you sees it in your hand. You can't use it in cuffs, in a cell, or while you're 
 
 Open **Phone** and dial a number on the keypad (clicking it or typing the digits, <kbd>Enter</kbd> to call), or call
 from **Recents** or **Contacts**. Their phone rings out loud,
-so people near them hear it too, and they answer on the card that comes up (<kbd>Y</kbd>) or on their phone.
+so people near them hear it too, and they answer on the card that comes up (<kbd>Y</kbd>) or on their phone. If
+another card is already up (a job's call, an invite), answer on the phone; the call's own card comes once that one has
+gone. Somebody already on a call gives you the engaged tone.
 
 Put your phone away during a call and it stays peeking up from the bottom of the screen, with who you're talking to and
 for how long; take it out again to hang up.

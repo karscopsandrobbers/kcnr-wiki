@@ -119,7 +119,7 @@ matter. Ring ahead and they expect you, even if they don't like you, and the doo
 | Lost MC | 555-0136 |
 
 Or break a drum open for your own [lab](../drugs/). A drum is contraband: a frisk or a police dog turns it up. The equipment
-and canisters are hot for half an hour, like any job's pieces: see [Selling stolen goods](../selling-stolen-goods/).
+and canisters are hot for an hour, like any everyday stolen goods: see [Selling stolen goods](../selling-stolen-goods/).
 
 A stolen Bugstars van is called in by its plate when the crew saw it go or the alarm went, and every police plate
 reader knows it until it is back at the depot.

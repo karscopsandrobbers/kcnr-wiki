@@ -36,6 +36,9 @@ Each extra demand makes them more likely to run or swing at you: knowing when to
 take is 2 stars and 25 XP. You wait 45 seconds between stick-ups, and can't rob the same person again for 15 minutes. You can't do it from a
 vehicle or while carrying somebody.
 
+What you take, theirs or a pickpocket's, is stolen goods: hot for an hour (four for gold and diamonds), marked **Stolen** in your inventory (see
+[Selling stolen goods](../selling-stolen-goods/)).
+
 ## ATMs
 
 Stand at an ATM and type `/rob`, no weapon needed. It pays $5 to $120 a second for 6 to 10 seconds, up to what's in the
