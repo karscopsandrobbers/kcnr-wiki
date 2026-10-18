@@ -21,7 +21,8 @@ own: not just any car parked at the door.
 | Contraband, bags, fish, bait, sealed G6 cargo, anything with no market price | Not bought |
 
 **Hot pieces.** Anything stolen is hot for a while after it is taken: jewellery from a case or a deposit box, gold bars
-out of a G6 bag, a firm's stock, and whatever you take in a stick-up or lift from a pocket. Your inventory marks it
+out of a G6 bag, a firm's stock, whatever you take in a stick-up or lift from a pocket, and anything a customer saw you
+shoplift. Your inventory marks it
 **Stolen** and keeps it in a pile of its own, apart from any of the same thing you came by honestly. The heat is on the
 goods, not on you, so it goes wherever they go: hand them to a friend, drop them, put them in a boot or log off, and they
 are still hot for whoever has them. Once it wears off they are ordinary goods again and join the rest of the pile.

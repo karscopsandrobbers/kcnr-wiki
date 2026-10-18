@@ -138,6 +138,8 @@ in an hour give you a star. Strikes survive a relog; going to jail clears them.
 - **Against traffic:** driving on the wrong side at speed for a few seconds, then a passer-by may phone it in. Only a
   call that gets through counts.
 - **Carrying a gun openly:** on foot, outdoors, in somebody's sight. A passer-by may reach for the phone. Melee weapons, the stun gun and tools don't count.
+- **Shoplifting:** the clerk who catches you reports it on the spot. A customer who sees you get it past him may phone it
+  in. Only a call that gets through counts ([Shoplifting](../gangs-and-street-crime/#shoplifting)).
 
 ## Tips
 

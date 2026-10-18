@@ -47,9 +47,14 @@ minutes before you can rob that ATM again.
 
 ## Shoplifting
 
-In a shop with a clerk, any item under $500 can be pocketed from the shop menu. The clerk notices the first item 35% of
-the time, plus 15% for each more that visit, plus 25% if you're masked. If he notices you keep nothing, and it's a
-reported incident: a strike.
+In a shop with a clerk, any item under $500 can be pocketed from the shop menu. The clerk only notices what he can see:
+if he's facing you with a clear view within 20 m, he notices the first item 35% of the time, plus 15% for each more that
+visit, plus 25% if you're masked. Put a shelf between you and him and he never sees it. If he notices, you keep nothing,
+and it's a reported incident: a strike.
+
+Getting past the clerk isn't the end of it. A customer on the shop floor within 15 m who sees you pocket it may phone the
+police. If the call gets through, that's a strike too, and what you pocketed is marked
+[Stolen](../selling-stolen-goods/) (an hour for everyday things). Food and drink are never marked. If nobody saw, the goods are clean.
 
 ## Robbing a player
 
