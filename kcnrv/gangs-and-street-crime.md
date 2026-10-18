@@ -262,6 +262,11 @@ wears off slowly. `/gangs` shows where you stand with each gang:
 - **Hostile**: its people come for you when they see you with a weapon out, at a job, at its hideout and on its
   corners. Empty-handed, you are warned off like anybody else.
 
+**It remembers your group too.** Everything you do to a gang or for it while you're in a group counts for your group as
+well as for you, and that wears off the same way. `/gangs` shows what each gang thinks of your group beside what it
+thinks of you, and your group hears when a gang turns friendly or hostile. For now, a gang's people still act on what
+they think of you, not your group.
+
 ## Taking a gang over
 
 Groups can't take a gang over for now.

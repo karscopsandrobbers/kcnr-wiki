@@ -49,7 +49,9 @@ Open **Messages** to text a number or a contact, up to 160 characters, with emoj
 A text that comes in shows at the top of your phone with a tone; if your phone is away, it peeks up from the bottom
 of the screen to show it and goes back down. Click one with your phone out to open the conversation; any notice on the
 phone opens what it's about the same way, such as Recents after a call nobody answered. Texts wait for somebody who isn't on. A
-text from **KCNR Staff** is from the server's admins; you can't reply to it, so answer with `/report` if you need to.
+text from **KCNR Staff** is from the server's admins; you can't reply to it, so answer with `/report` if you need to. If somebody won't stop texting or ringing you,
+`/report` it: the staff can give you a **new number**. Your contacts stay, but the texts and calls on your old number go
+with it, and anybody who tries the old one gets "not in service".
 
 ## Contacts
 

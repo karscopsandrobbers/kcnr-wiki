@@ -152,7 +152,8 @@ Your pockets hold **25 lb (11.3 kg) of fish**. A **Small Cooler** adds 60 lb (27
 (63.5 kg), one of each. **Only a cooler adds room**: a bag doesn't. When you're full the rod won't cast.
 
 A boat's hold carries fish too (120, 300 or 600 lb by hull, plus 150 lb per extension), but buyers only take what's in
-your pockets and coolers.
+your pockets and coolers. **A pot haul fills your pockets and coolers first, then the hold** of your own boat (or the one
+you came in) within 15 m (50 ft); a fish that fits in neither goes back over the side.
 
 ## Selling
 
