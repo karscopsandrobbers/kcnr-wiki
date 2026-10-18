@@ -7,7 +7,8 @@ opens: From the start, as a civilian
 ---
 
 Any civilian at the wheel of anything can race: there's no level and no car class. Officers, medics and firefighters
-can't, and nobody can while on a job, in a robbery or stick-up, cuffed, being arrested or in jail. A racer counts as
+can't, and nobody can while on a job, in a robbery or stick-up, cuffed, being arrested, in jail or with the police after
+them. A racer counts as
 being on a job: `/mission leave` or dying takes you out of the race, and everything else that refuses a driver on a job
 refuses a racer.
 
@@ -65,14 +66,25 @@ finishes.
 | 3 | 70% / 30% |
 | 4 or more | 60% / 30% / 10% |
 
-A place nobody finished in goes to the winner. **The city pays on top**, in any race with at least two starters:
+A place nobody finished in goes to the winner. **A street race is your own bet**: an impromptu race or a heads-up pays
+the pot and Civilian XP, and no cash from the city. **A race on a track is a staff event**, and the city pays its prize on
+top. Either way it only counts if somebody else really raced it, another driver getting past half the course: a race the
+others quit, or sat out on the grid, earns nothing. The 2nd and 3rd place figures are only paid in a race of four cars or
+more; the winner's in any race:
 
-| | Cash | Civilian XP |
+| | Cash (track races) | Civilian XP (every race) |
 | --- | --- | --- |
 | Finishing | $150 | 40 |
 | 1st / 2nd / 3rd, on top | $800 / $400 / $200 | 120 / 70 / 40 |
+
+A lap of a track, in a race or a time trial:
+
+| | Cash | Civilian XP |
+| --- | --- | --- |
 | A personal best on a track (any car) | $250 | 50 |
 | A new track record | $2,500 | 200 |
+
+Each is paid once a day a track: a second personal best or record there the same day goes on the board unpaid.
 
 The work board adds daily racing jobs and a weekly one (eight races): see [Your first hour](../your-first-hour/).
 
@@ -102,7 +114,19 @@ Racing** (more on [Achievements and leaderboards](../achievements-and-leaderboar
 
 ## The police
 
-Street racing isn't a crime, and the police aren't told. Speed cameras still fine you mid-race.
+A street race, impromptu or a heads-up, is a crime: **Street Racing**. A time trial and a race on a track never are.
+
+- **At the start**, somebody on the street may see the cars go and phone it in. You hear nothing about it. All they can
+  give is where you went from, which way, and the cars' colour and model: no plates, no faces, so nobody is charged for
+  it, but the police know what to look for.
+- **A burnout at the line** draws the street's eyes: a few people cheer, and somebody may be on the phone about it.
+- **An officer's plate reader** that catches your car mid-race reports you: a reported incident and a strike (three in
+  an hour is a star; see [Wanted level and heat](../wanted-level-and-heat/)), and the reader knows your car for about
+  five minutes. A stolen police car or ambulance is read like any other car.
+- **You can't race with the police on you**: a pursuit, even one that has lost you, keeps you out of any race.
+- **Arrested or jailed mid-race**, you're out of it.
+
+Speed cameras still fine you mid-race.
 ## Tips
 
 - There's no racing skill. Time trials are free, so learn tracks there.

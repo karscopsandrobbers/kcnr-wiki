@@ -61,7 +61,7 @@ your car is, and they walk out to you.
 | Collect the earnings | 3, night only | Three corners. <kbd>E</kbd> on each girl and she counts the money out over 4 seconds. She hands over nothing while a mugger is on his feet, and many corners have one. | Any of the three is killed |
 | Rival on the block | 5 | Another pimp, his girl and one or two men. Get close or aim a gun and the whole corner comes at you. Only he has to go, and a gun sometimes scares him off. Hurting his girl changes nothing. | Time, or your death |
 | Client pickup | 8 | Pull up next to her and stop; she takes the front seat. Drive her to the client's door and stop there. The booking lasts 45 seconds, and somebody has to stay near the door (you get a few seconds' grace if you drive off). Sometimes the client won't pay: some fight, the rest run; beat him or pull a gun to get paid in full. Then take her home. | She's killed, or you drive off and leave her |
-| Hold the turf | 11 | Two girls on a corner. Three waves come at you on foot, each a few seconds after the last one is down. | Both girls are killed |
+| Hold the turf | 11 | Two girls on a corner. Three waves come at you, each a few seconds after the last one is down: they drive up in a car and pile out to fight, or walk in where no car can reach. | Both girls are killed |
 | VIP Escort | 15 | Collect him, collect her, and drive to a hotel. Stay near the hotel while they're inside. Deal with whatever comes out, then take him home. | He dies, you lose him, you drive off and leave her, or he bleeds out |
 
 **Every job also fails for you** if time runs out, you die, or you walk away from it with `/mission leave`. It pays you

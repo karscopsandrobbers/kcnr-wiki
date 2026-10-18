@@ -131,8 +131,8 @@ returns. You see the same clock.
 
 ## Incidents and strikes
 
-Speeding past a camera, driving against traffic, carrying a gun openly for 10 seconds in someone's sight and shoplifting
-give no stars: they leave an orange 100 m circle for 5 minutes. One that's reported is a **strike**, and three strikes
+Speeding past a camera, driving against traffic, carrying a gun openly for 10 seconds in someone's sight, shoplifting
+and street racing give no stars: they leave an orange 100 m circle for 5 minutes. One that's reported is a **strike**, and three strikes
 in an hour give you a star. Strikes survive a relog; going to jail clears them.
 
 - **Against traffic:** driving on the wrong side at speed for a few seconds, then a passer-by may phone it in. Only a
@@ -140,6 +140,8 @@ in an hour give you a star. Strikes survive a relog; going to jail clears them.
 - **Carrying a gun openly:** on foot, outdoors, in somebody's sight. A passer-by may reach for the phone. Melee weapons, the stun gun and tools don't count.
 - **Shoplifting:** the clerk who catches you reports it on the spot. A customer who sees you get it past him may phone it
   in. Only a call that gets through counts ([Shoplifting](../gangs-and-street-crime/#shoplifting)).
+- **Street racing:** an officer's plate reader catching your car in a street race. A passer-by who phones a race in
+  can only describe the cars, so nobody gets a strike from that ([Racing](../racing/#the-police)).
 
 ## Tips
 
