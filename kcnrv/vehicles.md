@@ -276,10 +276,18 @@ does the same. With your hands full, <kbd>E</kbd> at the boot puts what you hold
 
 ## The impound
 
-Only an arrest impounds a car: the one you last drove, if it's your own and within 60 m of you. The fee is **$1,000 a
-wanted star you had, plus $10,000 with an APB**, and while it's under $50,000 it grows $1 to $5 a minute. Get it back
-at the **LSPD Auto Impound**: <kbd>X</kbd> on your car, **Clear from impound**, paid in cash. Until then nobody can get
-in it, even across logouts.
+An arrest impounds a car: the one you last drove, if it's your own and within 60 m of you. An officer can also **seize**
+your car if it's wanted for a reported crime, if you're wanted, or if it carries an overdue fine: $2,500 plus $1,000 a
+star of yours. The fee is **$1,000 a
+wanted star you had, plus $10,000 with an APB**, and while it's under $50,000 it grows $1 to $5 a minute you're
+online. You're told the fee when it's taken and each time you log in. Get it back at the **LSPD Auto Impound**:
+<kbd>X</kbd> on your car, **Clear from impound**, paid in cash. Until then it's locked with its engine off, nobody can
+get in it, and the scrapyard won't buy it, even across logouts. While it's still on its tow, clear it once it reaches the
+lot.
+
+At the lot its boot is searched: anything illegal or stolen in it is taken as evidence, and the rest is left for you. A
+car wanted for a crime is **held as evidence** until the police are done with that crime, and can't be cleared before
+then. Any overdue fines it carries are added to what you pay to clear it. It stays at the lot until you clear it.
 
 **The tow:** if a tow driver of rank 3 (Contracted) is on duty nearby when you're arrested, the car waits at
 the kerb for a couple of minutes as a live tow call, and the officer is told a tow has been called. If no driver comes, the lot

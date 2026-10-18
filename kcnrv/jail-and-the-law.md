@@ -14,6 +14,11 @@ is **Unpaid Ticket, 4 stars**.
 **Speed cameras** are separate: crossing one too fast costs $200 or $300, half as much again driving against traffic.
 Pay it at any police station desk. You can't join the police while one is unpaid.
 
+A camera's fine is yours, and **the car you were caught in carries it** if it's your own. You have **a day** to pay it.
+Left unpaid past that, it goes up by half, a **warrant** is out for you (1 star, and
+again each time you log in until it's paid), and a plate reader on that car tells the officer it has an overdue fine and
+whose it is.
+
 ## Arrest (4 stars or more)
 
 The officer has to be within 4.5 m of you (more if you're in the same vehicle, less indoors). You're taken where you stand
