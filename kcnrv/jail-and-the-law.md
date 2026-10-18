@@ -41,6 +41,9 @@ An officer's megaphone reaches you within 30 m. You have 5 seconds to pull over,
 surrender (`/surrender`, `/handsup`); <kbd>G</kbd> gets you back on your feet. Ignoring it is Evading Police, one
 more star.
 
+A **stun gun** drops you where you stand. Back on your feet you stagger for **20 seconds**, your view swimming, then walk
+unsteadily for **30 more** before you're yourself again; everybody sees the stagger. Tased again, it starts over.
+
 ## Being frisked
 
 An officer can frisk a civilian within 1.5 m, and for three and a half seconds you're playing different games:
