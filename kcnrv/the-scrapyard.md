@@ -31,6 +31,10 @@ opens: From the start
 
 The XP goes to whichever team you're on when you sell.
 
+**A car the police are looking for** (one on a reported crime, that a plate reader would flag) is evidence. Crush it and
+it's **Destroying Evidence**: the yard's gate camera has your plate about one time in four, and then the police are told.
+The police stop looking for the car either way, because it's gone. An officer who crushes one is a dirty cop.
+
 ## Tips
 
 - An undamaged body is worth most of a street car's price.
