@@ -73,7 +73,9 @@ Another player working a spot close to yours is a rival too: each customer goes 
 
 ## The gangs' ground
 
-Most rough streets are some gang's ground (see [Gangs and street crime](../gangs-and-street-crime/)).
+Most rough streets are some gang's ground (see [Gangs and street crime](../gangs-and-street-crime/)). A gang's ground
+is anywhere within 150 m of one of its corners, then its turf, then 60 m round a business on its ground (a car wash, the
+scrapyard or a club whose protection it runs); the first of those that fits is the one that counts.
 
 - **A gang that counts you a friend** takes **a fifth** of every sale on its ground.
 - **Anybody else** dealing there pays no cut, but the gang thinks a little less of you with every sale, and a gang

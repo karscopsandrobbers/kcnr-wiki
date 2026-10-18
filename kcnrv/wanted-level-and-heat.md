@@ -133,7 +133,7 @@ returns. You see the same clock.
 
 Speeding past a camera, driving against traffic, carrying a gun openly for 10 seconds in someone's sight and shoplifting
 give no stars: they leave an orange 100 m circle for 5 minutes. One that's reported is a **strike**, and three strikes
-in an hour give you a star. Strikes survive a relog.
+in an hour give you a star. Strikes survive a relog; going to jail clears them.
 
 - **Against traffic:** driving on the wrong side at speed for a few seconds, then a passer-by may phone it in. Only a
   call that gets through counts.

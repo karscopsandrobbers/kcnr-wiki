@@ -81,8 +81,9 @@ and for a new character the last row, **Reset to default**, starts the whole cha
 | <kbd>A</kbd> / <kbd>D</kbd> (held) | Turn your character round, inside any page |
 | <kbd>←</kbd> <kbd>→</kbd>, <kbd>W</kbd> <kbd>S</kbd> | On a Features grid: across, and up and down. Hold <kbd>Left Shift</kbd> to move three times as fast, or drag inside the grid with the mouse |
 
-**You always leave dressed.** A new character starts in one of the Apparel page's outfits, picked at random, and can
-change it before saving. If staff open the creator for a character you already have, the first choice on each Apparel
+**You always leave dressed:** a top, trousers or a skirt, and shoes, at the least. A new character starts in one of
+the Apparel page's outfits, picked at random, and can change it before saving; two of the man's Beach outfits are
+shirtless, and the creator won't save in those. If staff open the creator for a character you already have, the first choice on each Apparel
 row is **current**, the clothes you already wear, and **Cancel** leaves without changing anything.
 
 **Saving asks you to confirm first.** Then the camera turns to the booking board with your name on it and takes your
