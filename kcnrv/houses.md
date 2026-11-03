@@ -1,6 +1,6 @@
 ---
 title: Houses
-summary: Buy a house to wake up in, lock friends in or out of, and keep a dog or a cat. Up to five, with property tax about once a day.
+summary: Buy a house to wake up in, keep things in, lock friends in or out of, and keep a dog or a cat. Up to five, with property tax about once a day.
 section: life
 order: 3
 opens: From the start, with the price in cash
@@ -21,6 +21,9 @@ the door's marker and its menu opens:
   passwords and that house won't take one from you for five minutes);
 - police on duty: **Enter House (duty)**.
 
+Nobody goes in cuffed or being arrested. If you log out inside somebody else's house and it's locked when you come
+back, you wake at its front door.
+
 ## Buying
 
 1. **Preview it.** You tour the inside on your own.
@@ -36,12 +39,29 @@ You can own **5 houses**. A new one is named "*your name*'s new house".
 
 - **Statistics:** its number, name and purchase date.
 - **Evaluation:** what it's worth on the market, and selling it back to the city (below).
+- **Stash:** what's kept in the house (below).
 - **Pets.**
 - **Settings:** lock or unlock it, **Spawn in house**, change the name, set or remove an access password.
 
 **Spawn in house** puts you inside it when you log in, waking up in its bed or its shower; after a death you still wake
-at a hospital. The exit marker inside takes you out. Houses don't store items yet: a personal vehicle's boot is the
-place to keep things.
+at a hospital. The exit marker inside takes you out.
+
+## The stash
+
+Every house has a stash, and only its owner gets into it: **Stash** in the house menu. It lists what's in it and how much
+it weighs; pick a pile to take some or all of it out into your pockets, or **Put something in** from your pockets. A box
+or crate is too big for pockets: it comes out into your hands, or into a bag you're wearing if it has room. There's no
+weight limit.
+
+A lab in the house takes from the stash and cooks into it, and `/pack` and `/unpack` work on what's in it: see
+[Drugs](../drugs/). What's in the stash stays with the house when you sell it, so empty it first.
+
+## The police
+
+Police on duty can walk into any house. Once inside, <kbd>H</kbd> searches it, which they may only do while its owner is
+online and wanted by name. A masked owner they have no name for is not, and neither is one who's offline. The search
+takes 10 seconds, and the officer has to still be in the house when it ends. Everything illegal or stolen in the stash
+is booked into evidence, which pays the officer, and the owner is told. Anything legal is left where it was.
 
 ## Things to do at home
 
@@ -78,8 +98,9 @@ can use them, guests too, and the drinks are free.
 ## Selling it back
 
 **Evaluation**, then **Sell house to government**, sells it to the city for **80% of its market price**, paid in cash at
-once. It asks you to confirm first, and it can't be undone. You're put outside, the house is unlocked, its name and
-password are cleared, and nobody spawns in it any more. Its pets go with it.
+once. A house an admin gave you sells for nothing. Any property tax it owes is paid out of that first, and whatever the sale doesn't cover is written off with the
+house. It asks you to confirm first, and it can't be undone. Everybody inside is put outside, the house is unlocked, its
+name and password are cleared, and nobody spawns in it any more. Its pets go with it, and so does what's in its stash.
 
 ## Pets
 
@@ -104,7 +125,8 @@ A house keeps one dog. 6% sales tax goes on top, and rehoming a pet gives nothin
 ## Property tax
 
 Each house is billed at most once every 24 real hours, when the game week turns. The bill comes from your cash, then
-your bank. If you're offline or short, what's left is added to your next bill with 5% on top. If you're online when
+your bank. If you're offline or short, what's left is added to your next bill with 5% on top. What a house owes never
+grows past its price. If you're online when
 it's taken, you're told what was paid and what is still owed. Once the debt grows large you're also
 told "A lien is on this property", which for now is a warning and nothing more.
 
