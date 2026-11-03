@@ -6,7 +6,7 @@ order: 2
 opens: From the start; Premium Deluxe Motorsport at total level 10
 ---
 
-**Any street car can be driven** from your first minute; a parked one's engine is off, and <kbd>L</kbd> starts it. As a civilian, getting behind the wheel of a police car or an
+**Any street car can be driven** from your first minute; a parked one's engine is off, and <kbd>L</kbd> starts it, while its [quick action](#quick-actions) shows. As a civilian, getting behind the wheel of a police car or an
 emergency vehicle is Theft, two stars. **Owning one** needs only the money, in cash, and your first pays the **Own a
 vehicle** goal: $1,000 and 150 XP.
 
@@ -82,9 +82,25 @@ Your account is the key. <kbd>X</kbd> on your personal vehicle, on foot: Toggle 
 and Windows; on anyone else's, just Doors and Windows while it's unlocked. `/lock` and `/unlock` work on the car you're
 in, your personal vehicle within 4 m, or the last car you drove. Locked, nobody else can open its doors or boot, and the lock
 stays through logouts. You can lock a street car that's nobody's, and then only you can unlock it. `/engine` switches
-the engine on and off, and getting into the driver's seat of a car whose engine is off shows <kbd>L</kbd> to start it, for
-a few seconds. Locking or unlocking by hand chirps and flashes the lights: **two flashes for locked, four for
-unlocked**.
+the engine on and off, and getting into the driver's seat of a vehicle whose engine is off shows <kbd>L</kbd> to start it,
+as a [quick action](#quick-actions). Locking or unlocking by hand chirps and flashes the lights: **two flashes for locked,
+four for unlocked**.
+
+## Quick actions
+
+Getting into a vehicle brings up a row of buttons along the bottom of the screen for a few seconds, saying what starts it
+and what it can do. Each one shows your own key.
+
+| In | Shows | For |
+| --- | --- | --- |
+| The driver's seat, engine off | <kbd>L</kbd> to start it. That key only starts the engine while the button shows | 8 seconds |
+| A boat on the water | The anchor, casting a line, the boat's storage, its fish finder if it has one, and setting a pot if you carry one. See [Fishing](../fishing/) | 6 seconds |
+| A plane or helicopter, flying it | How it flies. See [Flying](#flying) | 12 seconds |
+| A helicopter, as a passenger | <kbd>3</kbd> to rappel, if it has ropes | 12 seconds |
+
+**They're on unless you turn them off:** `/settings` > **Quick Actions**, and it stays that way for this character. Off,
+none of these buttons come up and <kbd>L</kbd> doesn't start anything, but `/engine` still does, and every other key
+here works as it always does.
 
 ## Getting in, changing seats and breaking in
 
@@ -132,6 +148,31 @@ complex, simple and off. See [Keys and menus](../keys-and-menus/).
   works while the car is wrecked, and the spikes don't go down in water or while you're on the horn.
 - **Boats** drop anchor with <kbd>-</kbd>, and it's explained under [Fishing](../fishing/).
 - **The last street car you drove** isn't swept away while you're gone from it, until you drive another.
+
+## Flying
+
+These are GTA's own controls, and you can move them in GTA's **Settings > Keyboard / Mouse**. This table has the defaults;
+the [quick action](#quick-actions) in the pilot's seat shows your own keys, and only what this aircraft has.
+
+| Key | What it does |
+| --- | --- |
+| <kbd>W</kbd> / <kbd>S</kbd> | Throttle. In a helicopter, climb and descend |
+| <kbd>A</kbd> / <kbd>D</kbd> | Yaw |
+| <kbd>Numpad 8</kbd> / <kbd>Numpad 5</kbd> | Pitch |
+| <kbd>Numpad 4</kbd> / <kbd>Numpad 6</kbd> | Roll |
+| <kbd>Left mouse</kbd> (hold) | Steer with the mouse |
+| <kbd>G</kbd> | Raise or lower the landing gear, on an aircraft whose gear moves |
+| <kbd>E</kbd> | Hover or forward flight, on the Hydra, Tula, Avenger and Raiju |
+| <kbd>Right mouse</kbd> / <kbd>Scroll wheel</kbd> | Fire / next weapon, on an armed aircraft |
+
+- **Starting up:** a parked aircraft's engine is off, like a car's, and <kbd>L</kbd> starts it while its button shows.
+- **The landing gear reminds you.** Over 25 m (82 ft) up with the gear down, a button says to raise it, once a flight. Sinking
+  below 60 m (197 ft) with it up, a button says to lower it, once a descent. Each stays 8 seconds, or until you press it.
+  They're quick actions too, so turning those off stops these.
+- **Rappelling:** as a helicopter's passenger, <kbd>3</kbd> sends you down a rope, on one that has them. It needs the
+  helicopter nearly still (under 36 km/h, 22 mph), upright, and at least 10 m (33 ft) up.
+- **Your emote slots wait.** While you fly an aircraft, the numpad's emote slots don't play, so pitching the nose doesn't
+  start one.
 
 ## Fuel
 

@@ -24,7 +24,7 @@ FiveM keeps your old choice for that action, so a default that changes later won
 | <kbd>E</kbd> | Pick up, a car's boot from the back, an ATM, City Hall's counter, the scrapyard, a pump, a dumpster to search, a car window to smash. Floating prompts show their own key |
 | <kbd>Y</kbd> | A shop, pawn or bank counter, a Bait & Tackle, and the card on screen (a party invite, a crew job, a trade) |
 | <kbd>N</kbd> | **Not now**: turns down the card on screen (a call with work, a party or crew invite, a trade, a shared emote) and the next job a contact offers. Hazards otherwise, in a car |
-| <kbd>L</kbd> | Starts the engine, for the few seconds its prompt shows after you get into the driver's seat of a car whose engine is off |
+| <kbd>L</kbd> | Starts the engine, for the few seconds its quick action shows after you get into the driver's seat of a vehicle whose engine is off |
 | <kbd>H</kbd> | The house menu, inside a house (in a car it's the headlights, and held on a convertible it moves the roof). A bag's contents, when you stand over one |
 | <kbd>G</kbd> | Get in at the nearest door, or swap seats |
 | <kbd>F</kbd> (hold) | Pay respects, next to a body |
@@ -34,7 +34,7 @@ FiveM keeps your old choice for that action, so a default that changes later won
 | <kbd>B</kbd> (hold) | Point |
 | <kbd>Left Ctrl</kbd> | Stance, one step a press: sneak, crouch, prone, and from prone back up. While sprinting, a dive straight to prone. <kbd>Space</kbd> stands you straight up from any of them, and lying prone <kbd>Left Shift</kbd> rolls you over. At the wheel of a JB700, it drops a spike strip behind the car |
 | <kbd>Middle mouse</kbd> while aiming | Moves the camera to your other shoulder. See [Aiming over either shoulder](#aiming-over-either-shoulder) |
-| <kbd>F9</kbd> | Emotes. <kbd>Numpad 1 2 3 7 8 9</kbd> are your six emote slots, <kbd>Numpad 0</kbd> cancels |
+| <kbd>F9</kbd> | Emotes. <kbd>Numpad 1 2 3 7 8 9</kbd> are your six emote slots (not while you fly an aircraft, when the numpad flies it), <kbd>Numpad 0</kbd> cancels |
 | <kbd>J</kbd> | Cast a fishing line, or put the rod away. At the wheel of an emergency vehicle with its siren on, silence it |
 | <kbd>+</kbd> / <kbd>-</kbd>, <kbd>H</kbd>, <kbd>Backspace</kbd> | Working a street spot: your price up or down (between customers), a pose while you wait (again for the next, hold to stop), stop working. See [Street dealing](../street-dealing/) |
 | <kbd>-</kbd> / <kbd>=</kbd> | A boat's anchor (the numpad minus works too) / its fish finder |
@@ -144,7 +144,9 @@ swapping in a plane. You can't swap onto a seat with a bag on it, and you're tol
   - **Language**;
   - **Unit System**, which only shows what GTA's own setting says, because you change it in GTA (see Units below);
   - **Speedometer** (complex, simple or off), **FPS type**, and **Important Global Blips**, which keeps your own
-    properties on the map at any distance.
+    properties on the map at any distance;
+  - **Quick Actions**, on unless you turn it off: the buttons that come up for a few seconds when you get into a vehicle.
+    See [Vehicles](../vehicles/#quick-actions).
 - **Your phone** comes out on <kbd>Up</kbd>: call and text other players, contacts, the camera and your photos. See
   [Your phone](../phone/).
 
