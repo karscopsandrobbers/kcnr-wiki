@@ -47,6 +47,7 @@ Choose **For** (you, or your group) and a **Term** of 7, 14, 21 or 30 real days,
 yourself, two from reputation 3, and a group can hold three; each holder gets one slot per business. A lease runs
 whether you're online or not.
 
+- **You can't rob a business you or your group hold a slot at.**
 - **A group and its members can't both hold a slot at one business.** If your group holds one, you can't lease one
   yourself there, and if a member of your group already does, the group can't.
 - **A group's ranks decide who does what.** Leasing and renewing for the group needs the rank allowed to **lease
@@ -185,7 +186,7 @@ A hit business's holders are told what happened, never who did it.
 - **Who you can hit:** a business somebody holds, that you don't hold a slot in, and that isn't already burning. A shut
   club can't be Smashed or Robbed.
 - **Arson** costs the rival condition at once and more every minute it burns, and it burns out after 10 minutes if
-  nobody comes. The marked spots run along a car wash's lane or at the tills in a club. Pour petrol from a jerrycan until the orange markers turn green, **most of them**, then light
+  nobody comes. The marked spots run along a car wash's lane or along the bar in a club, on the customers' side. Pour petrol from a jerrycan until the orange markers turn green, **most of them**, then light
   it with a molotov or a flare. Molotovs and flares are on most Ammu-Nation shelves: see
   [Items and your pockets](../items/). The fire brigade is called and paid, a burning club shuts, nobody can pay for a
   wash while it burns, and the holders get a phone call from the manager when it's lit and when it's out. Each crew

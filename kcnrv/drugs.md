@@ -141,7 +141,7 @@ box back into loose product in the stash; `/unpack` on its own lists the boxes t
 
 `/lab` in a house you own shows what is fitted and what it can make. A **Kitchen** costs $8,000, a **Laboratory**
 $75,000 and a **Press** $25,000. A cook takes its inputs from the house's stash first, then from your pockets and a
-bag you're wearing; what it makes goes in the stash.
+bag you're wearing; what it makes goes in the stash, which is the **Stash** row on your house menu.
 
 | Cook | Needs fitted | Takes | Makes | On the clock |
 | --- | --- | --- | --- | --- |
