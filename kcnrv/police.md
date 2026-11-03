@@ -122,6 +122,11 @@ What you find is your choice, one find at a time or all of them: send it into ev
 **Booking what you carry.** Contraband in your own inventory, drugs you picked up or a crate in your arms, has **Book
 into evidence** on it: it goes, and the city pays its bounty as a frisk's booking does. Nobody is charged for it.
 
+**Searching a house.** **Enter House (duty)** at any door lets you in. If the owner is online and you have them wanted by
+name, <kbd>H</kbd> inside searches the house's stash. Stay in the house for the 10 seconds it takes: everything illegal or
+stolen in it is booked into evidence for you, and anything legal is left. A masked owner you have no name for, an
+offline one, or one who isn't wanted gives you no grounds. See [Houses](../houses/).
+
 **An arrest takes some of their rounds.** Arrest or take down a suspect and a quarter of every kind of ammo they carry is
 taken, booked to you as evidence. They keep their guns.
 
