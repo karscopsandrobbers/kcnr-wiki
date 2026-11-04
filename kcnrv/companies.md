@@ -99,8 +99,8 @@ A van out on a call is easier pickings than the depot:
   the first of them squares up with his fists, the rest fight or run, and the call is over.
 
 In the Bugstars overalls the crew take you for one of their own here too. Putting the firm's stock back into one of its
-own vans is giving it back, not loading a take: it only counts once you drive that van away, and the count on your
-screen doesn't move until you do. Your own vehicle counts as it goes in.
+own vans is giving it back, not loading a take: it only counts once you drive that van away. On your screen, **Taken**
+goes up with everything you grab, and **Loaded** and **Take** with what is in your own vehicle, or that van once it's away.
 
 ### Afterwards
 
